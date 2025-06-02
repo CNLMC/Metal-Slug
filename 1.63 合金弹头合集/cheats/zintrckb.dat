@@ -1,0 +1,90 @@
+[0]
+Name=选人时间
+0=Off
+1=开启,10B530,14
+
+[1]
+Name=对战时间
+0=Off
+1=开启,10C418,63
+
+[2]
+Name=ITEM 无限
+0=Off
+1=P1,10C443,01
+2=P2,10C4C3,01
+3=P1+P2,10C443,01,10C4C3,01
+
+[3]
+Name=P1 维持等级
+0=Off
+1=Level 1,10C453,00
+2=Level Max,10C453,13
+
+[4]
+Name=P2 维持等级
+0=Off
+1=Level 1,10C4D3,00
+2=Level Max,10C4D3,13
+
+[5]
+Name=P1 时间无限
+0=Off
+1=0,10C454,01
+2=18,10C454,12
+
+[6]
+Name=P2 时间无限
+0=Off
+1=0,10C4D4,01
+2=18,10C4D4,12
+
+[7]
+Name=P1 角色选择
+0=Off
+1=Subberg Hungneil,10B608,00
+2=Pukie,10B608,01
+3=Sheila Flay,10B608,02
+4=Reusha Fino (Elf),10B608,03
+5=Kaireen (Valkiree),10B608,04
+6=Hawk's Eye of Iga (Ninja),10B608,05
+7=Gimri (Troll),10B608,06
+8=Dark Sniper,10B608,07
+9=*Ryu Eagle,10B608,08
+10=*Fenril,10B608,09
+11=*Yormngand,10B608,0A
+12=*Roki,10B608,0B
+
+[8]
+Name=P2 角色选择
+0=Off
+1=Subberg Hungneil,10B648,00
+2=Pukie,10B648,01
+3=Sheila Flay,10B648,02
+4=Reusha Fino (Elf),10B648,03
+5=Kaireen (Valkiree),10B648,04
+6=Hawk's Eye of Iga (Ninja),10B648,05
+7=Gimri (Troll),10B648,06
+8=Dark Sniper,10B648,07
+9=*Ryu Eagle,10B648,08
+10=*Fenril,10B648,09
+11=*Yormngand,10B648,0A
+12=*Roki,10B648,0B
+
+[9]
+Name=P1 下两个球
+0=Off
+1=紫色,10C402,03,10C403,03
+2=绿色,10C402,08,10C403,08
+3=蓝色,10C402,15,10C403,15
+4=红色,10C402,23,10C403,23
+5=黄色,10C402,2D,10C403,2D
+
+[10]
+Name=P2 下两个球
+0=Off
+1=紫色,10C482,03,10C483,03
+2=绿色,10C482,08,10C483,08
+3=蓝色,10C482,15,10C483,15
+4=红色,10C482,23,10C483,23
+5=黄色,10C482,2D,10C483,2D

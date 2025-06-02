@@ -1,0 +1,212 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF80DA,00
+2=USA,FF80DA,01
+3=Asia,FF80DA,02
+4=Hispanic,FF80DA,03
+5=Brazil,FF80DA,04
+6=Euro,FF80DA,05
+
+[1]
+Name=时间无限
+0=Off
+1=开启,FF1E66,00
+
+[2]
+Name=P1 生命无限
+0=Off
+1=开启,FF96E2,04
+
+[3]
+Name=P1 体力无限*
+0=Off
+1=开启,FF95DC,50
+
+[4]
+Name=P1 弹药无限*
+0=Off
+1=40,FF95FB,41
+2=50,FF95FB,51
+3=60,FF95FB,61
+
+[5]
+Name=P1 角色无敌
+0=Off
+1=开启,FF9656,FE
+
+[6]
+Name=P1 角色选择
+0=Off
+1=Blodia,FF95DB,00,FF965D,00
+2=Reptos,FF95DB,01,FF965D,01
+3=Guldin,FF95DB,02,FF965D,02
+4=Fordy,FF95DB,03,FF965D,03
+
+[7]
+Name=P1 臂类型
+0=Off
+1=P. Knuckle,FF965F,00
+2=D. Drill,FF965F,01
+3=C. Spark,FF965F,02
+4=F. Claw,FF965F,03
+5=L. Blade,FF965F,04
+6=Shield,FF965F,05
+
+[8]
+Name=P1 肩武器
+0=Off
+1=Vulcan,FF965E,00
+2=Missile,FF965E,01
+3=Guided,FF965E,02
+4=Laser,FF965E,03
+5=Flame,FF965E,04
+6=Bomb,FF965E,05
+7=Napalm,FF965E,06
+
+[9]
+Name=P1 腿类型
+0=Off
+1=Normal,FF965C,00
+2=Treads,FF965C,01
+3=Power Bug,FF965C,02
+4=Turbo Jet,FF965C,03
+
+[10]
+Name=P2 生命无限
+0=Off
+1=开启,FF98A2,04
+
+[11]
+Name=P2 体力无限*
+0=Off
+1=开启,FF979C,50
+
+[12]
+Name=P2 弹药无限*
+0=Off
+1=40,FF97BB,41
+2=50,FF97BB,51
+3=60,FF97BB,61
+
+[13]
+Name=P2 角色无敌
+0=Off
+1=开启,FF9816,FE
+
+[14]
+Name=P2 角色选择
+0=Off
+1=Blodia,FF979B,00,FF985D,00
+2=Reptos,FF979B,01,FF985D,01
+3=Guldin,FF979B,02,FF985D,02
+4=Fordy,FF979B,03,FF985D,03
+
+[15]
+Name=P2 臂类型
+0=Off
+1=P. Knuckle,FF981F,00
+2=D. Drill,FF981F,01
+3=C. Spark,FF981F,02
+4=F. Claw,FF981F,03
+5=L. Blade,FF981F,04
+6=Shield,FF981F,05
+
+[16]
+Name=P2 肩武器
+0=Off
+1=Vulcan,FF981E,00
+2=Missile,FF981E,01
+3=Guided,FF981E,02
+4=Laser,FF981E,03
+5=Flame,FF981E,04
+6=Bomb,FF981E,05
+7=Napalm,FF981E,06
+
+[17]
+Name=P2 腿类型
+0=Off
+1=Normal,FF981C,00
+2=Treads,FF981C,01
+3=Power Bug,FF981C,02
+4=Turbo Jet,FF981C,03
+
+[18]
+Name=P3 生命无限
+0=Off
+1=开启,FF9A62,04
+
+[19]
+Name=P3 体力无限*
+0=Off
+1=开启,FF995C,50
+
+[20]
+Name=P3 弹药无限*
+0=Off
+1=40,FF99AB,41
+2=50,FF99AB,51
+3=60,FF99AB,61
+
+[21]
+Name=P3 角色无敌
+0=Off
+1=开启,FF99D6,FE
+
+[22]
+Name=P3 角色选择
+0=Off
+1=Blodia,FF994B,00,FF9A5D,00
+2=Reptos,FF994B,01,FF9A5D,01
+3=Guldin,FF994B,02,FF9A5D,02
+4=Fordy,FF994B,03,FF9A5D,03
+
+[23]
+Name=P3 臂类型
+0=Off
+1=P. Knuckle,FF99DF,00
+2=D. Drill,FF99DF,01
+3=C. Spark,FF99DF,02
+4=F. Claw,FF99DF,03
+5=L. Blade,FF99DF,04
+6=Shield,FF99DF,05
+
+[24]
+Name=P3 肩武器
+0=Off
+1=Vulcan,FF99DE,00
+2=Missile,FF99DE,01
+3=Guided,FF99DE,02
+4=Laser,FF99DE,03
+5=Flame,FF99DE,04
+6=Bomb,FF99DE,05
+7=Napalm,FF99DE,06
+
+[25]
+Name=P3 腿类型
+0=Off
+1=Normal,FF99DC,00
+2=Treads,FF99DC,01
+3=Power Bug,FF99DC,02
+4=Turbo Jet,FF99DC,03
+
+[26]
+Name=无限组合时间
+0=Off
+1=开启,FF1E92,99
+
+[27]
+Name=得到组合项目
+0=Off
+1=开启,FFF74E,01
+
+[28]
+Name=关卡选择
+0=Off
+1=第一关,FF81D1,00
+2=第二关,FF81D1,01
+3=第叁关,FF81D1,02
+4=第四关,FF81D1,03
+5=第五关,FF81D1,04
+6=第六关,FF81D1,05
+7=第七关,FF81D1,06

@@ -1,0 +1,86 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF80A0,00
+2=USA,FF80A0,02
+3=Hispanic,FF80A0,04
+4=Oceania,FF80A0,06
+5=Asia,FF80A0,08
+6=Euro,FF80A0,0A
+7=Brazil,FF80A0,0C
+
+[1]
+Name=时间无限
+0=Off
+1=开启,FF8109,63,FF8108,3C
+
+[2]
+Name=泡泡停止
+0=Off
+1=开启,FF810A,02
+
+[3]
+Name=P1 生命无限
+0=Off
+1=开启,FF8127,09
+
+[4]
+Name=P1 有防护罩
+0=Off
+1=开启,FFA502,01
+
+[5]
+Name=P1 角色无敌
+0=Off
+1=开启,FFA503,01
+
+[6]
+Name=P1 武器选择
+0=Off
+1=Single Shot,FFA50D,04
+2=Double Shot,FFA50D,00
+3=Sticky Shot,FFA50D,01
+4=Laser Gun,FFA50D,02
+
+[7]
+Name=P1 射击无间隔
+0=Off
+1=开启,FFA510,00
+
+[8]
+Name=P1 硬币分数最大
+0=Off
+1=开启,FFA505,08
+
+[9]
+Name=P2 生命无限
+0=Off
+1=开启,FF8126,09
+
+[10]
+Name=P2 有防护罩
+0=Off
+1=开启,FFA5C2,01
+
+[11]
+Name=P2 角色无敌
+0=Off
+1=开启,FFA5C3,01
+
+[12]
+Name=P2 武器选择
+0=Off
+1=Single Shot,FFA5CD,04
+2=Double Shot,FFA5CD,00
+3=Sticky Shot,FFA5CD,01
+4=Laser Gun,FFA5CD,02
+
+[13]
+Name=P2 射击无间隔
+0=Off
+1=开启,FFA5D0,00
+
+[14]
+Name=P2 硬币分数最大
+0=Off
+1=开启,FFA5C5,08

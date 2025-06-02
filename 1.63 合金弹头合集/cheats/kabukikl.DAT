@@ -1,0 +1,72 @@
+[0]
+Name=P1 角色选择
+0=Off
+1=Manjimaru,1050B9,00
+2=Gokuraku,1050B9,01
+3=Tsunade,1050B9,02
+4=Orochimaru,1050B9,03
+5=Yagumo,1050B9,04
+6=Ziria,1050B9,05
+7=Kabuki,1050B9,06
+8=Kinu,1050B9,07
+9=*Manto,1050B9,08
+10=*Karakuri,1050B9,09
+11=*Jyashinsai,1050B9,0A
+12=*Lucifeller,1050B9,0B
+
+[1]
+Name=P2 角色选择
+0=Off
+1=Manjimaru,1050B8,00
+2=Gokuraku,1050B8,01
+3=Tsunade,1050B8,02
+4=Orochimaru,1050B8,03
+5=Yagumo,1050B8,04
+6=Ziria,1050B8,05
+7=Kabuki,1050B8,06
+8=Kinu,1050B8,07
+9=*Manto,1050B8,08
+10=*Karakuri,1050B8,09
+11=*Jyashinsai,1050B8,0俙
+12=*Lucifeller,1050B8,0B
+
+[2]
+Name=时间无限 (Unperfect)
+0=Off
+1=开启,103817,99,103917,99,103A17,99,103B17,99
+
+[3]
+Name=体力无限 (1st Round Only)
+0=Off
+1=P1,101157,64
+2=P2,101257,64
+3=P1+P2,101057,64,101257,64
+
+[4]
+Name=Magic 无限 (1st/2nd Round Only)
+0=Off
+1=P1,10106F,3C,10306F,3C
+2=P2,10126F,3C,10326F,3C
+3=P1+P2,10106F,3C,10306F,3C,10126F,3C,10326F,3C
+
+[5]
+Name=P1 武器装备 (1st Round Only)
+0=Off
+1=丢弃,101030,00
+2=装备,101030,01
+
+[6]
+Name=动作加快 (1st Round Only)
+0=Off
+1=P1,1010BC,00
+
+[7]
+Name=挑战 Boss
+0=Off
+1=关闭,10E000,00
+2=开启,10E000,04
+
+[8]
+Name=结局画面
+0=Off
+1=开启,10E000,0C

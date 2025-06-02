@@ -1,0 +1,969 @@
+[0]
+Name=角色解锁
+0=Off
+1=开启 (选择角色可选稳藏人物),10E285,05
+2=----------------备注----------------
+3=零|援助要控制码请用角色选择
+
+[1]
+Name=选人时间
+0=Off
+1=15秒 (选完解锁),101579,15,101D79,15
+
+[2]
+Name=对战时间
+0=Off
+1=00秒,10A7D3,00
+2=60秒,10A7D3,60
+
+[3]
+Name=P1 血槽
+0=Off
+1=无血,108238,00
+2=红血,108238,15
+3=满血,108238,66
+
+[4]
+Name=P2 血槽
+0=Off
+1=无血,108438,00
+2=红血,108438,15
+3=满血,108438,66
+
+[5]
+Name=P1 气力槽
+0=Off
+1=0,1081E9,00,1082E2,00
+2=1,1081E9,00,1082E2,01
+3=2,1081E9,00,1082E2,02
+4=3,1081E9,00,1082E2,03
+5=4,1081E9,00,1082E2,04
+6=5,1081E9,00,1082E2,05
+
+[6]
+Name=P2 气力槽
+0=Off
+1=0,1083E9,00,1084E2,00
+2=1,1083E9,00,1084E2,01
+3=2,1083E9,00,1084E2,02
+4=3,1083E9,00,1084E2,03
+5=4,1083E9,00,1084E2,04
+6=5,1083E9,00,1084E2,05
+
+[7]
+Name=P1 角色 1 选择
+0=Off
+1=K',10A7EF,00
+2=迈克斯 | Maxima,10A7EF,01
+3=薇普 | Whip,10A7EF,02
+4=麟 | Lin,10A7EF,03
+5=草剃京 | Kyo Kusanagi,10A7EF,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7EF,05
+7=大门五郎 | Goro Daimon,10A7EF,06
+8=矢吹真吾 | Shingo Yabuki,10A7EF,07
+9=八神庵 | Iori Yagami,10A7EF,08
+10=凡妮莎 | Vanessa,10A7EF,09
+11=赛斯 | Seth,10A7EF,0A
+12=雷蒙 | Ramon,10A7EF,0B
+13=蕾欧娜 | Leona,10A7EF,0C
+14=拉尔夫 | Ralf,10A7EF,0D
+15=克拉克 | Clark,10A7EF,0E
+16=海迪伦 | Heidern,10A7EF,0F
+17=泰瑞柏格 | Terry Bogard,10A7EF,10
+18=安迪柏格 | Andy Bogard,10A7EF,11
+19=东丈 | Joe Higashi,10A7EF,12
+20=布鲁玛莉 | Blue Mary,10A7EF,13
+21=阪崎良 | Ryo Sakazaki,10A7EF,14
+22=罗伯特 | Robert Garcia,10A7EF,15
+23=阪崎百合 | Yuri Sakazaki,10A7EF,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7EF,17
+25=金 | King,10A7EF,18
+26=不知火舞 | Mai Shiranui,10A7EF,19
+27=四条雏子 | Hinako,10A7EF,1A
+28=李香绯 | Li Xiangfei,10A7EF,1B
+29=可娜 | kula,10A7EF,1C
+30=Foxy,10A7EF,1D
+31=K9999,10A7EF,1E
+32=安赫尔 | Angel,10A7EF,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7EF,20
+34=椎拳崇 | Sie Kensou,10A7EF,21
+35=镇元斋 | Chin Gentsai,10A7EF,22
+36=包 | Bao,10A7EF,23
+37=金卡法 | Kim Kaphwan,10A7EF,24
+38=陈可汉 | Chang Koehan,10A7EF,25
+39=邱丰凯 | Choi Bounge,10A7EF,26
+40=李梅 | May Lee,10A7EF,27
+41=*零 | Zero,10A7EF,28,10A7F9,28,10A7F8,28,10A7FB,28,10A7FD,00,10A7FC,00,10A7FF,00
+42=*伊格尼斯 | Igniz,10A7EF,29
+43=#零 (选择角色时用),10A7E7,28,10A7F9,28,10A7F8,28,10A7FB,28,10A7FD,00,10A7FC,00,10A7FF,00
+44=#伊格尼斯 (选择角色时用),10A7E7,29
+
+[8]
+Name=P1 角色 2 选择
+0=Off
+1=K',10A7EE,00
+2=迈克斯 | Maxima,10A7EE,01
+3=薇普 | Whip,10A7EE,02
+4=麟 | Lin,10A7EE,03
+5=草剃京 | Kyo Kusanagi,10A7EE,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7EE,05
+7=大门五郎 | Goro Daimon,10A7EE,06
+8=矢吹真吾 | Shingo Yabuki,10A7EE,07
+9=八神庵 | Iori Yagami,10A7EE,08
+10=凡妮莎 | Vanessa,10A7EE,09
+11=赛斯 | Seth,10A7EE,0A
+12=雷蒙 | Ramon,10A7EE,0B
+13=蕾欧娜 | Leona,10A7EE,0C
+14=拉尔夫 | Ralf,10A7EE,0D
+15=克拉克 | Clark,10A7EE,0E
+16=海迪伦 | Heidern,10A7EE,0F
+17=泰瑞柏格 | Terry Bogard,10A7EE,10
+18=安迪柏格 | Andy Bogard,10A7EE,11
+19=东丈 | Joe Higashi,10A7EE,12
+20=布鲁玛莉 | Blue Mary,10A7EE,13
+21=阪崎良 | Ryo Sakazaki,10A7EE,14
+22=罗伯特 | Robert Garcia,10A7EE,15
+23=阪崎百合 | Yuri Sakazaki,10A7EE,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7EE,17
+25=金 | King,10A7EE,18
+26=不知火舞 | Mai Shiranui,10A7EE,19
+27=四条雏子 | Hinako,10A7EE,1A
+28=李香绯 | Li Xiangfei,10A7EE,1B
+29=可娜 | kula,10A7EE,1C
+30=FOXY,10A7EE,1D
+31=K9999,10A7EE,1E
+32=安赫尔 | Angel,10A7EE,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7EE,20
+34=椎拳崇 | Sie Kensou,10A7EE,21
+35=镇元斋 | Chin Gentsai,10A7EE,22
+36=包 | Bao,10A7EE,23
+37=金卡法 | Kim Kaphwan,10A7EE,24
+38=陈可汉 | Chang Koehan,10A7EE,25
+39=邱丰凯 | Choi Bounge,10A7EE,26
+40=李梅 | May Lee,10A7EE,27
+41=*伊格尼斯 | Igniz,10A7EE,29
+42=#零 (选择角色时用),10A7E6,28,10A7F9,28,10A7F8,28,10A7FB,28,10A7FD,00,10A7FC,00,10A7FF,00
+43=#伊格尼斯 (选择角色时用),10A7E6,29
+
+[9]
+Name=P1 角色 3 选择
+0=Off
+1=K',10A7F1,00
+2=迈克斯 | Maxima,10A7F1,01
+3=薇普 | Whip,10A7F1,02
+4=麟 | Lin,10A7F1,03
+5=草剃京 | Kyo Kusanagi,10A7F1,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7F1,05
+7=大门五郎 | Goro Daimon,10A7F1,06
+8=矢吹真吾 | Shingo Yabuki,10A7F1,07
+9=八神庵 | Iori Yagami,10A7F1,08
+10=凡妮莎 | Vanessa,10A7F1,09
+11=赛斯 | Seth,10A7F1,0A
+12=雷蒙 | Ramon,10A7F1,0B
+13=蕾欧娜 | Leona,10A7F1,0C
+14=拉尔夫 | Ralf,10A7F1,0D
+15=克拉克 | Clark,10A7F1,0E
+16=海迪伦 | Heidern,10A7F1,0F
+17=泰瑞柏格 | Terry Bogard,10A7F1,10
+18=安迪柏格 | Andy Bogard,10A7F1,11
+19=东丈 | Joe Higashi,10A7F1,12
+20=布鲁玛莉 | Blue Mary,10A7F1,13
+21=阪崎良 | Ryo Sakazaki,10A7F1,14
+22=罗伯特 | Robert Garcia,10A7F1,15
+23=阪崎百合 | Yuri Sakazaki,10A7F1,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7F1,17
+25=金 | King,10A7F1,18
+26=不知火舞 | Mai Shiranui,10A7F1,19
+27=四条雏子 | Hinako,10A7F1,1A
+28=李香绯 | Li Xiangfei,10A7F1,1B
+29=可娜 | kula,10A7F1,1C
+30=FOXY,10A7F1,1D
+31=K9999,10A7F1,1E
+32=安赫尔 | Angel,10A7F1,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7F1,20
+34=椎拳崇 | Sie Kensou,10A7F1,21
+35=镇元斋 | Chin Gentsai,10A7F1,22
+36=包 | Bao,10A7F1,23
+37=金卡法 | Kim Kaphwan,10A7F1,24
+38=陈可汉 | Chang Koehan,10A7F1,25
+39=邱丰凯 | Choi Bounge,10A7F1,26
+40=李梅 | May Lee,10A7F1,27
+41=*伊格尼斯 | Igniz,10A7F1,29
+42=#零 (选择角色时用),10A7E9,28,10A7F9,28,10A7F8,28,10A7FB,28,10A7FD,00,10A7FC,00,10A7FF,00
+43=#伊格尼斯 (选择角色时用),10A7E9,29
+
+[10]
+Name=P1 角色 4 选择
+0=Off
+1=K',10A7F0,00
+2=迈克斯 | Maxima,10A7F0,01
+3=薇普 | Whip,10A7F0,02
+4=麟 | Lin,10A7F0,03
+5=草剃京 | Kyo Kusanagi,10A7F0,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7F0,05
+7=大门五郎 | Goro Daimon,10A7F0,06
+8=矢吹真吾 | Shingo Yabuki,10A7F0,07
+9=八神庵 | Iori Yagami,10A7F0,08
+10=凡妮莎 | Vanessa,10A7F0,09
+11=赛斯 | Seth,10A7F0,0A
+12=雷蒙 | Ramon,10A7F0,0B
+13=蕾欧娜 | Leona,10A7F0,0C
+14=拉尔夫 | Ralf,10A7F0,0D
+15=克拉克 | Clark,10A7F0,0E
+16=海迪伦 | Heidern,10A7F0,0F
+17=泰瑞柏格 | Terry Bogard,10A7F0,10
+18=安迪柏格 | Andy Bogard,10A7F0,11
+19=东丈 | Joe Higashi,10A7F0,12
+20=布鲁玛莉 | Blue Mary,10A7F0,13
+21=阪崎良 | Ryo Sakazaki,10A7F0,14
+22=罗伯特 | Robert Garcia,10A7F0,15
+23=阪崎百合 | Yuri Sakazaki,10A7F0,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7F0,17
+25=金 | King,10A7F0,18
+26=不知火舞 | Mai Shiranui,10A7F0,19
+27=四条雏子 | Hinako,10A7F0,1A
+28=李香绯 | Li Xiangfei,10A7F0,1B
+29=可娜 | kula,10A7F0,1C
+30=FOXY,10A7F0,1D
+31=K9999,10A7F0,1E
+32=安赫尔 | Angel,10A7F0,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7F0,20
+34=椎拳崇 | Sie Kensou,10A7F0,21
+35=镇元斋 | Chin Gentsai,10A7F0,22
+36=包 | Bao,10A7F0,23
+37=金卡法 | Kim Kaphwan,10A7F0,24
+38=陈可汉 | Chang Koehan,10A7F0,25
+39=邱丰凯 | Choi Bounge,10A7F0,26
+40=李梅 | May Lee,10A7F0,27
+41=*伊格尼斯 | Igniz,10A7F0,29
+42=#零 (选择角色时用),10A7E8,28,10A7F9,28,10A7F8,28,10A7FB,28,10A7FD,00,10A7FC,00,10A7FF,00
+43=#伊格尼斯 (选择角色时用),10A7E8,29
+
+[11]
+Name=P2 角色 1 选择
+0=Off
+1=K',10A815,00
+2=迈克斯 | Maxima,10A815,01
+3=薇普 | Whip,10A815,02
+4=麟 | Lin,10A815,03
+5=草剃京 | Kyo Kusanagi,10A815,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A815,05
+7=大门五郎 | Goro Daimon,10A815,06
+8=矢吹真吾 | Shingo Yabuki,10A815,07
+9=八神庵 | Iori Yagami,10A815,08
+10=凡妮莎 | Vanessa,10A815,09
+11=赛斯 | Seth,10A815,0A
+12=雷蒙 | Ramon,10A815,0B
+13=蕾欧娜 | Leona,10A815,0C
+14=拉尔夫 | Ralf,10A815,0D
+15=克拉克 | Clark,10A815,0E
+16=海迪伦 | Heidern,10A815,0F
+17=泰瑞柏格 | Terry Bogard,10A815,10
+18=安迪柏格 | Andy Bogard,10A815,11
+19=东丈 | Joe Higashi,10A815,12
+20=布鲁玛莉 | Blue Mary,10A815,13
+21=阪崎良 | Ryo Sakazaki,10A815,14
+22=罗伯特 | Robert Garcia,10A815,15
+23=阪崎百合 | Yuri Sakazaki,10A815,16
+24=阪崎琢磨 | Takuma Sakazaki,10A815,17
+25=金 | King,10A815,18
+26=不知火舞 | Mai Shiranui,10A815,19
+27=四条雏子 | Hinako,10A815,1A
+28=李香绯 | Li Xiangfei,10A815,1B
+29=可娜 | kula,10A815,1C
+30=FOXY,10A815,1D
+31=K9999,10A815,1E
+32=安赫尔 | Angel,10A815,1F
+33=麻宫雅典娜 | Atena Asamiya,10A815,20
+34=椎拳崇 | Sie Kensou,10A815,21
+35=镇元斋 | Chin Gentsai,10A815,22
+36=包 | Bao,10A815,23
+37=金卡法 | Kim Kaphwan,10A815,24
+38=陈可汉 | Chang Koehan,10A815,25
+39=邱丰凯 | Choi Bounge,10A815,26
+40=李梅 | May Lee,10A815,27
+41=*零 | Zero,10A815,28,10A81F,28,10A81E,28,10A821,28,10A823,00,10A822,00,10A825,00
+42=*伊格尼斯 | Igniz,10A815,29
+43=#零 (选择角色时用),10A80D,28,10A81F,28,10A81E,28,10A821,28,10A823,00,10A822,00,10A825,00
+44=#伊格尼斯 (选择角色时用),10A80D,29
+
+[12]
+Name=P2 角色 2 选择
+0=Off
+1=K',10A814,00
+2=迈克斯 | Maxima,10A814,01
+3=薇普 | Whip,10A814,02
+4=麟 | Lin,10A814,03
+5=草剃京 | Kyo Kusanagi,10A814,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A814,05
+7=大门五郎 | Goro Daimon,10A814,06
+8=矢吹真吾 | Shingo Yabuki,10A814,07
+9=八神庵 | Iori Yagami,10A814,08
+10=凡妮莎 | Vanessa,10A814,09
+11=赛斯 | Seth,10A814,0A
+12=雷蒙 | Ramon,10A814,0B
+13=蕾欧娜 | Leona,10A814,0C
+14=拉尔夫 | Ralf,10A814,0D
+15=克拉克 | Clark,10A814,0E
+16=海迪伦 | Heidern,10A814,0F
+17=泰瑞柏格 | Terry Bogard,10A814,10
+18=安迪柏格 | Andy Bogard,10A814,11
+19=东丈 | Joe Higashi,10A814,12
+20=布鲁玛莉 | Blue Mary,10A814,13
+21=阪崎良 | Ryo Sakazaki,10A814,14
+22=罗伯特 | Robert Garcia,10A814,15
+23=阪崎百合 | Yuri Sakazaki,10A814,16
+24=阪崎琢磨 | Takuma Sakazaki,10A814,17
+25=金 | King,10A814,18
+26=不知火舞 | Mai Shiranui,10A814,19
+27=四条雏子 | Hinako,10A814,1A
+28=李香绯 | Li Xiangfei,10A814,1B
+29=可娜 | kula,10A814,1C
+30=FOXY,10A814,1D
+31=K9999,10A814,1E
+32=安赫尔 | Angel,10A814,1F
+33=麻宫雅典娜 | Atena Asamiya,10A814,20
+34=椎拳崇 | Sie Kensou,10A814,21
+35=镇元斋 | Chin Gentsai,10A814,22
+36=包 | Bao,10A814,23
+37=金卡法 | Kim Kaphwan,10A814,24
+38=陈可汉 | Chang Koehan,10A814,25
+39=邱丰凯 | Choi Bounge,10A814,26
+40=李梅 | May Lee,10A814,27
+41=*伊格尼斯 | Igniz,10A814,29
+42=#零 (选择角色时用),10A80C,28,10A81F,28,10A81E,28,10A821,28,10A823,00,10A822,00,10A825,00
+43=#伊格尼斯 (选择角色时用),10A80C,29
+
+[13]
+Name=P2 角色 3 选择
+0=Off
+1=K',10A817,00
+2=迈克斯 | Maxima,10A817,01
+3=薇普 | Whip,10A817,02
+4=麟 | Lin,10A817,03
+5=草剃京 | Kyo Kusanagi,10A817,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A817,05
+7=大门五郎 | Goro Daimon,10A817,06
+8=矢吹真吾 | Shingo Yabuki,10A817,07
+9=八神庵 | Iori Yagami,10A817,08
+10=凡妮莎 | Vanessa,10A817,09
+11=赛斯 | Seth,10A817,0A
+12=雷蒙 | Ramon,10A817,0B
+13=蕾欧娜 | Leona,10A817,0C
+14=拉尔夫 | Ralf,10A817,0D
+15=克拉克 | Clark,10A817,0E
+16=海迪伦 | Heidern,10A817,0F
+17=泰瑞柏格 | Terry Bogard,10A817,10
+18=安迪柏格 | Andy Bogard,10A817,11
+19=东丈 | Joe Higashi,10A817,12
+20=布鲁玛莉 | Blue Mary,10A817,13
+21=阪崎良 | Ryo Sakazaki,10A817,14
+22=罗伯特 | Robert Garcia,10A817,15
+23=阪崎百合 | Yuri Sakazaki,10A817,16
+24=阪崎琢磨 | Takuma Sakazaki,10A817,17
+25=金 | King,10A817,18
+26=不知火舞 | Mai Shiranui,10A817,19
+27=四条雏子 | Hinako,10A817,1A
+28=李香绯 | Li Xiangfei,10A817,1B
+29=可娜 | kula,10A817,1C
+30=FOXY,10A817,1D
+31=K9999,10A817,1E
+32=安赫尔 | Angel,10A817,1F
+33=麻宫雅典娜 | Atena Asamiya,10A817,20
+34=椎拳崇 | Sie Kensou,10A817,21
+35=镇元斋 | Chin Gentsai,10A817,22
+36=包 | Bao,10A817,23
+37=金卡法 | Kim Kaphwan,10A817,24
+38=陈可汉 | Chang Koehan,10A817,25
+39=邱丰凯 | Choi Bounge,10A817,26
+40=李梅 | May Lee,10A817,27
+41=*伊格尼斯 | Igniz,10A817,29
+42=#零 (选择角色时用),10A80F,28,10A81F,28,10A81E,28,10A821,28,10A823,00,10A822,00,10A825,00
+43=#伊格尼斯 (选择角色时用),10A80F,29
+
+[14]
+Name=P2 角色 4 选择
+0=Off
+1=K',10A816,00
+2=迈克斯 | Maxima,10A816,01
+3=薇普 | Whip,10A816,02
+4=麟 | Lin,10A816,03
+5=草剃京 | Kyo Kusanagi,10A816,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A816,05
+7=大门五郎 | Goro Daimon,10A816,06
+8=矢吹真吾 | Shingo Yabuki,10A816,07
+9=八神庵 | Iori Yagami,10A816,08
+10=凡妮莎 | Vanessa,10A816,09
+11=赛斯 | Seth,10A816,0A
+12=雷蒙 | Ramon,10A816,0B
+13=蕾欧娜 | Leona,10A816,0C
+14=拉尔夫 | Ralf,10A816,0D
+15=克拉克 | Clark,10A816,0E
+16=海迪伦 | Heidern,10A816,0F
+17=泰瑞柏格 | Terry Bogard,10A816,10
+18=安迪柏格 | Andy Bogard,10A816,11
+19=东丈 | Joe Higashi,10A816,12
+20=布鲁玛莉 | Blue Mary,10A816,13
+21=阪崎良 | Ryo Sakazaki,10A816,14
+22=罗伯特 | Robert Garcia,10A816,15
+23=阪崎百合 | Yuri Sakazaki,10A816,16
+24=阪崎琢磨 | Takuma Sakazaki,10A816,17
+25=金 | King,10A816,18
+26=不知火舞 | Mai Shiranui,10A816,19
+27=四条雏子 | Hinako,10A816,1A
+28=李香绯 | Li Xiangfei,10A816,1B
+29=可娜 | kula,10A816,1C
+30=FOXY,10A816,1D
+31=K9999,10A816,1E
+32=安赫尔 | Angel,10A816,1F
+33=麻宫雅典娜 | Atena Asamiya,10A816,20
+34=椎拳崇 | Sie Kensou,10A816,21
+35=镇元斋 | Chin Gentsai,10A816,22
+36=包 | Bao,10A816,23
+37=金卡法 | Kim Kaphwan,10A816,24
+38=陈可汉 | Chang Koehan,10A816,25
+39=邱丰凯 | Choi Bounge,10A816,26
+40=李梅 | May Lee,10A816,27
+41=*伊格尼斯 | Igniz,10A816,29
+42=#零 (选择角色时用),10A80E,28,10A81F,28,10A81E,28,10A821,28,10A823,00,10A822,00,10A825,00
+43=#伊格尼斯 (选择角色时用),10A80E,29
+
+[15]
+Name=P1 援助 1 选择
+0=Off
+1=K',10A7F9,00
+2=迈克斯 | Maxima,10A7F9,01
+3=薇普 | Whip,10A7F9,02
+4=麟 | Lin,10A7F9,03
+5=草剃京 | Kyo Kusanagi,10A7F9,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7F9,05
+7=大门五郎 | Goro Daimon,10A7F9,06
+8=矢吹真吾 | Shingo Yabuki,10A7F9,07
+9=八神庵 | Iori Yagami,10A7F9,08
+10=凡妮莎 | Vanessa,10A7F9,09
+11=赛斯 | Seth,10A7F9,0A
+12=雷蒙 | Ramon,10A7F9,0B
+13=蕾欧娜 | Leona,10A7F9,0C
+14=拉尔夫 | Ralf,10A7F9,0D
+15=克拉克 | Clark,10A7F9,0E
+16=海迪伦 | Heidern,10A7F9,0F
+17=泰瑞柏格 | Terry Bogard,10A7F9,10
+18=安迪柏格 | Andy Bogard,10A7F9,11
+19=东丈 | Joe Higashi,10A7F9,12
+20=布鲁玛莉 | Blue Mary,10A7F9,13
+21=阪崎良 | Ryo Sakazaki,10A7F9,14
+22=罗伯特 | Robert Garcia,10A7F9,15
+23=阪崎百合 | Yuri Sakazaki,10A7F9,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7F9,17
+25=金 | King,10A7F9,18
+26=不知火舞 | Mai Shiranui,10A7F9,19
+27=四条雏子 | Hinako,10A7F9,1A
+28=李香绯 | Li Xiangfei,10A7F9,1B
+29=可娜 | kula,10A7F9,1C
+30=FOXY,10A7F9,1D
+31=K9999,10A7F9,1E
+32=安赫尔 | Angel,10A7F9,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7F9,20
+34=椎拳崇 | Sie Kensou,10A7F9,21
+35=镇元斋 | Chin Gentsai,10A7F9,22
+36=包 | Bao,10A7F9,23
+37=金卡法 | Kim Kaphwan,10A7F9,24
+38=陈可汉 | Chang Koehan,10A7F9,25
+39=邱丰凯 | Choi Bounge,10A7F9,26
+40=李梅 | May Lee,10A7F9,27
+41=*零 | Zero,10A7F9,28
+42=*伊格尼斯 | Igniz,10A7F9,29
+
+[16]
+Name=P1 援助 2 选择
+0=Off
+1=K',10A7F8,00
+2=迈克斯 | Maxima,10A7F8,01
+3=薇普 | Whip,10A7F8,02
+4=麟 | Lin,10A7F8,03
+5=草剃京 | Kyo Kusanagi,10A7F8,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7F8,05
+7=大门五郎 | Goro Daimon,10A7F8,06
+8=矢吹真吾 | Shingo Yabuki,10A7F8,07
+9=八神庵 | Iori Yagami,10A7F8,08
+10=凡妮莎 | Vanessa,10A7F8,09
+11=赛斯 | Seth,10A7F8,0A
+12=雷蒙 | Ramon,10A7F8,0B
+13=蕾欧娜 | Leona,10A7F8,0C
+14=拉尔夫 | Ralf,10A7F8,0D
+15=克拉克 | Clark,10A7F8,0E
+16=海迪伦 | Heidern,10A7F8,0F
+17=泰瑞柏格 | Terry Bogard,10A7F8,10
+18=安迪柏格 | Andy Bogard,10A7F8,11
+19=东丈 | Joe Higashi,10A7F8,12
+20=布鲁玛莉 | Blue Mary,10A7F8,13
+21=阪崎良 | Ryo Sakazaki,10A7F8,14
+22=罗伯特 | Robert Garcia,10A7F8,15
+23=阪崎百合 | Yuri Sakazaki,10A7F8,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7F8,17
+25=金 | King,10A7F8,18
+26=不知火舞 | Mai Shiranui,10A7F8,19
+27=四条雏子 | Hinako,10A7F8,1A
+28=李香绯 | Li Xiangfei,10A7F8,1B
+29=可娜 | kula,10A7F8,1C
+30=FOXY,10A7F8,1D
+31=K9999,10A7F8,1E
+32=安赫尔 | Angel,10A7F8,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7F8,20
+34=椎拳崇 | Sie Kensou,10A7F8,21
+35=镇元斋 | Chin Gentsai,10A7F8,22
+36=包 | Bao,10A7F8,23
+37=金卡法 | Kim Kaphwan,10A7F8,24
+38=陈可汉 | Chang Koehan,10A7F8,25
+39=邱丰凯 | Choi Bounge,10A7F8,26
+40=李梅 | May Lee,10A7F8,27
+41=*零 | Zero,10A7F8,28
+42=*伊格尼斯 | Igniz,10A7F8,29
+
+[17]
+Name=P1 援助 3 选择
+0=Off
+1=K',10A7FB,00
+2=迈克斯 | Maxima,10A7FB,01
+3=薇普 | Whip,10A7FB,02
+4=麟 | Lin,10A7FB,03
+5=草剃京 | Kyo Kusanagi,10A7FB,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A7FB,05
+7=大门五郎 | Goro Daimon,10A7FB,06
+8=矢吹真吾 | Shingo Yabuki,10A7FB,07
+9=八神庵 | Iori Yagami,10A7FB,08
+10=凡妮莎 | Vanessa,10A7FB,09
+11=赛斯 | Seth,10A7FB,0A
+12=雷蒙 | Ramon,10A7FB,0B
+13=蕾欧娜 | Leona,10A7FB,0C
+14=拉尔夫 | Ralf,10A7FB,0D
+15=克拉克 | Clark,10A7FB,0E
+16=海迪伦 | Heidern,10A7FB,0F
+17=泰瑞柏格 | Terry Bogard,10A7FB,10
+18=安迪柏格 | Andy Bogard,10A7FB,11
+19=东丈 | Joe Higashi,10A7FB,12
+20=布鲁玛莉 | Blue Mary,10A7FB,13
+21=阪崎良 | Ryo Sakazaki,10A7FB,14
+22=罗伯特 | Robert Garcia,10A7FB,15
+23=阪崎百合 | Yuri Sakazaki,10A7FB,16
+24=阪崎琢磨 | Takuma Sakazaki,10A7FB,17
+25=金 | King,10A7FB,18
+26=不知火舞 | Mai Shiranui,10A7FB,19
+27=四条雏子 | Hinako,10A7FB,1A
+28=李香绯 | Li Xiangfei,10A7FB,1B
+29=可娜 | kula,10A7FB,1C
+30=FOXY,10A7FB,1D
+31=K9999,10A7FB,1E
+32=安赫尔 | Angel,10A7FB,1F
+33=麻宫雅典娜 | Atena Asamiya,10A7FB,20
+34=椎拳崇 | Sie Kensou,10A7FB,21
+35=镇元斋 | Chin Gentsai,10A7FB,22
+36=包 | Bao,10A7FB,23
+37=金卡法 | Kim Kaphwan,10A7FB,24
+38=陈可汉 | Chang Koehan,10A7FB,25
+39=邱丰凯 | Choi Bounge,10A7FB,26
+40=李梅 | May Lee,10A7FB,27
+41=*零 | Zero,10A7FB,28
+42=*伊格尼斯 | Igniz,10A7FB,29
+
+[18]
+Name=P2 援助 1 选择
+0=Off
+1=K',10A81F,00
+2=迈克斯 | Maxima,10A81F,01
+3=薇普 | Whip,10A81F,02
+4=麟 | Lin,10A81F,03
+5=草剃京 | Kyo Kusanagi,10A81F,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A81F,05
+7=大门五郎 | Goro Daimon,10A81F,06
+8=矢吹真吾 | Shingo Yabuki,10A81F,07
+9=八神庵 | Iori Yagami,10A81F,08
+10=凡妮莎 | Vanessa,10A81F,09
+11=赛斯 | Seth,10A81F,0A
+12=雷蒙 | Ramon,10A81F,0B
+13=蕾欧娜 | Leona,10A81F,0C
+14=拉尔夫 | Ralf,10A81F,0D
+15=克拉克 | Clark,10A81F,0E
+16=海迪伦 | Heidern,10A81F,0F
+17=泰瑞柏格 | Terry Bogard,10A81F,10
+18=安迪柏格 | Andy Bogard,10A81F,11
+19=东丈 | Joe Higashi,10A81F,12
+20=布鲁玛莉 | Blue Mary,10A81F,13
+21=阪崎良 | Ryo Sakazaki,10A81F,14
+22=罗伯特 | Robert Garcia,10A81F,15
+23=阪崎百合 | Yuri Sakazaki,10A81F,16
+24=阪崎琢磨 | Takuma Sakazaki,10A81F,17
+25=金 | King,10A81F,18
+26=不知火舞 | Mai Shiranui,10A81F,19
+27=四条雏子 | Hinako,10A81F,1A
+28=李香绯 | Li Xiangfei,10A81F,1B
+29=可娜 | kula,10A81F,1C
+30=FOXY,10A81F,1D
+31=K9999,10A81F,1E
+32=安赫尔 | Angel,10A81F,1F
+33=麻宫雅典娜 | Atena Asamiya,10A81F,20
+34=椎拳崇 | Sie Kensou,10A81F,21
+35=镇元斋 | Chin Gentsai,10A81F,22
+36=包 | Bao,10A81F,23
+37=金卡法 | Kim Kaphwan,10A81F,24
+38=陈可汉 | Chang Koehan,10A81F,25
+39=邱丰凯 | Choi Bounge,10A81F,26
+40=李梅 | May Lee,10A81F,27
+41=*零 | Zero,10A81F,28
+42=*伊格尼斯 | Igniz,10A81F,29
+
+[19]
+Name=P2 援助 2 选择
+0=Off
+1=K',10A81E,00
+2=迈克斯 | Maxima,10A81E,01
+3=薇普 | Whip,10A81E,02
+4=麟 | Lin,10A81E,03
+5=草剃京 | Kyo Kusanagi,10A81E,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A81E,05
+7=大门五郎 | Goro Daimon,10A81E,06
+8=矢吹真吾 | Shingo Yabuki,10A81E,07
+9=八神庵 | Iori Yagami,10A81E,08
+10=凡妮莎 | Vanessa,10A81E,09
+11=赛斯 | Seth,10A81E,0A
+12=雷蒙 | Ramon,10A81E,0B
+13=蕾欧娜 | Leona,10A81E,0C
+14=拉尔夫 | Ralf,10A81E,0D
+15=克拉克 | Clark,10A81E,0E
+16=海迪伦 | Heidern,10A81E,0F
+17=泰瑞柏格 | Terry Bogard,10A81E,10
+18=安迪柏格 | Andy Bogard,10A81E,11
+19=东丈 | Joe Higashi,10A81E,12
+20=布鲁玛莉 | Blue Mary,10A81E,13
+21=阪崎良 | Ryo Sakazaki,10A81E,14
+22=罗伯特 | Robert Garcia,10A81E,15
+23=阪崎百合 | Yuri Sakazaki,10A81E,16
+24=阪崎琢磨 | Takuma Sakazaki,10A81E,17
+25=金 | King,10A81E,18
+26=不知火舞 | Mai Shiranui,10A81E,19
+27=四条雏子 | Hinako,10A81E,1A
+28=李香绯 | Li Xiangfei,10A81E,1B
+29=可娜 | kula,10A81E,1C
+30=FOXY,10A81E,1D
+31=K9999,10A81E,1E
+32=安赫尔 | Angel,10A81E,1F
+33=麻宫雅典娜 | Atena Asamiya,10A81E,20
+34=椎拳崇 | Sie Kensou,10A81E,21
+35=镇元斋 | Chin Gentsai,10A81E,22
+36=包 | Bao,10A81E,23
+37=金卡法 | Kim Kaphwan,10A81E,24
+38=陈可汉 | Chang Koehan,10A81E,25
+39=邱丰凯 | Choi Bounge,10A81E,26
+40=李梅 | May Lee,10A81E,27
+41=*零 | Zero,10A81E,28
+42=*伊格尼斯 | Igniz,10A81E,29
+
+[20]
+Name=P2 援助 3 选择
+0=Off
+1=K',10A821,00
+2=迈克斯 | Maxima,10A821,01
+3=薇普 | Whip,10A821,02
+4=麟 | Lin,10A821,03
+5=草剃京 | Kyo Kusanagi,10A821,04
+6=二阶堂红丸 | Benimaru Nikaidou,10A821,05
+7=大门五郎 | Goro Daimon,10A821,06
+8=矢吹真吾 | Shingo Yabuki,10A821,07
+9=八神庵 | Iori Yagami,10A821,08
+10=凡妮莎 | Vanessa,10A821,09
+11=赛斯 | Seth,10A821,0A
+12=雷蒙 | Ramon,10A821,0B
+13=蕾欧娜 | Leona,10A821,0C
+14=拉尔夫 | Ralf,10A821,0D
+15=克拉克 | Clark,10A821,0E
+16=海迪伦 | Heidern,10A821,0F
+17=泰瑞柏格 | Terry Bogard,10A821,10
+18=安迪柏格 | Andy Bogard,10A821,11
+19=东丈 | Joe Higashi,10A821,12
+20=布鲁玛莉 | Blue Mary,10A821,13
+21=阪崎良 | Ryo Sakazaki,10A821,14
+22=罗伯特 | Robert Garcia,10A821,15
+23=阪崎百合 | Yuri Sakazaki,10A821,16
+24=阪崎琢磨 | Takuma Sakazaki,10A821,17
+25=金 | King,10A821,18
+26=不知火舞 | Mai Shiranui,10A821,19
+27=四条雏子 | Hinako,10A821,1A
+28=李香绯 | Li Xiangfei,10A821,1B
+29=可娜 | kula,10A821,1C
+30=FOXY,10A821,1D
+31=K9999,10A821,1E
+32=安赫尔 | Angel,10A821,1F
+33=麻宫雅典娜 | Atena Asamiya,10A821,20
+34=椎拳崇 | Sie Kensou,10A821,21
+35=镇元斋 | Chin Gentsai,10A821,22
+36=包 | Bao,10A821,23
+37=金卡法 | Kim Kaphwan,10A821,24
+38=陈可汉 | Chang Koehan,10A821,25
+39=邱丰凯 | Choi Bounge,10A821,26
+40=李梅 | May Lee,10A821,27
+41=*零 | Zero,10A821,28
+42=*伊格尼斯 | Igniz,10A821,29
+
+[21]
+Name=P1 角色 1 颜色
+0=Off
+1=AC 颜色,10A7EB,00
+2=BD 颜色,10A7EB,01
+
+[22]
+Name=P1 角色 2 颜色
+0=Off
+1=AC 颜色,10A7EA,00
+2=BD 颜色,10A7EA,01
+
+[23]
+Name=P1 角色 3 颜色
+0=Off
+1=AC 颜色,10A7ED,00
+2=BD 颜色,10A7ED,01
+
+[24]
+Name=P1 角色 4 颜色
+0=Off
+1=AC 颜色,10A7EC,00
+2=BD 颜色,10A7EC,01
+
+[25]
+Name=P2 角色 1 颜色
+0=Off
+1=AC 颜色,10A812,00
+2=BD 颜色,10A812,01
+
+[26]
+Name=P2 角色 2 颜色
+0=Off
+1=AC 颜色,10A813,00
+2=BD 颜色,10A813,01
+
+[27]
+Name=P2 角色 3 颜色
+0=Off
+1=AC 颜色,10A810,00
+2=BD 颜色,10A810,01
+
+[28]
+Name=P2 角色 4 颜色
+0=Off
+1=AC 颜色,10A811,00
+2=BD 颜色,10A811,01
+
+[29]
+Name=P1 游戏得分
+0=Off
+1=00,1081FD,00,1081FC,00,1081FF,00,1081FE,00
+2=9999999,1081FD,99,1081FC,99,1081FF,99,1081FE,99
+
+[30]
+Name=P2 游戏得分
+0=Off
+1=00,1083FD,00,1083FC,00,1083FF,00,1083FE,00
+2=9999999,1083FD,99,1083FC,99,1083FF,99,1083FE,99
+
+[31]
+Name=P1 角色状态
+0=Off
+1=李梅英雄模式,108183,04
+2=薇普沙鹰弹无限,1082F8,06
+3=镇元斋不需饮酒,1081E6,0C
+
+[32]
+Name=P2 角色状态
+0=Off
+1=李梅英雄模式,108383,04
+2=薇普沙鹰弹无限,1084F8,06
+3=镇元斋不需饮酒,1083E6,0C
+
+[33]
+Name=P1 角色外观
+0=Off
+1=正常,10813B,00,1081E2,00,10812E,FF,10812F,FF
+2=红火,10813B,FA
+3=紫火,10813B,FB
+4=结冰,10813B,F7
+5=雷电,1081E2,22
+6=闪身,10812A,A3
+7=隐形,10812E,00,10812F,00
+8=变小,10812E,88,10812F,88
+
+[34]
+Name=P2 角色外观
+0=Off
+1=正常,10833B,00,1083E2,00,10832E,FF,10832F,FF
+2=红火,10833B,FA
+3=紫火,10833B,FB
+4=结冰,10833B,F7
+5=雷电,1083E2,22
+6=闪身,10832A,A3
+7=隐形,10832E,00,10832F,00
+8=变小,10832E,88,10832F,88
+
+[35]
+Name=P1 打击特效
+0=Off
+1=爪击,10817F,10
+2=红火,10817F,20
+3=紫火,10817F,30
+4=雷电,10817F,40
+
+[36]
+Name=P2 打击特效
+0=Off
+1=爪击,10837F,10
+2=红火,10837F,20
+3=紫火,10837F,30
+4=雷电,10837F,40
+
+[37]
+Name=P1 盔甲效果
+0=Off
+1=关闭,1083E7,00
+2=开启,1083E7,81
+
+[38]
+Name=P2 盔甲效果
+0=Off
+1=关闭,1081E7,00
+2=开启,1081E7,81
+
+[39]
+Name=P1 昏倒控制
+0=Off
+1=容易昏倒,10823F,FF
+2=永不昏倒,10823F,00
+
+[40]
+Name=P2 昏倒控制
+0=Off
+1=容易昏倒,10843F,FF
+2=永不昏倒,10843F,00
+
+[41]
+Name=P1 穿过对方
+0=Off
+1=关闭,1081A5,01
+2=开启,1081A5,80
+
+[42]
+Name=P2 穿过对方
+0=Off
+1=关闭,1083A5,01
+2=开启,1083A5,80
+
+[43]
+Name=P1 行动禁止
+0=Off
+1=关闭,1081E3,00
+2=开启,1081E3,0E
+
+[44]
+Name=P2 行动禁止
+0=Off
+1=关闭,1083E3,00
+2=开启,1083E3,0E
+
+[45]
+Name=P1 显示连段
+0=Off
+1=无连段,1084B1,00
+2=99连段,1084B1,99
+
+[46]
+Name=P2 显示连段
+0=Off
+1=无连段,1082B1,00
+2=99连段,1082B1,99
+
+[47]
+Name=不知火舞状态
+0=Off
+1=关闭波涛汹涌,10A7E1,01
+2=开启波涛汹涌,10A7E1,00
+Default=2
+
+[48]
+Name=倒地无限追打
+0=Off
+1=P1,10837D,06,108394,01
+2=P2,10817D,06,108194,01
+3=P1+P2,10837D,06,108394,01,10817D,06,108194,01
+
+[49]
+Name=防御崩溃
+0=Off
+1=P1,108246,00
+2=P2,108446,00
+3=P1+P2,108246,00,108446,00
+
+[50]
+Name=招式中断
+0=Off
+1=P1,10817C,7F
+2=P2,10837C,7F
+3=P1+P2,10817C,7F,10837C,7F
+
+[51]
+Name=战前偷袭
+0=Off
+1=P1,1081E3,02
+2=P2,1083E3,02
+3=P1+P2,1081E3,02,1083E3,02
+
+[52]
+Name=攻击加快
+0=Off
+1=P1,108225,00
+2=P2,108425,00
+3=P1+P2,108225,00,108425,00
+
+[53]
+Name=动作加快
+0=Off
+1=P1,10817B,00
+2=P2,10837B,00
+3=P1+P2,10817B,00,10837B,00
+
+[54]
+Name=空中出招
+0=Off
+1=P1,1081E1,00
+2=P2,1083E1,00
+3=P1+P2,1081E1,00,1083E1,00
+
+[55]
+Name=全身保护
+0=Off
+1=P1,10819B,0C
+2=P2,10839B,0C
+3=P1+P2,10819B,0C,10839B,0C
+
+[56]
+Name=远程攻击
+0=Off
+1=P1,108192,FF
+2=P2,108392,FF
+3=P1+P2,108192,FF,108392,FF
+
+[57]
+Name=背景选择
+0=Off
+1=日本,10A79B,00
+2=意大利,10A79B,01
+3=墨西哥,10A79B,02
+4=美国,10A79B,03
+5=中国,10A79B,04
+6=韩国,10A79B,05
+7=巴西,10A79B,06
+8=终背景 1,10A79B,07
+9=终背景 2,10A79B,08
+
+[58]
+Name=家用模式投币
+0=Off
+1=P1,10A7AF,99
+2=P2,10A7AE,99
+3=P1+P2,10A7AF,99,10A7AE,99

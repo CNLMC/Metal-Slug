@@ -1,0 +1,70 @@
+[0]
+Name=无限时间
+0=Off
+1=开启,FF2243,9A
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,FF0451,68
+2=满血,FF0451,00
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,FF0551,68
+2=满血,FF0551,00
+
+[3]
+Name=P1 气力槽
+0=Off
+1=无气,FF0511,00
+2=满气,FF0511,68
+
+[4]
+Name=P2 气力槽
+0=Off
+1=无气,FF0611,00
+2=满气,FF0611,68
+
+[5]
+Name=P1 角色更换
+0=Off
+1=Billy,FF0444,00
+2=*Billy(Super),FF0444,01
+3=Jimmy,FF0444,02
+4=*Jimmy(Super),FF0444,03
+5=Marian,FF0444,04
+6=Abobo,FF0444,05
+7=Amon,FF0444,06
+8=Eddie,FF0444,07
+9=Rebecca,FF0444,08
+10=Duiton,FF0444,09
+11=Cheng Fu,FF0444,0A
+12=Burnov,FF0444,0B
+13=*Duke,FF0444,0C
+14=*Shuko,FF0444,0D
+
+[6]
+Name=P2 角色更换
+0=Off
+1=Billy,FF0544,00
+2=*Billy(Super),FF0544,01
+3=Jimmy,FF0544,02
+4=*Jimmy(Super),FF0544,03
+5=Marian,FF0544,04
+6=Abobo,FF0544,05
+7=Amon,FF0544,06
+8=Eddie,FF0544,07
+9=Rebecca,FF0544,08
+10=Duiton,FF0544,09
+11=Cheng Fu,FF0544,0A
+12=Burnov,FF0544,0B
+13=*Duke,FF0544,0C
+14=*Shuko,FF0544,0D
+
+[7]
+Name=隐藏角色开启
+0=Off
+1=开启,FF8E85,80,FFFC00,80
+Default=1

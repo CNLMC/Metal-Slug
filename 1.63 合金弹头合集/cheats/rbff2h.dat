@@ -1,0 +1,128 @@
+[0]
+Name=对战时间
+0=Off
+1=00,107C29,00
+2=60,107C29,61
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,10048A,00
+2=红血,10048A,60
+3=满血,10048A,C0
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,10058A,00
+2=红血,10058A,60
+3=满血,10058A,C0
+
+[3]
+Name=P1 气力槽
+0=Off
+1=无气,1004BD,00
+2=H Power,1004BD,1E
+3=S Power,1004BD,3C
+
+[4]
+Name=P2 气力槽
+0=Off
+1=无气,1005BD,00
+2=H Power,1005BD,1E
+3=S Power,1005BD,3C
+
+[5]
+Name=P1 角色选择
+0=Off
+1=Terry Bogard,107BA4,01,100410,01
+2=Andy Bogard,107BA4,02,100410,02
+3=Joe Higashi,107BA4,03,100410,03
+4=Mai Shiranui,107BA4,04,100410,04
+5=Geese Howard,107BA4,05,100410,05
+6=Sokaku Mochizuki,107BA4,06,100410,06
+7=Bob Wilson,107BA4,07,100410,07
+8=Hon Fu,107BA4,08,100410,08
+9=Blue Mary,107BA4,09,100410,09
+10=Franco Bash,107BA4,0A,100410,0A
+11=Ryuji Yamazaki,107BA4,0B,100410,0B
+12=Jin Chonshu,107BA4,0C,100410,0C
+13=Jin Chonrei,107BA4,0D,100410,0D
+14=Duck King,107BA4,0E,100410,0E
+15=Kim Kaphwan,107BA4,0F,100410,0F
+16=Billy Kane,107BA4,10,100410,10
+17=Cheng Sinzan,107BA4,11,100410,11
+18=Tung Fu Rue,107BA4,12,100410,12
+19=Laurence Blood,107BA4,13,100410,13
+20=Wolfgang Krauser,107BA4,14,100410,14
+21=Rick Strowd,107BA4,15,100410,15
+22=Li Xiangfei,107BA4,16,100410,16
+23=*Alfred,107BA4,17,100410,17
+
+[6]
+Name=P2 角色选择
+0=Off
+1=Terry Bogard,107BA6,01,100510,01
+2=Andy Bogard,107BA6,02,100510,02
+3=Joe Higashi,107BA6,03,100510,03
+4=Mai Shiranui,107BA6,04,100510,04
+5=Geese Howard,107BA6,05,100510,05
+6=Sokaku Mochizuki,107BA6,06,100510,06
+7=Bob Wilson,107BA6,07,100510,07
+8=Hon Fu,107BA6,08,100510,08
+9=Blue Mary,107BA6,09,100510,09
+10=Franco Bash,107BA6,0A,100510,0A
+11=Ryuji Yamazaki,107BA6,0B,100510,0B
+12=Jin Chonshu,107BA6,0C,100510,0C
+13=Jin Chonrei,107BA6,0D,100510,0D
+14=Duck King,107BA6,0E,100510,0E
+15=Kim Kaphwan,107BA6,0F,100510,0F
+16=Billy Kane,107BA6,10,100510,10
+17=Cheng Sinzan,107BA6,11,100510,11
+18=Tung Fu Rue,107BA6,12,100510,12
+19=Laurence Blood,107BA6,13,100510,13
+20=Wolfgang Krauser,107BA6,14,100510,14
+21=Rick Strowd,107BA6,15,100510,15
+22=Li Xiangfei,107BA6,16,100510,16
+23=*Alfred,107BA6,17,100510,17
+
+[7]
+Name=招式有残影
+0=Off
+1=P1,1004CC,5F
+2=P2,1005CC,5F
+3=P1+P2,1004CC,5F,1005CC,5F
+
+[8]
+Name=选择 Alfred
+0=Off
+1=开启 (选人画面 按住 B+C > A),10E000,80
+
+[9]
+Name=动作加快
+0=Off
+1=P1,10046E,00
+2=P2,10056E,00
+3=P1+P2,10046E,00,10056E,00
+
+[10]
+Name=观看结局
+0=Off
+1=开启 (选人後),10E000,04
+
+[11]
+Name=关卡选择
+0=Off
+1=Stage 1,107BB4,01
+2=Stage 2,107BB4,02
+3=Stage 3,107BB4,03
+4=Stage 4,107BB4,04
+5=Stage 5,107BB4,05
+6=Stage 6,107BB4,06
+7=Stage 7,107BB4,07
+8=Stage 8,107BB4,08
+9=Stage 9,107BB4,09
+10=Stage 10,107BB4,0A
+11=Alfred,107BB4,0B
+12=--------------------------------------
+13=进入关卡後解锁

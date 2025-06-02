@@ -1,0 +1,55 @@
+[0]
+Name=对战时间
+0=Off
+1=59 (宣战後专用),10022F,06,10022E,00
+
+[1]
+Name=P1 气力槽
+0=Off
+1=永远无气,10909E,00
+2=快速储满,10909E,80
+
+[2]
+Name=P2 气力槽
+0=Off
+1=永远无气,109376,00
+2=快速储满,109376,80
+
+[3]
+Name=P1 能力无限
+0=Off
+1=火 x 3,1090A8,00,1090AB,00,1090AA,00
+2=水 x 3,1090A8,01,1090AB,01,1090AA,01
+3=风 x 3,1090A8,02,1090AB,02,1090AA,02
+4=雷 x 3,1090A8,03,1090AB,03,1090AA,03
+5=都没有,1090A8,05,1090AB,05,1090AA,05
+
+[4]
+Name=P1 角色选择
+0=Off
+1=Susano,108A1B,00
+2=Benten,108A1B,01
+3=Chichi-Nene,108A1B,02
+4=Gokuu,108A1B,03
+5=Binten,108A1B,04
+6=Syuten-Dozi,108A1B,05
+7=Seena,108A1B,06
+8=Igret,108A1B,07
+9=*Behenoth,108A1B,08
+10=*Eelis,108A1B,09
+11=*Lucifer,108A1B,0A
+
+[5]
+Name=P2 角色选择
+0=Off
+1=Susano,108A1A,00
+2=Benten,108A1A,01
+3=Chichi-Nene,108A1A,02
+4=Gokuu,108A1A,03
+5=Binten,108A1A,04
+6=Syuten-Dozi,108A1A,05
+7=Seena,108A1A,06
+8=Igret,108A1A,07
+9=*Behenoth,108A1A,08
+10=*Eelis,108A1A,09
+11=*Lucifer,108A1A,0A

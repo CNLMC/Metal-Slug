@@ -1,0 +1,95 @@
+[0]
+Name=无限时间
+0=Off
+1=开启 (有时间画面在开),FF800A,99
+
+[1]
+Name=战机无敌
+0=Off
+1=P1,FF8340,02
+2=P2,FF8401,02
+3=P1+P2,FF8340,02,FF8401,02
+
+[2]
+Name=燃料无限
+0=Off
+1=P1,FF838C,60,FF838E,60
+2=P2,FF848C,60,FF848E,60
+3=P1+P2,FF838C,60,FF838E,60,FF848C,60,FF848E,60
+
+[3]
+Name=弹药无限
+0=Off
+1=P1,FF83BA,99
+2=P2,FF84BA,99
+3=P1+P2,FF83BA,99,FF84BA,99
+
+[4]
+Name=火力最大
+0=Off
+1=P1,FF83B1,05
+2=P2,FF84B1,05
+3=P1+P2,FF83B1,05,FF84B1,05
+
+[5]
+Name=金钱无限
+0=Off
+1=P1,FF83B2,99,FF83B5,99
+2=P2,FF84B2,99,FF84B5,99
+3=P1+P2,FF83B2,99,FF83B5,99,FF84B2,99,FF84B5,99
+
+[6]
+Name=P1 射击类型
+0=Off
+1=黄色,FF83C9,00
+2=蓝色,FF83C9,01
+3=绿色,FF83C9,02
+
+[7]
+Name=P2 射击类型
+0=Off
+1=黄色,FF84C9,00
+2=蓝色,FF84C9,01
+3=绿色,FF84C9,02
+
+[8]
+Name=P1 武器选择
+0=Off
+1=Dispenser (Level 1),FF83B0,01,FF83B7,01
+2=Dispenser (Level 2),FF83B0,01,FF83B7,03
+3=Dispenser (Level X),FF83B0,01,FF83B7,04
+4=Dispenser (Special),FF83B0,01,FF83B7,05
+5=Missile (Level 1),FF83B0,05,FF83B7,01
+6=Missile (Level 2),FF83B0,05,FF83B7,02
+7=Laser (Level 1),FF83B0,02,FF83B7,01
+8=Laser (Level 2),FF83B0,02,FF83B7,02
+9=Bomb,FF83B0,03,FF83B7,01
+10=Super Bomb,FF83B0,03,FF83B7,02
+
+[9]
+Name=P2 武器选择
+0=Off
+1=Dispenser (Level 1),FF84B0,01,FF84B7,01
+2=Dispenser (Level 2),FF84B0,01,FF84B7,03
+3=Dispenser (Level X),FF84B0,01,FF84B7,04
+4=Dispenser (Special),FF84B0,01,FF84B7,05
+5=Missile (Level 1),FF84B0,05,FF84B7,01
+6=Missile (Level 2),FF84B0,05,FF84B7,02
+7=Laser (Level 1),FF84B0,02,FF84B7,01
+8=Laser (Level 2),FF84B0,02,FF84B7,02
+9=Bomb,FF84B0,03,FF84B7,01
+10=Super Bomb,FF84B0,03,FF84B7,02
+
+[10]
+Name=关卡选择
+0=Off
+1=Stage 1,FF8500,00
+2=Stage 2,FF8500,01
+3=Stage 3,FF8500,02
+4=Stage 4,FF8500,03
+5=Stage 5,FF8500,04
+6=Stage 6,FF8500,05
+7=Stage 7,FF8500,06
+8=Stage 8,FF8500,07
+9=Stage 9,FF8500,08
+10=Stage 10,FF8500,09

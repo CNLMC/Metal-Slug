@@ -1,0 +1,189 @@
+[0]
+Name=投币数
+0=Off
+1=9,FF0D58,09
+
+[1]
+Name=生命无限
+0=Off
+1=P1,FF0DE6,03
+2=P2,FF0DE9,03
+3=P1+P2,FF0DE6,03,FF0DE9,03
+
+[2]
+Name=Roosters - 时间无限
+0=Off
+1=开启,FF1010,09
+
+[3]
+Name=Roosters - 角色无敌
+0=Off
+1=P1,FF1839,B4,FF17BB,80
+2=P2,FF18D9,B4,FF185B,80
+3=P1+P2,FF1839,B4,FF17BB,80,FF18D9,B4,FF185B,80
+
+[4]
+Name=Roosters - P1 武器选择
+0=Off
+1=Normal,FF0E15,01
+2=Hyper Shot,FF0E15,02
+3=Tail Shot,FF0E15,03
+4=Bound Shot,FF0E15,04
+5=Super Bomb,FF0E15,00
+
+[5]
+Name=Roosters - P1 Option 选择
+0=Off
+1=Flames,FF0DE2,01
+2=Circular,FF0DE2,02
+3=White,FF0DE2,03
+
+[6]
+Name=Roosters - P2 武器选择
+0=Off
+1=Normal,FF0E14,01
+2=Hyper Shot,FF0E14,02
+3=Tail Shot,FF0E14,03
+4=Bound Shot,FF0E14,04
+5=Super Bomb,FF0E14,00
+
+[7]
+Name=Roosters - P2 Option 选择
+0=Off
+1=Flames,FF0DE4,01
+2=Circular,FF0DE4,02
+3=White,FF0DE4,03
+
+[8]
+Name=Roosters - 射击无间隔
+0=Off
+1=P1,FF0DE1,03
+2=P2,FF0DE0,03
+3=P1+P2,FF0DE1,03,FF0DE0,03
+
+[9]
+Name=Roosters - 1颗心 = 加1命
+0=Off
+1=P1,FF0E16,63,FF0E18,64
+2=P2,FF0E1A,63,FF0E1C,64
+3=P1+P2,FF0E16,63,FF0E18,64,FF0E1A,63,FF0E1C,64
+
+[10]
+Name=Roosters - Super Bomb 弹药无限
+0=Off
+1=P1,FF0E37,FF
+2=P2,FF0E39,FF
+3=P1+P2,FF0E37,FF,FF0E39,FF
+
+[11]
+Name=Roosters - 关卡选择
+0=Off
+1=Stage 1,FF0DC8,00
+2=Stage 2,FF0DC8,01
+3=Stage 3,FF0DC8,02
+4=Stage 4,FF0DC8,03
+5=Stage 5,FF0DC8,04
+
+[12]
+Name=Chariot - Boss 时间无限
+0=Off
+1=开启,FF1003,27,FF1002,0F
+
+[13]
+Name=Chariot - 角色无敌
+0=Off
+1=P1,FF1839,B4,FF17BB,80
+2=P2,FF18D9,B4,FF185B,80
+3=P1+P2,FF1839,B4,FF17BB,80,FF18D9,B4,FF185B,80
+
+[14]
+Name=Chariot - P1 武器选择
+0=Off
+1=Rapid Shot,FF183E,00
+2=Wide Shot,FF183E,01
+
+[15]
+Name=Chariot - P2 武器选择
+0=Off
+1=Rapid Shot,FF18DE,00
+2=Wide Shot,FF18DE,01
+
+[16]
+Name=Chariot - 武器火力最大
+0=Off
+1=P1,FF1844,04,FF1846,04
+2=P2,FF18E4,04,FF18E6,04
+3=P1+P2,FF1844,04,FF1846,04,FF18E4,04,FF18E6,04
+
+[17]
+Name=Chariot - 炸弹火力最大
+0=Off
+1=P1,FF1843,02
+2=P2,FF18E3,02
+3=P1+P2,FF1843,02,FF18E3,02
+
+[18]
+Name=Chariot - Options 数量最大
+0=Off
+1=P1,FF183A,06,FF183C,07
+2=P2,FF18DA,06,FF18DC,07
+3=P1+P2,FF183A,06,FF183C,07,FF18DA,06,FF18DC,07
+
+[19]
+Name=Chariot - 总是有保护
+0=Off
+1=P1,FF183F,01
+2=P2,FF18DF,01
+3=P1+P2,FF183F,01,FF18DF,01
+
+[20]
+Name=Chariot - 1颗心 = 加1命
+0=Off
+1=P1,FF184C,59,FF184D,5A
+2=P2,FF18EC,59,FF18ED,5A
+3=P1+P2,FF184C,59,FF184D,5A,FF18EC,59,FF18ED,5A
+
+[21]
+Name=Chariot - 关卡选择
+0=Off
+1=Stage 1,FF0DC8,00
+2=Stage 2,FF0DC8,01
+3=Stage 3,FF0DC8,02
+4=Stage 4,FF0DC8,03
+5=Stage 5,FF0DC8,04
+6=Stage 6,FF0DC8,05
+7=Stage 7,FF0DC8,06
+
+[22]
+Name=         - 完成此关
+0=Off
+1=开启,FF104B,00
+
+[23]
+Name=         - 时间无限
+0=Off
+1=开启,FF102A,00
+
+[24]
+Name=         - 敌人停止
+0=Off
+1=开启,FF0EC1,01
+
+[25]
+Name=         - 角色无敌
+0=Off
+1=P1,FF17D3,01,FF17D2,2C
+2=P2,FF1873,01,FF1872,2C
+3=P1+P2,FF17D3,01,FF17D2,2C,FF1873,01,FF1872,2C
+
+[26]
+Name=         - 水果 = 100000
+0=Off
+1=开启,FF0EC2,2C
+
+[27]
+Name=         - 1水果 = 加1命
+0=Off
+1=P1,FF0EBD,62,FF0EBF,63
+2=P2,FF0EBC,62,FF0EBE,63
+3=P1+P2,FF0EBD,62,FF0EBF,63,FF0EBC,62,FF0EBE,63

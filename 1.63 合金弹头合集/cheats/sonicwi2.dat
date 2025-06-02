@@ -1,0 +1,154 @@
+[0]
+Name=生命无限
+0=Off
+1=P1,10E43E,05
+2=P2,10E4A0,05
+3=P1+P2,10E43E,05,10E4A0,05
+
+[1]
+Name=炸弹无限
+0=Off
+1=P1,10E456,06
+2=P2,10E4B8,06
+3=P1+P2,10E456,06,10E4B8,06
+
+[2]
+Name=P1 火力等级
+0=Off
+1=Level 1,10E442,00
+2=Level 2,10E442,01
+3=Level 3,10E442,02
+4=Level 4,10E442,03
+
+[3]
+Name=P2 火力等级
+0=Off
+1=Level 1,10E4A4,00
+2=Level 2,10E4A4,01
+3=Level 3,10E4A4,02
+4=Level 4,10E4A4,03
+
+[4]
+Name=P1 战机类型
+0=Off
+1=F-117,10E41C,89
+2=A-10,10E41C,82
+3=FS-X,10E41C,85
+4=F-15,10E41C,84
+5=F-14,10E41C,83
+6=YF-23,10E41C,88
+7=RAFALE,10E41C,87
+8=FRS 2,10E41C,86
+
+[5]
+Name=P2 战机类型
+0=Off
+1=F-117,10E47E,89
+2=A-10,10E47E,82
+3=FS-X,10E47E,85
+4=F-15,10E47E,84
+5=F-14,10E47E,83
+6=YF-23,10E47E,88
+7=RAFALE,10E47E,87
+8=FRS 2,10E47E,86
+
+[6]
+Name=P1 武器类型
+0=Off
+1=F-14,10E41E,00
+2=F-15,10E41E,01
+3=RAFALE,10E41E,02
+4=YF-23,10E41E,03
+5=A-10,10E41E,04
+6=FRS 2,10E41E,05
+7=FS-X,10E41E,06
+8=F-117,10E41E,07
+
+[7]
+Name=P2 武器类型
+0=Off
+1=F-14,10E480,00
+2=F-15,10E480,01
+3=RAFALE,10E480,02
+4=YF-23,10E480,03
+5=A-10,10E480,04
+6=FRS 2,10E480,05
+7=FS-X,10E480,06
+8=F-117,10E480,07
+
+[8]
+Name=P1 副武器类型
+0=Off
+1=FS-X (Homing Knife),10E420,00
+2=F-15 (Laser),10E420,01
+3=YF-23 (Sky Mine),10E420,02
+4=A-10 (Streight Mine),10E420,03
+5=F-117 (Naparm),10E420,04
+6=RAFALE (Wide Missile),10E420,05
+7=F-14 (Homing Missile),10E420,06
+8=FRS-2 (Side Winder),10E420,07
+
+[9]
+Name=P2 副武器类型
+0=Off
+1=FS-X (Homing Knife),10E482,00
+2=F-15 (Laser),10E482,01
+3=YF-23 (Sky Mine),10E482,02
+4=A-10 (Streight Mine),10E482,03
+5=F-117 (Naparm),10E482,04
+6=RAFALE (Wide Missile),10E482,05
+7=F-14 (Homing Missile),10E482,06
+8=FRS-2 (Side Winder),10E482,07
+
+[10]
+Name=P1 炸弹类型
+0=Off
+1=FS-X (Ninja Laser),10E422,00
+2=F-15 (Enemy Stop),10E422,01
+3=YF-23 (Side Line Bomb),10E422,02
+4=A-10 (Bomber),10E422,03
+5=F-117 (Line Fire),10E422,04
+6=RAFALE (Gravity Bomb),10E422,05
+7=F-14 (5 Missile),10E422,06
+8=FRS-2 (Naparm),10E422,07
+
+[11]
+Name=P2 炸弹类型
+0=Off
+1=FS-X (Ninja Laser),10E484,00
+2=F-15 (Enemy Stop),10E484,01
+3=YF-23 (Side Line Bomb),10E484,02
+4=A-10 (Bomber),10E484,03
+5=F-117 (Line Fire),10E484,04
+6=RAFALE (Gravity Bomb),10E484,05
+7=F-14 (5 Missile),10E484,06
+8=FRS-2 (Naparm),10E484,07
+
+[12]
+Name=没有子弹模式
+0=Off
+1=取消,10E5DB,00
+2=开启,10E5DB,01
+
+[13]
+Name=关卡选择
+0=Off
+1=Stage 1,ffe526,0,ffE410,0
+2=Stage 2,ffe526,1,ffE410,1
+3=Stage 3,ffe526,2,ffE410,2
+4=Stage 4,ffe526,3,ffE410,3
+5=Stage 5,ffe526,4,ffE410,4
+6=Stage 6,ffe526,5,ffE410,5
+7=Stage 7,ffe526,6,ffE410,6
+8=Stage 8,ffe526,7,ffE410,7
+9=Stage 9,ffe526,8,ffE410,8
+10=Stage 10,ffe526,9,ffE410,9
+11=Stage 12,ffe526,B,ffE410,B
+12=Stage 13,ffe526,C,ffE410,C
+13=Stage 14,ffe526,D,ffE410,D
+14=Stage 15,ffe526,E,ffE410,E
+15=Stage 16,ffe526,F,ffE410,F
+16=Stage 17,ffe526,10,ffE410,10
+17=Stage 18,ffe526,11,ffE410,11
+18=Stage 19,ffe526,12,ffE410,12
+19=Stage 20,ffe526,13,ffE410,13

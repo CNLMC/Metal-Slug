@@ -1,0 +1,83 @@
+[0]
+Name=生命无限
+0=Off
+1=P1,103F36,0A
+2=P2,103FB6,0A
+3=P1+P2,103F36,0A,103FB6,0A
+
+[1]
+Name=炸弹无限
+0=Off
+1=P1,103F41,09
+2=P2,103FC1,09
+3=P1+P2,103F41,09,103FC1,09
+
+[2]
+Name=99个星星
+0=Off
+1=P1,103F45,99
+2=P2,103FC5,99
+3=P1+P2,103F45,99,103FC5,99
+
+[3]
+Name=P1 火力等级
+0=Off
+1=Level 1,103F3C,00
+2=Level 2,103F3C,04
+3=Level 3,103F3C,08
+4=Level 4,103F3C,0C
+5=Level 5,103F3C,10
+6=Level 6,103F3C,14
+7=Level 7,103F3C,18
+8=Level 8,103F3C,1C
+
+[4]
+Name=P2 火力等级
+0=Off
+1=Level 1,103FBC,00
+2=Level 2,103FBC,04
+3=Level 3,103FBC,08
+4=Level 4,103FBC,0C
+5=Level 5,103FBC,10
+6=Level 6,103FBC,14
+7=Level 7,103FBC,18
+8=Level 8,103FBC,1C
+
+[5]
+Name=P1 炸弹类型
+0=Off
+1=Bomb,103F3E,04
+2=Mine,103F3E,08
+3=Naparm,103F3E,0C
+4=Helper,103F3E,10
+
+[6]
+Name=P2 炸弹类型
+0=Off
+1=Bomb,103FBE,04
+2=Mine,103FBE,08
+3=Naparm,103FBE,0C
+4=Helper,103FBE,10
+
+[7]
+Name=P1 战机缩放
+0=Off
+1=缩小,102520,80
+2=正常,102520,00
+
+[8]
+Name=P2 战机缩放
+0=Off
+1=缩小,103220,80
+2=正常,103220,00
+
+[9]
+Name=P1 炸弹显示
+0=Off
+1=不消失,102E3A,FF,102E3A,FF,102EBA,FF,102F3A,FF,1030BA,FF,10313A,FF
+2=瞬间消失,102E3A,01,102E3A,01,102EBA,01,102F3A,01,1030BA,01,10313A,01
+
+[10]
+Name=P1 战机无敌
+0=Off,0,0
+1=开启 (死亡或过关时要解锁),102527,05

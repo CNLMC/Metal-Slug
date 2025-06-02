@@ -1,0 +1,600 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF8110,00
+2=USA,FF8110,02
+3=Hispanic,FF8110,04
+4=Oceania,FF8110,06
+5=Asia,FF8110,08
+6=Euro,FF8110,0A
+7=Brazil,FF8110,0C
+
+[1]
+Name=对战时间
+0=Off
+1=99,FF8189,99
+
+[2]
+Name=选人时间 (选完解锁)
+0=Off
+1=P1,FF840F,14
+2=P2,FF880F,14
+3=P1+P2,FF840F,14,FF880F,14
+
+[3]
+Name=P1 血槽
+0=Off
+1=无血,FF8440,00
+2=满血,FF8440,90
+
+[4]
+Name=P2 血槽
+0=Off
+1=无血,FF8840,00
+2=满血,FF8840,90
+
+[5]
+Name=P1 气力槽
+0=Off
+1=无气+零格,FF8594,00,FF8595,00
+2=满气,FF8594,60
+3=满格,FF8595,09
+4=满气+满格,FF8594,60,FF8595,09
+
+[6]
+Name=P2 气力槽
+0=Off
+1=无气+零格,FF8994,00,FF8995,00
+2=满气,FF8994,60
+3=满格,FF8995,09
+4=满气+满格,FF8994,60,FF8995,09
+
+[7]
+Name=P1 红黄蓝宝石槽
+0=Off
+1=无气,FF85A2,00,FF85A4,00,FF85A6,00
+2=满气,FF85A2,60,FF85A4,60,FF85A6,60
+
+[8]
+Name=P2 红黄蓝宝石槽
+0=Off
+1=无气,FF89A2,00,FF89A4,00,FF89A6,00
+2=满气,FF89A2,60,FF89A4,60,FF89A6,60
+
+[9]
+Name=P1 攻击道具 1
+0=Off
+1=无,FF85F1,FF
+2=火球,FF85F1,00
+3=冰球,FF85F1,01
+4=闪电球,FF85F1,02
+5=毒球,FF85F1,03
+6=香蕉皮,FF85F1,04
+7=炸弹,FF85F1,05
+8=石化球,FF85F1,06
+
+[10]
+Name=P1 攻击道具 2
+0=Off
+1=无,FF85F0,FF
+2=火球,FF85F0,00
+3=冰球,FF85F0,01
+4=闪电球,FF85F0,02
+5=毒球,FF85F0,03
+6=香蕉皮,FF85F0,04
+7=炸弹,FF85F0,05
+8=石化球,FF85F0,06
+
+[11]
+Name=P1 攻击道具 3
+0=Off
+1=无,FF85F3,FF
+2=火球,FF85F3,00
+3=冰球,FF85F3,01
+4=闪电球,FF85F3,02
+5=毒球,FF85F3,03
+6=香蕉皮,FF85F3,04
+7=炸弹,FF85F3,05
+8=石化球,FF85F3,06
+
+[12]
+Name=P2 攻击道具 1
+0=Off
+1=无,FF89F1,FF
+2=火球,FF89F1,00
+3=冰球,FF89F1,01
+4=闪电球,FF89F1,02
+5=毒球,FF89F1,03
+6=香蕉皮,FF89F1,04
+7=炸弹,FF89F1,05
+8=石化球,FF89F1,06
+
+[13]
+Name=P2 攻击道具 2
+0=Off
+1=无,FF89F0,FF
+2=火球,FF89F0,00
+3=冰球,FF89F0,01
+4=闪电球,FF89F0,02
+5=毒球,FF89F0,03
+6=香蕉皮,FF89F0,04
+7=炸弹,FF89F0,05
+8=石化球,FF89F0,06
+
+[14]
+Name=P2 攻击道具 3
+0=Off
+1=无,FF89F3,FF
+2=火球,FF89F3,00
+3=冰球,FF89F3,01
+4=闪电球,FF89F3,02
+5=毒球,FF89F3,03
+6=香蕉皮,FF89F3,04
+7=炸弹,FF89F3,05
+8=石化球,FF89F3,06
+
+[15]
+Name=P1 被攻击後状态
+0=Off
+1=不恢复,FF844D,02
+2=马上恢复,FF844D,00
+
+[16]
+Name=P2 被攻击後状态
+0=Off
+1=不恢复,FF884D,02
+2=马上恢复,FF884D,00
+
+[17]
+Name=战前偷袭
+0=Off
+1=开启,FF818F,00
+
+[18]
+Name=动作加快
+0=Off
+1=P1,FF8418,01
+2=P2,FF8818,01
+3=P1+P2,FF8418,01,FF8818,01
+
+[19]
+Name=空中出招
+0=Off
+1=P1,FF844E,00
+2=P2,FF884E,00
+3=P1+P2,FF844E,00,FF884E,00
+
+[20]
+Name=99 连段显示
+0=Off
+1=P1,FF8945,63
+2=P2,FF8545,63
+3=P1+P2,FF8945,63,FF8545,63
+
+[21]
+Name=最大防御破坏
+0=Off
+1=P1,FF8538,3C
+2=P2,FF8938,3C
+3=P1+P2,FF8538,3C,FF8938,3C
+
+[22]
+Name=不能使用连段技
+0=Off
+1=P1,FF859A,00,FF859B,01,FF859C,00
+2=P2,FF899A,00,FF899B,01,FF899C,00
+3=P1+P2,FF859A,00,FF859B,01,FF859C,00,FF899A,00,FF899B,01,FF899C,00
+
+[23]
+Name=飞行道具无间隔
+0=Off
+1=P1,FF8571,00
+2=P2,FF8971,00
+3=P1+P2,FF8571,00,FF8971,00
+
+[24]
+Name=飞行道具连段不止
+0=Off
+1=P1,FF9840,63,FF9940,63
+2=P2,FF9440,63,FF9540,63
+3=P1+P2,FF9840,63,FF9940,63,FF9440,63,FF9540,63
+
+[25]
+Name=P1 角色选择
+0=Off
+1=Ryu,FF8402,01,FF8780,00
+2=Ken,FF8402,02,FF8780,01
+3=Chun-Li,FF8402,04,FF8780,02
+4=Sakura,FF8402,05,FF8780,03
+5=Morrigan,FF8402,06,FF8780,04
+6=Lei-Lei,FF8402,07,FF8780,05
+7=Felicia,FF8402,08,FF8780,06
+8=Tabasa,FF8402,09,FF8780,07
+9=Ibuki,FF8402,0B,FF8780,08
+10=Zangief,FF8402,0A,FF8780,09
+11=Dan,FF8402,03,FF8780,0A
+12=Gouki,FF8402,00,FF8780,0B
+
+[26]
+Name=P2 角色选择
+0=Off
+1=Ryu,FF8802,01,FF8B80,00
+2=Ken,FF8802,02,FF8B80,01
+3=Chun-Li,FF8802,04,FF8B80,02
+4=Sakura,FF8802,05,FF8B80,03
+5=Morrigan,FF8802,06,FF8B80,04
+6=Lei-Lei,FF8802,07,FF8B80,05
+7=Felicia,FF8802,08,FF8B80,06
+8=Tabasa,FF8802,09,FF8B80,07
+9=Ibuki,FF8802,0B,FF8B80,08
+10=Zangief,FF8802,0A,FF8B80,09
+11=Dan,FF8802,03,FF8B80,0A
+12=Gouki,FF8802,00,FF8B80,0B
+
+[27]
+Name=P1 颜色选择
+0=Off
+1=Colour 1,FF879E,00
+2=Colour 2,FF879E,01
+3=Colour 3,FF879E,02
+4=Colour 4,FF879E,03
+
+[28]
+Name=P2 颜色选择
+0=Off
+1=Colour 1,FF8B9E,00
+2=Colour 2,FF8B9E,01
+3=Colour 3,FF8B9E,02
+4=Colour 4,FF8B9E,03
+
+[29]
+Name=P1 昏迷控制
+0=Off
+1=永不昏迷,FF8518,00 
+2=容易昏迷,FF8518,03 
+
+[30]
+Name=P2 昏迷控制
+0=Off
+1=永不昏迷,FF8918,00 
+2=容易昏迷,FF8918,03 
+
+[31]
+Name=P1 控制方式
+0=Off
+1=电脑控制,FF879F,01
+2=玩家控制,FF879F,00
+
+[32]
+Name=P2 控制方式
+0=Off
+1=电脑控制,FF8B9F,01
+2=玩家控制,FF8B9F,00
+
+[33]
+Name=P1 简易出招
+0=Off
+1=↓豪鬼
+2=波动拳,FF8700,04,FF8701,02
+3=旋风脚,FF8710,04,FF8711,02
+4=升龙拳,FF8708,04,FF8709,02
+5=灭杀豪升龙,FF8728,04,FF8729,02
+6=瞬狱杀(←+S),FF8738,08,FF8739,02
+7=真瞬狱杀(直接按S),FF8740,08,FF8741,02
+8=灭杀豪波动(→+S),FF8720,08,FF8721,02
+9=灭杀豪斩空(空中→+S),FF8720,08,FF8721,02
+10=全部简化,FF8700,04,FF8701,02,FF8710,04,FF8711,02,FF8708,04,FF8709,02,FF8728,04,FF8729,02,FF8738,08,FF8739,02,FF8740,08,FF8741,02,FF8720,08,FF8721,02
+11=↓丹
+12=我道拳,FF8700,04,FF8701,02
+13=断空腿,FF8710,04,FF8711,02
+14=晃龙拳,FF8708,04,FF8709,02
+15=殉哭杀(←+S),FF8738,08,FF8739,02
+16=真空我道拳,FF8770,04,FF8771,02
+17=父亲转生,FF8720,08,FF8721,02
+18=挑逗传说,FF8758,08,FF8759,02
+19=晃龙烈火,FF8728,04,FF8729,02
+20=全部简化,FF8700,04,FF8701,02,FF8710,04,FF8711,02,FF8708,04,FF8709,02,FF8738,08,FF8739,02,FF8770,04,FF8771,02,FF8720,08,FF8721,02,FF8758,08,FF8759,02,FF8728,04,FF8729,02
+
+[34]
+Name=P2 简易出招
+0=Off
+1=↓豪鬼
+2=波动拳,FF8B00,04,FF8B01,02
+3=旋风脚,FF8B10,04,FF8B11,02
+4=升龙拳,FF8B08,04,FF8B09,02
+5=灭杀豪升龙,FF8B28,04,FF8B29,02
+6=瞬狱杀(←+S),FF8B38,08,FF8B39,02
+7=真瞬狱杀(直接按S),FF8B40,08,FF8B41,02
+8=灭杀豪波动(→+S),FF8B20,08,FF8B21,02
+9=灭杀豪斩空(空中→+S),FF8B20,08,FF8B21,02
+10=全部简化,FF8B00,04,FF8B01,02,FF8B10,04,FF8B11,02,FF8B08,04,FF8B09,02,FF8B28,04,FF8B29,02,FF8B38,08,FF8B39,02,FF8B40,08,FF8B41,02,FF8B20,08,FF8B21,02
+11=↓丹
+12=我道拳,FF8B00,04,FF8B01,02
+13=断空腿,FF8B10,04,FF8B11,02
+14=晃龙拳,FF8B08,04,FF8B09,02
+15=殉哭杀(←+S),FF8B38,08,FF8B39,02
+16=真空我道拳,FF8B70,04,FF8B71,02
+17=父亲转生,FF8B20,08,FF8B21,02
+18=挑逗传说,FF8B58,08,FF8B59,02
+19=晃龙烈火,FF8B28,04,FF8B29,02
+20=全部简化,FF8B00,04,FF8B01,02,FF8B10,04,FF8B11,02,FF8B08,04,FF8B09,02,FF8B38,08,FF8B39,02,FF8B70,04,FF8B71,02,FF8B20,08,FF8B21,02,FF8B58,08,FF8B59,02,FF8B28,04,FF8B29,02
+
+[35]
+Name=P1 Easy Moves
+0=Off
+1=Chun-Li - Kikou Ken & Hishou Kyaku & Strong Throw,FF8701,04,FF8700,08,FF8729,04,FF8728,06,FF8739,04,FF8738,0A
+2=Chun-Li - Kikou Ken & Hyakuretsu Kyaku & Strong Throw,FF8701,04,FF8700,08,FF8732,00,FF8735,05,FF8739,04,FF8738,0A
+3=Chun-Li - Kikou Ken & Spinning Bird Kick & Strong Throw,FF8701,04,FF8700,08,FF8759,04,FF8758,08,FF8739,04,FF8738,0A
+4=Chun-Li - Kikou Ken & Hishou Kyaku & Special Throw,FF8701,04,FF8700,08,FF8729,04,FF8728,06,FF8741,04,FF8740,0A
+5=Chun-Li - Kikou Ken & Hyakuretsu Kyaku & Special Throw,FF8701,04,FF8700,08,FF8732,00,FF8735,05,FF8741,04,FF8740,0A
+6=Chun-Li - Kikou Ken & Spinning Bird Kick & Special Throw,FF8701,04,FF8700,08,FF8759,04,FF8758,08,FF8741,04,FF8740,0A
+7=Dan - Gadou Ken & Dankuu Kyaku & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+8=Dan - Kouryuu Ken & Dankuu Kyaku & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+9=Dan - Gadou Ken & Dankuu Kyaku & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+10=Dan - Kouryuu Ken & Dankuu Kyaku & Special Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+11=Dan - Gadou Ken & Dankuu Kyaku & Otoko Nage,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+12=Felicia - Sand Splash & Rolling Buckler & Strong Throw,FF8701,04,FF8700,06,FF8709,04,FF8708,06,FF8759,04,FF8758,0A
+13=Felicia - Delta Kick & Rolling Buckler & Strong Throw,FF8711,04,FF8710,06,FF8709,04,FF8708,06,FF8759,04,FF8758,0A
+14=Felicia - Sand Splash & Rolling Scratch & Strong Throw,FF8701,04,FF8700,06,FF8719,04,FF8718,06,FF8759,04,FF8758,0A
+15=Felicia - Delta Kick & Rolling Scratch & Strong Throw,FF8711,04,FF8710,06,FF8719,04,FF8718,06,FF8759,04,FF8758,0A
+16=Felicia - Sand Splash & Hysteric Star & Strong Throw,FF8701,04,FF8700,06,FF8723,00,FF8722,05,FF8759,04,FF8758,0A
+17=Felicia - Delta Kick & Hysteric Star & Strong Throw,FF8711,04,FF8710,06,FF8723,00,FF8722,05,FF8759,04,FF8758,0A
+18=Felicia - Sand Splash & Rolling Buckler & Special Throw,FF8701,04,FF8700,06,FF8709,04,FF8708,06,FF8769,04,FF8768,0A
+19=Felicia - Delta Kick & Rolling Buckler & Special Throw,FF8711,04,FF8710,06,FF8709,04,FF8708,06,FF8769,04,FF8768,0A
+20=Felicia - Sand Splash & Rolling Scratch & Special Throw,FF8701,04,FF8700,06,FF8719,04,FF8718,06,FF8769,04,FF8768,0A
+21=Felicia - Delta Kick & Rolling Scratch & Special Throw,FF8711,04,FF8710,06,FF8719,04,FF8718,06,FF8769,04,FF8768,0A
+22=Felicia - Sand Splash & Hysteric Star & Special Throw,FF8701,04,FF8700,06,FF8723,00,FF8722,05,FF8769,04,FF8768,0A
+23=Felicia - Delta Kick & Hysteric Star & Special Throw,FF8711,04,FF8710,06,FF8723,00,FF8722,05,FF8769,04,FF8768,0A
+24=Felicia - Sand Splash & Rolling Buckler & Gamo Screw,FF8701,04,FF8700,06,FF8709,04,FF8708,06,FF8761,08,FF8760,00
+25=Felicia - Delta Kick & Rolling Buckler & Gamo Screw,FF8711,04,FF8710,06,FF8709,04,FF8708,06,FF8761,08,FF8760,00
+26=Felicia - Sand Splash & Rolling Scratch & Gamo Screw,FF8701,04,FF8700,06,FF8719,04,FF8718,06,FF8761,08,FF8760,00
+27=Felicia - Delta Kick & Rolling Scratch & Gamo Screw,FF8711,04,FF8710,06,FF8719,04,FF8718,06,FF8761,08,FF8760,00
+28=Felicia - Sand Splash & Hysteric Star & Gamo Screw,FF8701,04,FF8700,06,FF8723,00,FF8722,05,FF8761,08,FF8760,00
+29=Felicia - Delta Kick & Hysteric Star & Gamo Screw,FF8711,04,FF8710,06,FF8723,00,FF8722,05,FF8761,08,FF8760,00
+30=Gouki - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+31=Gouki - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+32=Gouki - Hyakki Shuu & Tatsumaki Zankuu Kyaku & Strong Throw,FF8761,04,FF8760,08,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+33=Gouki - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Strong Throw,FF8769,04,FF8768,0A,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+34=Gouki - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+35=Gouki - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Special Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+36=Gouki - Hyakki Shuu & Tatsumaki Zankuu Kyaku & Special Throw,FF8761,04,FF8760,08,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+37=Gouki - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Special Throw,FF8769,04,FF8768,0A,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+38=Gouki - Gou Hadou Ken & Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+39=Gouki - Gou Shoryuu Ken & Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+40=Gouki - Hyakki Shuu & Gou Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8761,04,FF8760,08,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+41=Gouki - Shakunetsu Hadou Ken & Gou Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8769,04,FF8768,0A,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+42=Gouki - Ashura Senkuu Back Short & Long,FF8771,04,FF8770,06,FF8779,04,FF8778,06
+43=Gouki - Ashura Senkuu Back Short & Forward Long,FF8661,04,FF8660,06,FF8779,04,FF8778,06
+44=Gouki - Ashura Senkuu Back Long & Forward Short,FF8771,04,FF8770,06,FF8669,04,FF8668,06
+45=Gouki - Ashura Senkuu Forward Short & Long,FF8661,04,FF8660,06,FF8669,04,FF8668,06
+46=Ibuki - Kunai & Kazekiri & Strong Throw,FF8701,04,FF8700,06,FF8709,04,FF8708,06,FF8749,04,FF8748,0A
+47=Ibuki - Kunai & Hien & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8749,04,FF8748,0A
+48=Ibuki - Kunai & Tsumuji & Strong Throw,FF8701,04,FF8700,06,FF8759,04,FF8758,06,FF8749,04,FF8748,0A
+49=Ibuki - Kunai & Kazekiri & Special Throw,FF8701,04,FF8700,06,FF8709,04,FF8708,06,FF8751,04,FF8750,0A
+50=Ibuki - Kunai & Hien & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+51=Ibuki - Kunai & Tsumuji & Special Throw,FF8701,04,FF8700,06,FF8759,04,FF8758,06,FF8751,04,FF8750,0A
+52=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8749,04,FF8748,0A
+53=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8749,04,FF8748,0A
+54=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+55=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+56=Lei-Lei - Anki Hou & Chirei Tou & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,0A,FF8749,04,FF8748,0A
+57=Lei-Lei - Henkyou Ki & Chirei Tou & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,0A,FF8749,04,FF8748,0A
+58=Lei-Lei - Anki Hou & Chirei Tou,FF8701,04,FF8700,06,FF8711,04,FF8710,0A
+59=Lei-Lei - Henkyou Ki & Chirei Tou,FF8709,04,FF8708,06,FF8711,04,FF8710,0A
+60=Lei-Lei - Anki Hou & Special Throw,FF8701,04,FF8700,06,FF8751,04,FF8750,0A
+61=Lei-Lei - Henkyou Ki & Special Throw,FF8709,04,FF8708,06,FF8751,04,FF8750,0A
+62=Morrigan - Soul Fist & Parasite Roll & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8749,04,FF8748,0A
+63=Morrigan - Shadow Blade & Parasite Roll & Special Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8749,04,FF8748,0A
+64=Morrigan - Parasite Roll & Strong Throw,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+65=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+66=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8751,04,FF8750,0A
+67=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+68=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8759,04,FF8758,0A
+69=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku & Tomoe Nage,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+70=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Tomoe Nage,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8749,04,FF8748,06
+71=Sakura - Hadou Ken & Shunka Shuutou & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,0A,FF8749,04,FF8748,0A
+72=Sakura - Shou'ou San & Shunka Shuutou & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,0A,FF8749,04,FF8748,0A
+73=Sakura - Hadou Ken & Special Throw,FF8701,04,FF8700,06,FF8751,04,FF8750,0A
+74=Sakura - Shou'ou San & Special Throw,FF8709,04,FF8708,06,FF8751,04,FF8750,0A
+75=Tabasa - Dragon Blow & Roar & Strong Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8721,04,FF8720,0A
+76=Tabasa - Reverie Sword & Dragon Roar & Strong Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8721,04,FF8720,0A
+77=Tabasa - Dragon Blow & Roar & Special Throw,FF8701,04,FF8700,06,FF8711,04,FF8710,06,FF8719,04,FF8718,0A
+78=Tabasa - Reverie Sword & Dragon Roar & Special Throw,FF8709,04,FF8708,06,FF8711,04,FF8710,06,FF8719,04,FF8718,0A
+79=Zangief - Banishing Flat & Iron Press & Strong Throw,FF8709,04,FF8708,06,FF8711,02,FF8710,04,FF8751,04,FF8750,0A
+80=Zangief - Banishing Flat & Iron Press & Atomic Suplex,FF8709,04,FF8708,06,FF8711,02,FF8710,04,FF8749,04,FF8748,0A
+81=Zangief - Banishing Flat & Iron Press & Screw Piledriver,FF8709,04,FF8708,06,FF8711,02,FF8710,04,FF8701,08,FF8700,00
+82=Zangief - Iron Press & Special Throw,FF8711,02,FF8710,04,FF8751,04,FF8750,06
+
+[36]
+Name=P2 Easy Moves
+0=Off
+1=Chun-Li - Kikou Ken & Hishou Kyaku & Strong Throw,FF8B01,04,FF8B00,08,FF8B29,04,FF8B28,06,FF8B39,04,FF8B38,0A
+2=Chun-Li - Kikou Ken & Hyakuretsu Kyaku & Strong Throw,FF8B01,04,FF8B00,08,FF8B32,00,FF8B35,05,FF8B39,04,FF8B38,0A
+3=Chun-Li - Kikou Ken & Spinning Bird Kick & Strong Throw,FF8B01,04,FF8B00,08,FF8B59,04,FF8B58,08,FF8B39,04,FF8B38,0A
+4=Chun-Li - Kikou Ken & Hishou Kyaku & Special Throw,FF8B01,04,FF8B00,08,FF8B29,04,FF8B28,06,FF8B41,04,FF8B40,0A
+5=Chun-Li - Kikou Ken & Hyakuretsu Kyaku & Special Throw,FF8B01,04,FF8B00,08,FF8B32,00,FF8B35,05,FF8B41,04,FF8B40,0A
+6=Chun-Li - Kikou Ken & Spinning Bird Kick & Special Throw,FF8B01,04,FF8B00,08,FF8B59,04,FF8B58,08,FF8B41,04,FF8B40,0A
+7=Dan - Gadou Ken & Dankuu Kyaku & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+8=Dan - Kouryuu Ken & Dankuu Kyaku & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+9=Dan - Gadou Ken & Dankuu Kyaku & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+10=Dan - Kouryuu Ken & Dankuu Kyaku & Special Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+11=Dan - Gadou Ken & Dankuu Kyaku & Otoko Nage,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+12=Felicia - Sand Splash & Rolling Buckler & Strong Throw,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06,FF8B59,04,FF8B58,0A
+13=Felicia - Delta Kick & Rolling Buckler & Strong Throw,FF8B11,04,FF8B10,06,FF8B09,04,FF8B08,06,FF8B59,04,FF8B58,0A
+14=Felicia - Sand Splash & Rolling Scratch & Strong Throw,FF8B01,04,FF8B00,06,FF8B19,04,FF8B18,06,FF8B59,04,FF8B58,0A
+15=Felicia - Delta Kick & Rolling Scratch & Strong Throw,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,06,FF8B59,04,FF8B58,0A
+16=Felicia - Sand Splash & Hysteric Star & Strong Throw,FF8B01,04,FF8B00,06,FF8B23,00,FF8B22,05,FF8B59,04,FF8B58,0A
+17=Felicia - Delta Kick & Hysteric Star & Strong Throw,FF8B11,04,FF8B10,06,FF8B23,00,FF8B22,05,FF8B59,04,FF8B58,0A
+18=Felicia - Sand Splash & Rolling Buckler & Special Throw,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06,FF8B69,04,FF8B68,0A
+19=Felicia - Delta Kick & Rolling Buckler & Special Throw,FF8B11,04,FF8B10,06,FF8B09,04,FF8B08,06,FF8B69,04,FF8B68,0A
+20=Felicia - Sand Splash & Rolling Scratch & Special Throw,FF8B01,04,FF8B00,06,FF8B19,04,FF8B18,06,FF8B69,04,FF8B68,0A
+21=Felicia - Delta Kick & Rolling Scratch & Special Throw,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,06,FF8B69,04,FF8B68,0A
+22=Felicia - Sand Splash & Hysteric Star & Special Throw,FF8B01,04,FF8B00,06,FF8B23,00,FF8B22,05,FF8B69,04,FF8B68,0A
+23=Felicia - Delta Kick & Hysteric Star & Special Throw,FF8B11,04,FF8B10,06,FF8B23,00,FF8B22,05,FF8B69,04,FF8B68,0A
+24=Felicia - Sand Splash & Rolling Buckler & Gamo Screw,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06,FF8B61,08,FF8B60,00
+25=Felicia - Delta Kick & Rolling Buckler & Gamo Screw,FF8B11,04,FF8B10,06,FF8B09,04,FF8B08,06,FF8B61,08,FF8B60,00
+26=Felicia - Sand Splash & Rolling Scratch & Gamo Screw,FF8B01,04,FF8B00,06,FF8B19,04,FF8B18,06,FF8B61,08,FF8B60,00
+27=Felicia - Delta Kick & Rolling Scratch & Gamo Screw,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,06,FF8B61,08,FF8B60,00
+28=Felicia - Sand Splash & Hysteric Star & Gamo Screw,FF8B01,04,FF8B00,06,FF8B23,00,FF8B22,05,FF8B61,08,FF8B60,00
+29=Felicia - Delta Kick & Hysteric Star & Gamo Screw,FF8B11,04,FF8B10,06,FF8B23,00,FF8B22,05,FF8B61,08,FF8B60,00
+30=Gouki - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+31=Gouki - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+32=Gouki - Hyakki Shuu & Tatsumaki Zankuu Kyaku & Strong Throw,FF8B61,04,FF8B60,08,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+33=Gouki - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Strong Throw,FF8B69,04,FF8B68,0A,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+34=Gouki - Gou Hadou Ken & Tatsumaki Zankuu Kyaku & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+35=Gouki - Gou Shoryuu Ken & Tatsumaki Zankuu Kyaku & Special Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+36=Gouki - Hyakki Shuu & Tatsumaki Zankuu Kyaku & Special Throw,FF8B61,04,FF8B60,08,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+37=Gouki - Shakunetsu Hadou Ken & Tatsumaki Zankuu Kyaku & Special Throw,FF8B69,04,FF8B68,0A,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+38=Gouki - Gou Hadou Ken & Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+39=Gouki - Gou Shoryuu Ken & Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+40=Gouki - Hyakki Shuu & Gou Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8B61,04,FF8B60,08,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+41=Gouki - Shakunetsu Hadou Ken & Gou Tomoe Nage & Tatsumaki Zankuu Kyaku,FF8B69,04,FF8B68,0A,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+42=Gouki - Ashura Senkuu Back Short & Long,FF8B71,04,FF8B70,06,FF8B79,04,FF8B78,06
+43=Gouki - Ashura Senkuu Back Short & Forward Long,FF8A61,04,FF8A60,06,FF8B79,04,FF8B78,06
+44=Gouki - Ashura Senkuu Back Long & Forward Short,FF8B71,04,FF8B70,06,FF8A69,04,FF8A68,06
+45=Gouki - Ashura Senkuu Forward Short & Long,FF8A61,04,FF8A60,06,FF8A69,04,FF8A68,06
+46=Ibuki - Kunai & Kazekiri & Strong Throw,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06,FF8B49,04,FF8B48,0A
+47=Ibuki - Kunai & Hien & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,0A
+48=Ibuki - Kunai & Tsumuji & Strong Throw,FF8B01,04,FF8B00,06,FF8B59,04,FF8B58,06,FF8B49,04,FF8B48,0A
+49=Ibuki - Kunai & Kazekiri & Special Throw,FF8B01,04,FF8B00,06,FF8B09,04,FF8B08,06,FF8B51,04,FF8B50,0A
+50=Ibuki - Kunai & Hien & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+51=Ibuki - Kunai & Tsumuji & Special Throw,FF8B01,04,FF8B00,06,FF8B59,04,FF8B58,06,FF8B51,04,FF8B50,0A
+52=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,0A
+53=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,0A
+54=Ken - Hadou Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+55=Ken - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+56=Lei-Lei - Anki Hou & Chirei Tou & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,0A,FF8B49,04,FF8B48,0A
+57=Lei-Lei - Henkyou Ki & Chirei Tou & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,0A,FF8B49,04,FF8B48,0A
+58=Lei-Lei - Anki Hou & Chirei Tou,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,0A
+59=Lei-Lei - Henkyou Ki & Chirei Tou,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,0A
+60=Lei-Lei - Anki Hou & Special Throw,FF8B01,04,FF8B00,06,FF8B51,04,FF8B50,0A
+61=Lei-Lei - Henkyou Ki & Special Throw,FF8B09,04,FF8B08,06,FF8B51,04,FF8B50,0A
+62=Morrigan - Soul Fist & Parasite Roll & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,0A
+63=Morrigan - Shadow Blade & Parasite Roll & Special Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,0A
+64=Morrigan - Parasite Roll & Strong Throw,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+65=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+66=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B51,04,FF8B50,0A
+67=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+68=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Special Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B59,04,FF8B58,0A
+69=Ryu - Hadou Ken & Tatsumaki Senpuu Kyaku & Tomoe Nage,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+70=Ryu - Shoryuu Ken & Tatsumaki Senpuu Kyaku & Tomoe Nage,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B49,04,FF8B48,06
+71=Sakura - Hadou Ken & Shunka Shuutou & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,0A,FF8B49,04,FF8B48,0A
+72=Sakura - Shou'ou San & Shunka Shuutou & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,0A,FF8B49,04,FF8B48,0A
+73=Sakura - Hadou Ken & Special Throw,FF8B01,04,FF8B00,06,FF8B51,04,FF8B50,0A
+74=Sakura - Shou'ou San & Special Throw,FF8B09,04,FF8B08,06,FF8B51,04,FF8B50,0A
+75=Tabasa - Dragon Blow & Roar & Strong Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B21,04,FF8B20,0A
+76=Tabasa - Reverie Sword & Dragon Roar & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B21,04,FF8B20,0A
+77=Tabasa - Dragon Blow & Roar & Special Throw,FF8B01,04,FF8B00,06,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,0A
+78=Tabasa - Reverie Sword & Dragon Roar & Special Throw,FF8B09,04,FF8B08,06,FF8B11,04,FF8B10,06,FF8B19,04,FF8B18,0A
+79=Zangief - Banishing Flat & Iron Press & Strong Throw,FF8B09,04,FF8B08,06,FF8B11,02,FF8B10,04,FF8B51,04,FF8B50,0A
+80=Zangief - Banishing Flat & Iron Press & Atomic Suplex,FF8B09,04,FF8B08,06,FF8B11,02,FF8B10,04,FF8B49,04,FF8B48,0A
+81=Zangief - Banishing Flat & Iron Press & Screw Piledriver,FF8B09,04,FF8B08,06,FF8B11,02,FF8B10,04,FF8B01,08,FF8B00,00
+82=Zangief - Iron Press & Special Throw,FF8B11,02,FF8B10,04,FF8B51,04,FF8B50,06
+
+[37]
+Name=P1 Easy Mighty Combo
+0=Off
+1=Chun-Li - Kikou Shou,FF8711,04,FF8710,06
+2=Chun-Li - Rinkaishou,FF8721,04,FF8720,0A
+3=Chun-Li - Hanzan Hishou Kyaku,FF8751,04,FF8750,06
+4=Dan - Oyaji Blast,FF8721,04,FF8720,0A
+5=Dan - Kouryuu Rekka,FF8729,04,FF8728,06
+6=Dan - Jun Koku Satsu,FF8739,04,FF8738,0A
+7=Dan - Shinkuu Gadou Ken,FF8771,04,FF8770,06
+8=Dan - Chohatsu Densetsu,FF8761,04,FF8760,0C
+9=Felicia - Please Help Me,FF8729,04,FF8728,0A
+10=Felicia - Crazy For You,FF8739,04,FF8738,0A
+11=Felicia - Dancing Flash,FF8749,04,FF8748,06
+12=Gouki - Messatsu Gou Hadou,FF8721,04,FF8720,0A
+13=Gouki - Messatsu Gou Shoryuu,FF8729,04,FF8728,06
+14=Gouki - Shun Goku Satsu,FF8739,04,FF8738,0A
+15=Ibuki - Kasumi Suzaku,FF8721,04,FF8720,06
+16=Ibuki - Jiraiya,FF8731,04,FF8730,0A
+17=Ibuki - Hayate,FF8741,04,FF8740,06
+18=Ken - Shoryuu Reppa,FF8721,04,FF8720,06
+19=Ken - Shinryuu Ken,FF8729,04,FF8728,06
+20=Ken - Shippu Jinrai Kyaku,FF8739,04,FF8738,0A
+21=Lei-Lei - Tenrai Ha,FF8719,04,FF8718,0A
+22=Lei-Lei - Rairai Kyuu,FF8729,04,FF8728,06
+23=Lei-Lei - Tenkai San,FF8739,04,FF8738,06
+24=Morrigan - Darkness Illusion,FF8721,04,FF8720,0A
+25=Morrigan - Parasite Tempest,FF8729,04,FF8728,06
+26=Morrigan - Death Blade,FF8741,04,FF8740,06
+27=Ryu - Shinkuu Hadou Ken,FF8721,04,FF8720,06
+28=Ryu - Boufuu Tatsumaki Senpuu Kyaku,FF8729,04,FF8728,06
+29=Ryu - Reppu Jinrai Shou,FF8739,04,FF8738,06
+30=Sakura - Shinkuu Hadou Ken,FF8719,04,FF8718,06
+31=Sakura - Midare Harusame,FF8729,04,FF8728,06
+32=Sakura - Haru Ranman,FF8739,04,FF8738,0A
+33=Tabasa - Russian Beat,FF8731,04,FF8730,06
+34=Tabasa - Heavy Bite,FF8741,04,FF8740,0A
+35=Tabasa - Final Atomic Buster,FF8751,04,FF8750,06
+36=Zangief - Russian Beat,FF8721,04,FF8720,06
+37=Zangief - Heavy Bite,FF8731,04,FF8730,0A
+38=Zangief - Final Atomic Buster,FF8741,08,FF8740,00
+
+[38]
+Name=P2 Easy Mighty Combo
+0=Off
+1=Chun-Li - Kikou Shou,FF8B11,04,FF8B10,06
+2=Chun-Li - Rinkaishou,FF8B21,04,FF8B20,0A
+3=Chun-Li - Hanzan Hishou Kyaku,FF8B51,04,FF8B50,06
+4=Dan - Oyaji Blast,FF8B21,04,FF8B20,0A
+5=Dan - Kouryuu Rekka,FF8B29,04,FF8B28,06
+6=Dan - Jun Koku Satsu,FF8B39,04,FF8B38,0A
+7=Dan - Shinkuu Gadou Ken,FF8B71,04,FF8B70,06
+8=Dan - Chohatsu Densetsu,FF8B61,04,FF8B60,0C
+9=Felicia - Please Help Me,FF8B29,04,FF8B28,0A
+10=Felicia - Crazy For You,FF8B39,04,FF8B38,0A
+11=Felicia - Dancing Flash,FF8B49,04,FF8B48,06
+12=Gouki - Messatsu Gou Hadou,FF8B21,04,FF8B20,0A
+13=Gouki - Messatsu Gou Shoryuu,FF8B29,04,FF8B28,06
+14=Gouki - Shun Goku Satsu,FF8B39,04,FF8B38,0A
+15=Ibuki - Kasumi Suzaku,FF8B21,04,FF8B20,06
+16=Ibuki - Jiraiya,FF8B31,04,FF8B30,0A
+17=Ibuki - Hayate,FF8B41,04,FF8B40,06
+18=Ken - Shoryuu Reppa,FF8B21,04,FF8B20,06
+19=Ken - Shinryuu Ken,FF8B29,04,FF8B28,06
+20=Ken - Shippu Jinrai Kyaku,FF8B39,04,FF8B38,0A
+21=Lei-Lei - Tenrai Ha,FF8B19,04,FF8B18,0A
+22=Lei-Lei - Rairai Kyuu,FF8B29,04,FF8B28,06
+23=Lei-Lei - Tenkai San,FF8B39,04,FF8B38,06
+24=Morrigan - Darkness Illusion,FF8B21,04,FF8B20,0A
+25=Morrigan - Parasite Tempest,FF8B29,04,FF8B28,06
+26=Morrigan - Death Blade,FF8B41,04,FF8B40,06
+27=Ryu - Shinkuu Hadou Ken,FF8B21,04,FF8B20,06
+28=Ryu - Boufuu Tatsumaki Senpuu Kyaku,FF8B29,04,FF8B28,06
+29=Ryu - Reppu Jinrai Shou,FF8B39,04,FF8B38,06
+30=Sakura - Shinkuu Hadou Ken,FF8B19,04,FF8B18,06
+31=Sakura - Midare Harusame,FF8B29,04,FF8B28,06
+32=Sakura - Haru Ranman,FF8B39,04,FF8B38,0A
+33=Tabasa - Russian Beat,FF8B31,04,FF8B30,06
+34=Tabasa - Heavy Bite,FF8B41,04,FF8B40,0A
+35=Tabasa - Final Atomic Buster,FF8B51,04,FF8B50,06
+36=Zangief - Russian Beat,FF8B21,04,FF8B20,06
+37=Zangief - Heavy Bite,FF8B31,04,FF8B30,0A
+38=Zangief - Final Atomic Buster,FF8B41,08,FF8B40,00
+
+[39]
+Name=背景选择
+0=Off
+1=Background 1,FF8180,00
+2=Background 2,FF8180,02
+3=Background 3,FF8180,04
+4=Background 4,FF8180,06
+5=Background 5,FF8180,08
+6=Background 6,FF8180,0A
+7=Background 7,FF8180,0C
+8=Background 8,FF8180,0E
+
+[40]
+Name=关卡选择 (不建议)
+0=Off
+1=Stage 1,FF8192,00
+2=Stage 2,FF8192,01
+3=Stage 3,FF8192,02
+4=Stage 4,FF8192,03
+5=Stage 5,FF8192,04
+6=Stage 6,FF8192,05
+7=Stage 7,FF8192,06
+8=Stage 8,FF8192,07

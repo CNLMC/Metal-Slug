@@ -1,0 +1,181 @@
+[0]
+Name=对战时间
+0=Off
+1=00,106AA9,00
+2=60,106AA9,61
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,100488,00
+2=红血,100488,60
+3=满血,100488,C0
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,100588,00
+2=红血,100588,60
+3=满血,100588,C0
+
+[3]
+Name=P1 气力槽
+0=Off
+1=无气,1004BB,00
+2=满气,1004BB,3C
+
+[4]
+Name=P2 气力槽
+0=Off
+1=无气,1005BB,00
+2=满气,1005BB,3C
+
+[5]
+Name=P1 角色选择
+0=Off
+1=Terry,106A24,01
+2=Andy,106A24,02
+3=Higashi,106A24,03
+4=Mai Shiranui,106A24,04
+5=Geese Howard,106A24,05
+6=Sokaku Mochizuki,106A24,06
+7=Bob Wilson,106A24,07
+8=Hon Fu,106A24,08
+9=Blue Mary,106A24,09
+10=Franco Bash,106A24,0A
+11=Ryuji Yamazaki,106A24,0B
+12=Jin Chonshu,106A24,0C
+13=Jin Chonrei,106A24,0D
+14=Duck King,106A24,0E
+15=Kim Kaphwan,106A24,0F
+16=Billy Kane,106A24,10
+
+[6]
+Name=P2 角色选择
+0=Off
+1=Terry,106A26,01
+2=Andy,106A26,02
+3=Higashi,106A26,03
+4=Mai Shiranui,106A26,04
+5=Geese Howard,106A26,05
+6=Sokaku Mochizuki,106A26,06
+7=Bob Wilson,106A26,07
+8=Hon Fu,106A26,08
+9=Blue Mary,106A26,09
+10=Franco Bash,106A26,0A
+11=Ryuji Yamazaki,106A26,0B
+12=Jin Chonshu,106A26,0C
+13=Jin Chonrei,106A26,0D
+14=Duck King,106A26,0E
+15=Kim Kaphwan,106A26,0F
+16=Billy Kane,106A26,10
+
+[7]
+Name=P1 对手 1 选择
+0=Off
+1=Terry,106A3E,01
+2=Andy,106A3E,02
+3=Higashi,106A3E,03
+4=Mai Shiranui,106A3E,04
+5=Geese Howard,106A3E,05
+6=Sokaku Mochizuki,106A3E,06
+7=Bob Wilson,106A3E,07
+8=Hon Fu,106A3E,08
+9=Blue Mary,106A3E,09
+10=Franco Bash,106A3E,0A
+11=Ryuji Yamazaki,106A3E,0B
+12=Jin Chonshu,106A3E,0C
+13=Jin Chonrei,106A3E,0D
+14=Duck King,106A3E,0E
+15=Kim Kaphwan,106A3E,0F
+16=Billy Kane,106A3E,10
+
+[8]
+Name=P1 对手 2 选择
+0=Off
+1=Terry,106A41,01
+2=Andy,106A41,02
+3=Higashi,106A41,03
+4=Mai Shiranui,106A41,04
+5=Geese Howard,106A41,05
+6=Sokaku Mochizuki,106A41,06
+7=Bob Wilson,106A41,07
+8=Hon Fu,106A41,08
+9=Blue Mary,106A41,09
+10=Franco Bash,106A41,0A
+11=Ryuji Yamazaki,106A41,0B
+12=Jin Chonshu,106A41,0C
+13=Jin Chonrei,106A41,0D
+14=Duck King,106A41,0E
+15=Kim Kaphwan,106A41,0F
+16=Billy Kane,106A41,10
+
+[9]
+Name=P1 对手 3 选择
+0=Off
+1=Terry,106A40,01
+2=Andy,106A40,02
+3=Higashi,106A40,03
+4=Mai Shiranui,106A40,04
+5=Geese Howard,106A40,05
+6=Sokaku Mochizuki,106A40,06
+7=Bob Wilson,106A40,07
+8=Hon Fu,106A40,08
+9=Blue Mary,106A40,09
+10=Franco Bash,106A40,0A
+11=Ryuji Yamazaki,106A40,0B
+12=Jin Chonshu,106A40,0C
+13=Jin Chonrei,106A40,0D
+14=Duck King,106A40,0E
+15=Kim Kaphwan,106A40,0F
+16=Billy Kane,106A40,10
+
+[10]
+Name=P1 被攻击後状态
+0=Off
+1=不恢复,10048A,02
+2=马上恢复,10048A,00
+
+[11]
+Name=P2 被攻击後状态
+0=Off
+1=不恢复,10058A,02
+2=马上恢复,10058A,00
+
+[12]
+Name=墙壁总是坚固
+0=Off
+1=左墙,10969E,0A
+2=右墙,1096A0,0A
+3=左右墙,10969E,0A,1096A0,0A
+
+[13]
+Name=墙壁一击即塌
+0=Off
+1=左边,10969E,00
+2=右边,1096A0,00
+3=左右边,10969E,00,1096A0,00
+
+[14]
+Name=动作加快
+0=Off
+1=P1,10046E,00
+2=P2,10056E,00
+3=P1+P2,10046E,00,10056E,00
+
+[15]
+Name=关卡选择
+0=No,0,0
+1=Stage 1,106A36,01
+2=Stage 2,106A36,02
+3=Stage 3,106A36,03
+4=Stage 4,106A36,04
+5=Stage 5,106A36,05
+6=Stage 6,106A36,06
+7=Stage 7,106A36,07
+8=Stage 8,106A36,08
+9=Stage 9,106A36,09
+10=Stage 10,106A36,0A
+11=Stage 11,106A36,0B
+12=Stage 12,106A36,0C
+13=Boss,106A36,0D

@@ -1,0 +1,148 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF9CE6,00
+2=USA,FF9CE6,01
+3=ETC,FF9CE6,02
+4=Asia,FF9CE6,03
+5=Hispanic,FF9CE6,04
+
+[1]
+Name=比赛时间
+0=Off
+1=0:00,FFA0CA,00
+2=9:59,FFA0C9,09,FFA0C8,05,FFA0CB,0A
+3=停止,FFA0CA,01
+
+[2]
+Name=P1 血槽
+0=Off
+1=无血,FF9156,00
+2=满血,FF9156,FF
+
+[3]
+Name=P2 血槽
+0=Off
+1=无血,FF9356,00
+2=满血,FF9356,FF
+
+[4]
+Name=P3 血槽
+0=Off
+1=无血,FF9556,00
+2=满血,FF9556,FF
+
+[5]
+Name=P4 血槽
+0=Off
+1=无血,FF9756,00
+2=满血,FF9756,FF
+
+[6]
+Name=P1 皇冠标志
+0=Off
+1=0,FF9275,00
+2=6,FF9275,06
+3=9,FF9275,09
+4=18,FF9275,12
+
+[7]
+Name=P2 皇冠标志
+0=Off
+1=0,FF9274,00
+2=6,FF9274,06
+3=9,FF9274,09
+4=18,FF9274,12
+
+[8]
+Name=P3 皇冠标志
+0=Off
+1=0,FF9273,00
+2=6,FF9273,06
+3=9,FF9273,09
+4=18,FF9273,12
+
+[9]
+Name=P4 皇冠标志
+0=Off
+1=0,FF9272,00
+2=6,FF9272,06
+3=9,FF9272,09
+4=18,FF9272,12
+
+[10]
+Name=P1 人物选择
+0=Off
+1=*Jumbo,FFA099,00
+2=Biff,FFA099,01
+3=Gunloc,FFA099,02
+4=Oni,FFA099,03
+5=Titan,FFA099,04
+6=Stingr,FFA099,05
+7=Haggar,FFA099,06
+8=Grater,FFA099,07
+9=Rasta,FFA099,08
+10=*Scorp,FFA099,09
+
+[11]
+Name=P2 人物选择
+0=Off
+1=*Jumbo,FFA098,00
+2=Biff,FFA098,01
+3=Gunloc,FFA098,02
+4=Oni,FFA098,03
+5=Titan,FFA098,04
+6=Stingr,FFA098,05
+7=Haggar,FFA098,06
+8=Grater,FFA098,07
+9=Rasta,FFA098,08
+10=*Scorp,FFA098,09
+
+[12]
+Name=P3 人物选择
+0=Off
+1=*Jumbo,FFA097,00
+2=Biff,FFA097,01
+3=Gunloc,FFA097,02
+4=Oni,FFA097,03
+5=Titan,FFA097,04
+6=Stingr,FFA097,05
+7=Haggar,FFA097,06
+8=Grater,FFA097,07
+9=Rasta,FFA097,08
+10=*Scorp,FFA097,09
+
+[13]
+Name=P4 人物选择
+0=Off
+1=*Jumbo,FFA096,00
+2=Biff,FFA096,01
+3=Gunloc,FFA096,02
+4=Oni,FFA096,03
+5=Titan,FFA096,04
+6=Stingr,FFA096,05
+7=Haggar,FFA096,06
+8=Grater,FFA096,07
+9=Rasta,FFA096,08
+10=*Scorp,FFA096,09
+
+[14]
+Name=怒气状态
+0=Off
+1=P1,FF9210,04
+2=P2,FF9410,04
+3=P3,FF9610,04
+4=P4,FF9810,04
+
+[15]
+Name=关卡选择
+0=Off
+1=Stage 1,FFA095,01
+2=Stage 2,FFA095,02
+3=Stage 3,FFA095,03
+4=Stage 4,FFA095,04
+5=Stage 5,FFA095,05
+6=Stage 6,FFA095,06
+7=Stage 7,FFA095,07
+8=Stage 8,FFA095,08
+9=Stage 9,FFA095,09,FF9275,02

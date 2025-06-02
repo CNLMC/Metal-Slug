@@ -1,0 +1,41 @@
+[0]
+Name=投币数
+0=Off
+1=9,FF49A2,09
+
+[1]
+Name=选择时间
+0=Off
+1=无限,FF48F4,B0,FF48F5,04
+
+[2]
+Name=P1 生命无限
+0=Off
+1=开启 (游戏时才开),FF49A8,09
+
+[3]
+Name=P2 生命无限
+0=Off
+1=开启 (游戏时才开),FF49CE,09
+
+[4]
+Name=P1 火力最强
+0=Off
+1=开启,FF49B4,07
+
+[5]
+Name=P2 火力最强
+0=Off
+1=开启,FF49DA,07
+
+[6]
+Name=P1 船体选择
+0=Off
+1=Mosquito 01,FF49B6,00
+2=Mosquito 02,FF49B6,01
+
+[7]
+Name=P2 船体选择
+0=Off
+1=Mosquito 01,FF49DC,00
+2=Mosquito 02,FF49DC,01

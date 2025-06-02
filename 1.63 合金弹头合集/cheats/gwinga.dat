@@ -1,0 +1,138 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF20B0,00
+2=USA,FF20B0,02
+3=Euro,FF20B0,04
+4=Brazil,FF20B0,06
+5=Hispanic,FF20B0,08
+6=Asia,FF20B0,0A
+
+[1]
+Name=时间无限
+0=Off
+1=开启,FFD7FC,63
+
+[2]
+Name=生命无限
+0=Off
+1=P1,FF72DC,04
+2=P2,FF72DE,04
+3=P1+P2,FF72DC,04,FF72DE,04
+
+[3]
+Name=炸弹无限
+0=Off
+1=P1,FF72E0,08
+2=P2,FF72E2,08
+3=P1+P2,FF72E0,08,FF72E2,08
+
+[4]
+Name=战机无敌*
+0=Off
+1=P1,FFAE3A,03
+2=P2,FFAEFA,03
+3=P1+P2,FFAE3A,03,FFAEFA,03
+
+[5]
+Name=自动射击*
+0=Off
+1=P1,FFAE37,00
+2=P2,FFAEF7,00
+3=P1+P2,FFAE37,00,FFAEF7,00
+
+[6]
+Name=P1 自动炸弹
+0=Off
+1=Easy Bomb,FF9E2A,00
+2=Auto Bomb,FF9E2B,80
+
+[7]
+Name=P2 自动炸弹
+0=Off
+1=Easy Bomb,FF9FAA,00
+2=Auto Bomb,FF9FAB,80
+
+[8]
+Name=P1 射击类型
+0=Off
+1=Type A Level 1,FF730C,00
+2=Type A Level 2,FF730C,01
+3=Type A Level 3,FF730C,02
+4=Type A Level 4,FF730C,03
+5=Type B Level 1,FF730C,04
+6=Type B Level 2,FF730C,05
+7=Type B Level 3,FF730C,06
+8=Type B Level 4,FF730C,07
+9=Type C Level 1,FF730C,08
+10=Type C Level 2,FF730C,09
+11=Type C Level 3,FF730C,0A
+12=Type C Level 4,FF730C,0B
+13=Type D Level 1,FF730C,0C
+14=Type D Level 2,FF730C,0D
+15=Type D Level 3,FF730C,0E
+16=Type D Level 4,FF730C,0F
+
+[9]
+Name=P2 射击类型
+0=Off
+1=Type A Level 1,FF7314,00
+2=Type A Level 2,FF7314,01
+3=Type A Level 3,FF7314,02
+4=Type A Level 4,FF7314,03
+5=Type B Level 1,FF7314,04
+6=Type B Level 2,FF7314,05
+7=Type B Level 3,FF7314,06
+8=Type B Level 4,FF7314,07
+9=Type C Level 1,FF7314,08
+10=Type C Level 2,FF7314,09
+11=Type C Level 3,FF7314,0A
+12=Type C Level 4,FF7314,0B
+13=Type D Level 1,FF7314,0C
+14=Type D Level 2,FF7314,0D
+15=Type D Level 3,FF7314,0E
+16=Type D Level 4,FF7314,0F
+
+[10]
+Name=P1 角色选择
+0=Off
+1=Sinnosuke,FF7308,00
+2=Ruby,FF7308,01
+3=Isha,FF7308,02
+4=Stuck,FF7308,03
+5=Unknown,FF7308,04
+
+[11]
+Name=P2 角色选择
+0=Off
+1=Sinnosuke,FF7310,00
+2=Ruby,FF7310,01
+3=Isha,FF7310,02
+4=Stuck,FF7310,03
+5=Unknown,FF7310,04
+
+[12]
+Name=维持集气状态
+0=Off
+1=P1,FF9E6F,03
+2=P2,FF9FEF,03
+3=P1+P2,FF9E6F,03,FF9FEF,03
+
+[13]
+Name=关卡选择
+0=Off
+1=Stage 1,FF7340,00
+2=Stage 2,FF7340,01
+3=Stage 3,FF7340,02
+4=Stage 4,FF7340,03
+5=Stage 5,FF7340,04
+6=Stage 6,FF7340,05
+7=Stage 7,FF7340,06
+8=Demo Stage,FF7340,07
+
+[14]
+Name=星星
+0=Off
+1=P1,FF72E6,99
+2=P2,FF72EA,99
+3=P1+P2,FF72E6,99,FF72EA,99

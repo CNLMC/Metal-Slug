@@ -1,0 +1,113 @@
+[0]
+Name=时间无限
+0=Off
+1=00,10E594,00
+2=60,10E594,61
+3=Stop,100708,50
+
+[1]
+Name=盔甲效果
+0=Off
+1=P1,10E44D,01
+2=P2,10E451,01
+3=P1+P2,10E44D,01,10E451,01
+
+[2]
+Name=P1 血量不减
+0=Off
+1=关闭,10E4B3,00
+2=开启,10E4B3,01
+
+[3]
+Name=P2 血量不减
+0=Off
+1=关闭,10E4B2,00
+2=开启,10E4B2,01
+
+[4]
+Name=P1 角色选择
+0=Off
+1=枫 | Kaede,10BD58,00
+2=御名方守矢 | Moriya,10BD58,01
+3=雪 | Yuki,10BD58,02
+4=玄武之翁 | Okina,10BD58,03
+5=一条明香里 | Akari,10BD58,04
+6=神崎十叁 | Juzoh,10BD58,05
+7=鹫冢庆一郎 | Washizuka,10BD58,06
+8=骸 | Mukuro,10BD58,07
+9=天野漂 | Amano,10BD58,08
+10=李烈火 | Lee,10BD58,09
+11=斩铁 | Zantetsu,10BD58,0A
+12=直卫示源 | Shigen,10BD58,0B
+13=嘉神慎之介 | Kagami,10BD58,0C
+14=真田小次郎 | Kojiroh,10BD58,0D
+15=高岭响 | Hibiki,10BD58,0E
+16=刹那 | Setsuna,10BD58,0F
+17=*黄龙 | Kouryu,10BD58,10
+18=*枫 (未觉醒) | Kaede,10BD58,11
+19=*走失人形 | Hagure,10BD58,12
+20=*直卫虎彻 | Kotetsu,10BD58,13
+
+[5]
+Name=P2 角色选择
+0=Off
+1=枫 | Kaede,10BD5A,00
+2=御名方守矢 | Moriya,10BD5A,01
+3=雪 | Yuki,10BD5A,02
+4=玄武之翁 | Okina,10BD5A,03
+5=一条明香里 | Akari,10BD5A,04
+6=神崎十叁 | Juzoh,10BD5A,05
+7=鹫冢庆一郎 | Washizuka,10BD5A,06
+8=骸 | Mukuro,10BD5A,07
+9=天野漂 | Amano,10BD5A,08
+10=李烈火 | Lee,10BD5A,09
+11=斩铁 | Zantetsu,10BD5A,0A
+12=直卫示源 | Shigen,10BD5A,0B
+13=嘉神慎之介 | Kagami,10BD5A,0C
+14=真田小次郎 | Kojiroh,10BD5A,0D
+15=高岭响 | Hibiki,10BD5A,0E
+16=刹那 | Setsuna,10BD5A,0F
+17=*黄龙 | Kouryu,10BD5A,10
+18=*枫 (未觉醒) | Kaede,10BD5A,11
+19=*走失人形 | Hagure,10BD5A,12
+20=*直卫虎彻 | Kotetsu,10BD5A,13
+
+[6]
+Name=P1 剑质选择
+0=Off
+1=力 | Power,10E367,01
+2=速 | Speed,10E367,02
+3=极 | EX,10E367,03
+
+[7]
+Name=P2 剑质选择
+0=Off
+1=力 | Power,10E366,01
+2=速 | Speed,10E366,02
+3=极 | EX,10E366,03
+
+[8] 
+Name=背景选择
+0=Off
+1=Blue Sky,10E57C,00
+2=Battlefiled,10E57C,01
+3=Elephant?,10E57C,02
+4=Village,10E57C,03
+5=Graveyard,10E57C,04
+6=Forest,10E57C,05
+7=Yuki-Machi,10E57C,06
+8=Shrine,10E57C,07
+9=Gate,10E57C,08
+10=Flames,10E57C,09
+
+[9]
+Name=关卡选择
+0=Off
+1=Stage 1,10E580,00
+2=Stage 2,10E580,01
+3=Stage 3,10E580,02
+4=Stage 4,10E580,03
+5=Stage 5,10E580,04
+6=Stage 6,10E580,05
+7=Stage 7,10E580,06
+8=Final Stage,10E580,07

@@ -1,0 +1,221 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF8C0A,00
+2=USA,FF8C0A,01
+3=Asia,FF8C0A,02
+4=Hispanic,FF8C0A,03
+5=Euro,FF8C0A,04
+6=Brazil,FF8C0A,05
+7=Oceania,FF8C0A,06
+8=Korea,FF8C0A,07
+
+[1]
+Name=投币数
+0=Off
+1=9,FF8AE8,09
+
+[2]
+Name=隐藏国家开启
+0=Off
+1=开启,FF8BFB,FF
+Default=1
+[3]
+Name=Dunk Stars - 选队时间
+0=Off
+1=P1,FF0E3C,02,FF0E3F,00
+2=P2,FF0E4C,02,FF0E4F,00
+3=P1+P2,FF0E3C,02,FF0E3F,00,FF0E4C,02,FF0E4F,00
+
+[4]
+Name=Dunk Stars - 比赛时间
+0=Off
+1=0:00,FF8C93,00,FF8C92,00,FF8C95,00
+2=1:00,FF8C93,01,FF8C92,00,FF8C95,00
+3=2:00,FF8C93,02,FF8C92,00,FF8C95,00
+4=3:00,FF8C93,03,FF8C92,00,FF8C95,00
+
+[5]
+Name=Dunk Stars - P1 得分
+0=Off
+1=00,FF8C98,00
+2=99,FF8C98,63
+
+[6]
+Name=Dunk Stars - P2 得分
+0=Off
+1=00,FF8C9A,00
+2=99,FF8C9A,63
+
+[7]
+Name=Dunk Stars - P1 队伍
+0=Off
+1=Uk,FF0E37,00
+2=France,FF0E37,01
+3=Germany,FF0E37,02
+4=Italy,FF0E37,03
+5=Spain,FF0E37,04
+6=Japan,FF0E37,05
+7=China,FF0E37,06
+8=USA,FF0E37,07
+9=Golden USA,FF0E37,08
+
+[8]
+Name=Dunk Stars - P2 队伍
+0=Off
+1=Uk,FF0E47,00
+2=France,FF0E47,01
+3=Germany,FF0E47,02
+4=Italy,FF0E47,03
+5=Spain,FF0E47,04
+6=Japan,FF0E47,05
+7=China,FF0E47,06
+8=USA,FF0E47,07
+9=Golden USA,FF0E47,08
+
+[9]
+Name=Dunk Stars - 阶段
+0=Off
+1=八强,FF8CA1,00
+2=四强,FF8CA1,01
+3=决赛,FF8CA1,02
+
+[10]
+Name=Kick Stars - 选队时间
+0=Off
+1=P1,FF0992,02,FF0995,00
+2=P2,FF09A6,02,FF09A9,00
+3=P1+P2,FF0992,02,FF0995,00,FF09A6,02,FF09A9,00
+
+[11]
+Name=Kick Stars - 比赛时间
+0=Off
+1=0:00,FF8C93,00,FF8C92,00,FF8C95,00
+2=1:00,FF8C93,01,FF8C92,00,FF8C95,00
+3=2:00,FF8C93,02,FF8C92,00,FF8C95,00
+4=3:00,FF8C93,03,FF8C92,00,FF8C95,00
+
+[12]
+Name=Kick Stars - P1 得分
+0=Off
+1=00,FF8CB4,00
+2=99,FF8CB4,63
+
+[13]
+Name=Kick Stars - P2 得分
+0=Off
+1=00,FF8CBA,00
+2=99,FF8CBA,63
+
+[14]
+Name=Kick Stars - P1 队伍
+0=Off
+1=Germany,FF098D,00
+2=Japan,FF098D,01
+3=Italy,FF098D,02
+4=France,FF098D,03
+5=Spain,FF098D,04
+6=Mexico,FF098D,05
+7=Argentina,FF098D,06
+8=Brazil,FF098D,07
+9=Star,FF098D,08
+
+[15]
+Name=Kick Stars - P2 队伍
+0=Off
+1=Germany,FF09A1,00
+2=Japan,FF09A1,01
+3=Italy,FF09A1,02
+4=France,FF09A1,03
+5=Spain,FF09A1,04
+6=Mexico,FF09A1,05
+7=Argentina,FF09A1,06
+8=Brazil,FF09A1,07
+9=Star,FF09A1,08
+
+[16]
+Name=Kick Stars - 阶段
+0=Off
+1=八强,FF8C9D,00
+2=四强,FF8C9D,01
+3=决赛,FF8C9D,02
+
+[17]
+Name=Smash Stars -  选队时间
+0=Off
+1=P1,FF0CA8,02,FF0CAB,00
+2=P2,FF0CBC,02,FF0CBF,00
+3=P1+P2,FF0CA8,02,FF0CAB,00,FF0CBC,02,FF0CBF,00
+
+[18]
+Name=Smash Stars - P1 设置得分
+0=Off
+1=00,FFAE15,00
+2=40,FFAE15,03
+
+[19]
+Name=Smash Stars - P2 设置得分
+0=Off
+1=00,FFB315,00
+2=40,FFB315,03
+
+[20]
+Name=Smash Stars - P1 比赛得分
+0=Off
+1=0,FFAE14,00
+2=6,FFAE14,06
+
+[21]
+Name=Smash Stars - P2 比赛得分
+0=Off
+1=0,FFB314,00
+2=6,FFB314,06
+
+[22]
+Name=Smash Stars - P1 队伍
+0=Off
+1=Graft (Germany),FFAE86,00
+2=Natalie (France),FFAE86,01
+3=Estella (Spain),FFAE86,02
+4=Katrina (Russia),FFAE86,03
+5=Simmy (India),FFAE86,04
+6=Florence (Italy),FFAE86,05
+7=Laurie (UK),FFAE86,06
+8=Amee (USA),FFAE86,07
+9=Maria (Mexico),FFAE86,08
+10=Jana (Brazil),FFAE86,09
+11=Fang-Ming (Taiwan),FFAE86,0A
+12=Li-Li (China),FFAE86,0B
+13=Zina (Egypt),FFAE86,0C
+14=Sue (Korea),FFAE86,0D
+15=Hikari (Japan),FFAE86,0E
+16=Ayshea (Australia),FFAE86,0F
+17=Melody (Love),FFAE86,10
+
+[23]
+Name=Smash Stars - P2 队伍
+0=Off
+1=Graft (Germany),FFB386,00
+2=Natalie (France),FFB386,01
+3=Estella (Spain),FFB386,02
+4=Katrina (Russia),FFB386,03
+5=Simmy (India),FFB386,04
+6=Florence (Italy),FFB386,05
+7=Laurie (UK),FFB386,06
+8=Amee (USA),FFB386,07
+9=Maria (Mexico),FFB386,08
+10=Jana (Brazil),FFB386,09
+11=Fang-Ming (Taiwan),FFB386,0A
+12=Li-Li (China),FFB386,0B
+13=Zina (Egypt),FFB386,0C
+14=Sue (Korea),FFB386,0D
+15=Hikari (Japan),FFB386,0E
+16=Ayshea (Australia),FFB386,0F
+17=Melody (Love),FFB386,10
+
+[24]
+Name=Smash Stars - 阶段*
+0=Off
+1=八强,FF8CDB,00
+2=四强,FF8CDB,01
+3=决赛,FF8CDB,02

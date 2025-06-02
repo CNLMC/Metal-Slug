@@ -1,0 +1,96 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF03E8,00
+2=USA,FF03E8,01
+3=ETC,FF03E8,02
+4=Hispanic,FF03E8,03
+5=Asia,FF03E8,04
+
+[1]
+Name=投币数
+0=Off
+1=9,FF02E9,09
+
+[2]
+Name=生命无限
+0=Off
+1=P1,FFF5F3,02
+2=P2,FFF5F2,02
+3=P1+P2,FFF5F3,02,FFF5F2,02
+
+[3]
+Name=臂力量满
+0=Off
+1=P1,FF3953,14
+2=P2,FF3952,14
+3=P1+P2,FF3953,14,FF3952,14
+
+[4]
+Name=战机无敌
+0=Off
+1=P1,FF877B,8D
+2=P2,FF8D4B,8D
+3=P1+P2,FF877B,8D,FF8D4B,8D
+
+[5]
+Name=P1 武器等级
+0=Off
+1=Level 1,FF8953,01
+2=Level 2,FF8953,02
+3=Level 3,FF8953,03
+4=Level 4,FF8953,04
+5=Level 5,FF8953,05
+
+[6]
+Name=P1 主武器选择
+0=Off
+1=普通,FF876D,01
+2=黑球,FF876D,02
+3=雷射,FF876D,03
+4=尖球,FF876D,04
+
+[7]
+Name=P1 副武器选择
+0=Off
+1=无,FF8768,00
+2=子弹,FF8768,01
+3=炸弹,FF8768,02
+4=导弹,FF8768,03
+
+[8]
+Name=P2 武器等级
+0=Off
+1=Level 1,FF8F23,01
+2=Level 2,FF8F23,02
+3=Level 3,FF8F23,03
+4=Level 4,FF8F23,04
+5=Level 5,FF8F23,05
+
+[9]
+Name=P2 主武器选择
+0=Off
+1=普通,FF8D3D,01
+2=黑球,FF8D3D,02
+3=雷射,FF8D3D,03
+4=尖球,FF8D3D,04
+
+[10]
+Name=P2 副武器选择
+0=Off
+1=无,FF8D38,00
+2=子弹,FF8D38,01
+3=炸弹,FF8D38,02
+4=导弹,FF8D38,03
+
+[11]
+Name=关卡选择
+0=Off
+1=Stage 1,FFF63C,01,FF80A0,01
+2=Stage 2,FFF63C,02,FF80A0,02
+3=Stage 3,FFF63C,03,FF80A0,03
+4=Stage 4,FFF63C,04,FF80A0,04
+5=Stage 5,FFF63C,05,FF80A0,05
+6=Stage 6,FFF63C,06,FF80A0,06
+7=Final Stage,FFF63C,07,FF80A0,07
+8=Ending,FFF63C,08,FF80A0,08

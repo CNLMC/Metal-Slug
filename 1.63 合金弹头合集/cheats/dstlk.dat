@@ -1,0 +1,121 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF8204,00
+2=USA,FF8204,02
+3=Asia,FF8204,04
+4=Hispanic,FF8204,06
+5=Euro,FF8204,08
+
+[1]
+Name=游戏标题
+0=Off
+1=Vampire,FF8215,00
+2=Dalkstalkers,FF8215,01
+
+[2]
+Name=对战时间
+0=Off
+1=无限,FF9408,99
+
+[3]
+Name=P1 血槽
+0=Off
+1=瞬死,FF83CB,80
+2=无血,FF83CA,00,FF83CC,00
+3=满血 (正常效果),FF83CB,01,FF83CD,01
+4=满血 (盔甲效果),FF83CA,90,FF83CC,90
+
+[4]
+Name=P2 血槽
+0=Off
+1=瞬死,FF87CB,80
+2=无血,FF87CA,00,FF87CC,00
+3=满血 (正常效果),FF87CB,01,FF87CD,01
+4=满血 (盔甲效果),FF87CA,90,FF87CC,90
+
+[5]
+Name=P1 气力槽
+0=Off
+1=无气,FF855C,00,FF855E,00
+2=满气,FF855C,50,FF855E,50
+
+[6]
+Name=P2 气力槽
+0=Off
+1=无气,FF895C,00,FF895E,00
+2=满气,FF895C,50,FF895E,50
+
+[7]
+Name=P1 被打後状态
+0=Off
+1=不恢复,FF83D2,01
+2=马上恢复,FF83D2,00
+
+[8]
+Name=P2 被打後状态
+0=Off
+1=不恢复,FF87D2,01
+2=马上恢复,FF87D2,00
+
+[9]
+Name=P1 人物选择
+0=Off
+1=Demitri,FF8728,01
+2=Jon Talbain,FF8728,02
+3=Victor,FF8728,03
+4=Lord Raptor,FF8728,04
+5=Morrigan,FF8728,05
+6=Anakaris,FF8728,06
+7=Felicia,FF8728,07
+8=Bishamon,FF8728,08
+9=Rikuo,FF8728,09
+10=Sasquatch,FF8728,0A
+11=*Huitzil,FF8728,0B
+12=*Pyron,FF8728,0C
+
+[10]
+Name=P2 人物选择
+0=Off
+1=Demitri,FF8B28,01
+2=Jon Talbain,FF8B28,02
+3=Victor,FF8B28,03
+4=Lord Raptor,FF8B28,04
+5=Morrigan,FF8B28,05
+6=Anakaris,FF8B28,06
+7=Felicia,FF8B28,07
+8=Bishamon,FF8B28,08
+9=Rikuo,FF8B28,09
+10=Sasquatch,FF8B28,0A
+11=*Huitzil,FF8B28,0B
+12=*Pyron,FF8B28,0C
+
+[11]
+Name=背景选择
+0=Off
+1=Demitri,FF9388,00
+2=Jon Talbain,FF9388,01
+3=Victor,FF9388,02
+4=Lord Raptor,FF9388,03
+5=Morrigan,FF9388,04
+6=Anakaris,FF9388,05
+7=Felicia,FF9388,06
+8=Bishamon,FF9388,07
+9=Rikuo,FF9388,08
+10=Sasquatch,FF9388,09
+11=Huitzil,FF9388,0A
+12=Pyron,FF9388,0B
+
+[12]
+Name=动作加快
+0=Off
+1=P1,FF8396,01
+2=P2,FF8796,01
+3=P1+P2,FF8396,01,FF8796,01
+
+[13]
+Name=连续组合技无限制
+0=Off
+1=P1,FF84E2,00
+2=P2,FF88E2,00
+3=P1+P2,FF84E2,00,FF88E2,00

@@ -1,0 +1,176 @@
+[0]
+Name=对战时间
+0=Off
+1=00,10849F,00
+2=99,10849F,99
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,108572,00
+2=红血,108572,28
+3=满血,108572,80
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,108672,00
+2=红血,108672,28
+3=满血,108672,80
+
+[3]
+Name=P1 怒气槽
+0=Off
+1=无气,10857D,00
+2=满气,10857D,40
+
+[4]
+Name=P2 怒气槽
+0=Off
+1=无气,10867D,00
+2=满气,10867D,40
+
+[5]
+Name=P1 角色选择
+0=Off
+1=Haohmaru (Slash),108471,00
+2=Haohmaru (Bust),108471,50
+3=Nakoruru (Slash),108471,01
+4=Nakoruru (Bust),108471,51
+5=Rimururu (Slash),108471,02
+6=Rimururu (Bust),108471,52
+7=Hanzo Hattori (Slash),108471,03
+8=Hanzo Hattori (Bust),108471,53
+9=Galford (Slash),108471,04
+10=Galford (Bust),108471,54
+11=Kyoshiro Senryo (Slash),108471,05
+12=Kyoshiro Senryo (Bust),108471,55
+13=Ukyo Tachibana (Slash),108471,06
+14=Ukyo Tachibana (Bust),108471,56
+15=Genjuro Kibagami (Slash),108471,07
+16=Genjuro Kibagami (Bust),108471,57
+17=Basara (Slash),108471,08
+18=Basara (Bust),108471,58
+19=Shizumaru Hisame (Slash),108471,09
+20=Shizumaru Hisame (Bust),108471,59
+21=Gaira Kafuin (Slash),108471,0A
+22=Gaira Kafuin (Bust),108471,5A
+23=Amakura Shiro (Slash),108471,0B
+24=Amakura Shiro (Bust),108471,5B
+25=*Kuroko (Slash),108471,0C
+26=*Kuroko (Bust),108471,5C
+27=*Zankurou (Slash),108471,0D
+28=*Zankurou (Bust),108471,5D
+
+[6]
+Name=P2 角色选择
+0=Off
+1=Haohmaru (Slash),108470,00
+2=Haohmaru (Bust),108470,50
+3=Nakoruru (Slash),108470,01
+4=Nakoruru (Bust),108470,51
+5=Rimururu (Slash),108470,02
+6=Rimururu (Bust),108470,52
+7=Hanzo Hattori (Slash),108470,03
+8=Hanzo Hattori (Bust),108470,53
+9=Galford (Slash),108470,04
+10=Galford (Bust),108470,54
+11=Kyoshiro Senryo (Slash),108470,05
+12=Kyoshiro Senryo (Bust),108470,55
+13=Ukyo Tachibana (Slash),108470,06
+14=Ukyo Tachibana (Bust),108470,56
+15=Genjuro Kibagami (Slash),108470,07
+16=Genjuro Kibagami (Bust),108470,57
+17=Basara (Slash),108470,08
+18=Basara (Bust),108470,58
+19=Shizumaru Hisame (Slash),108470,09
+20=Shizumaru Hisame (Bust),108470,59
+21=Gaira Kafuin (Slash),108470,0A
+22=Gaira Kafuin (Bust),108470,5A
+23=Amakura Shiro (Slash),108470,0B
+24=Amakura Shiro (Bust),108470,5B
+25=*Kuroko (Slash),108470,0C
+26=*Kuroko (Bust),108470,5C
+27=*Zankurou (Slash),108470,0D
+28=*Zankurou (Bust),108470,5D
+
+[7]
+Name=P1 等级选择
+0=Off
+1=Bigginers Class (剑客),108473,00
+2=Medium Grade (剑豪),108473,01
+3=Upper Grade (剑圣),108473,02
+
+[8]
+Name=P2 等级选择
+0=Off
+1=Bigginers Class (剑客),108472,00
+2=Medium Grade (剑豪),108472,01
+3=Upper Grade (剑圣),108472,02
+
+[9]
+Name=P1 武器装备
+0=Off
+1=装备,10854C,02
+2=无装备,10854C,03
+
+[10]
+Name=P2 武器装备
+0=Off
+1=装备,10864C,02
+2=无装备,10864C,03
+
+[11]
+Name=P1 自动防御
+0=Off
+1=关闭,108599,00
+2=开启,108599,09
+
+[12]
+Name=P2 自动防御
+0=Off
+1=关闭,108699,00
+2=开启,108699,09
+
+[13]
+Name=P1 胜利回数
+0=Off
+1=0,108593,00
+2=2,108593,02
+
+[14]
+Name=P2 胜利回数
+0=Off
+1=0,108693,00
+2=2,108693,02
+
+[15]
+Name=P1 晕眩状态
+0=Off
+1=永久,1085B5,FF
+2=马上恢复,1085B5,00
+
+[16]
+Name=P2 晕眩状态
+0=Off
+1=永久,1086B5,FF
+2=马上恢复,1086B5,00
+
+[17]
+Name=背景选择
+0=Off
+1=Haohmaru,109068,00
+2=Nakoruru,109068,01
+3=Rimururu,109068,02
+4=Hanzo Hattori,109068,03
+5=Galford,109068,04
+6=Kyoshiro,109068,05
+7=Ukyo Tachibana,109068,06
+8=Genjuro Kibagami,109068,07
+9=Basara,109068,08
+10=Shizumaru Hisame,109068,09
+11=Gaira Kafuin,109068,0A
+12=Amakura Shiro,109068,0B
+13=Kuroko Slash,109068,0C
+14=Zankurou,109068,0D
+15=Zankurou 2(Don't Use This),109068,0E

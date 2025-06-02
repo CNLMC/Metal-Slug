@@ -1,0 +1,69 @@
+[0]
+Name=无限时间
+0=Off
+1=00,FF5681,00
+2=59,FF5681,60
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,FF0488,00
+2=红血,FF0488,1F
+3=满血,FF0488,78
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,FF0588,00
+2=红血,FF0588,1F
+3=满血,FF0588,78
+
+[3]
+Name=P1 角色更换
+0=Off
+1=Terry Bogard,FF0410,01,FF561C,01
+2=Andy Bogard,FF0410,02,FF561C,02
+3=Joe Higashi,FF0410,03,FF561C,03
+4=Mai Shiranui,FF0410,04,FF561C,04
+5=Geese Howard,FF0410,05,FF561C,05
+6=Sokaku,FF0410,06,FF561C,06
+7=Bob Wilson,FF0410,07,FF561C,07
+8=Hon Fu,FF0410,08,FF561C,08
+9=Blue Mary,FF0410,09,FF561C,09
+10=Franco Bash,FF0410,0A,FF561C,0A
+11=*Yamazaki,FF0410,0B,FF561C,0B
+12=*Jin Chonshu,FF0410,0C,FF561C,0C
+13=*Jin Chonrei,FF0410,0D,FF561C,0D
+
+[4]
+Name=P2 角色更换
+0=Off
+1=Terry Bogard,FF0510,01,FF561E,01
+2=Andy Bogard,FF0510,02,FF561E,02
+3=Joe Higashi,FF0510,03,FF561E,03
+4=Mai Shiranui,FF0510,04,FF561E,04
+5=Geese Howard,FF0510,05,FF561E,05
+6=Sokaku,FF0510,06,FF561E,06
+7=Bob Wilson,FF0510,07,FF561E,07
+8=Hon Fu,FF0510,08,FF561E,08
+9=Blue Mary,FF0510,09,FF561E,09
+10=Franco Bash,FF0510,0A,FF561E,0A
+11=*Yamazaki,FF0510,0B,FF561E,0B
+12=*Jin Chonshu,FF0510,0C,FF561E,0C
+13=*Jin Chonrei,FF0510,0D,FF561E,0D
+
+[5]
+Name=动作加快
+0=Off
+1=P1,FF046E,00
+2=P2,FF056E,00
+3=P1+P2,FF046E,00,FF056E,00
+
+[6]
+Name=简易超必杀模式
+0=Off
+1=开启,FFE000,01
+2=--------------------------------------
+3=总是容易使出超必杀技;通常
+4=按下下+A或下下+C;一些角色
+5=可以按B或D使用更多必杀技

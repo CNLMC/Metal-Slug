@@ -1,0 +1,70 @@
+[0]
+Name=Ê±¼äÎÞÏÞ
+0=Off
+1=¿ªÆô,FF42F2,90
+
+[1]
+Name=P1 Ñª²Û
+0=Off
+1=ÎÞÑª,FF03B8,00,FF03B9,00
+2=ºìÑª,FF03B8,20,FF03B9,20
+3=ÂúÑª,FF03B8,60,FF03B9,60
+
+[2]
+Name=P2 Ñª²Û
+0=Off
+1=ÎÞÑª,FF04B8,00,FF04B9,00
+2=ºìÑª,FF04B8,20,FF04B9,20
+3=ÂúÑª,FF04B8,60,FF04B9,60
+
+[3]
+Name=CPU Ñª²Û
+0=Off
+1=ÎÞÑª,FF05B8,00,FF05B9,00
+2=ºìÑª,FF05B8,20,FF05B9,20
+3=ÂúÑª,FF05B8,60,FF05B9,60
+
+[4]
+Name=P1 ¸ü»»½ÇÉ«
+0=Off
+1=Terry Bogard,FF0330,01
+2=Andy Bogard,FF0330,02
+3=Joe Higashi,FF0330,03
+4=Duck King,FF0330,04
+5=Richard Meyer,FF0330,05
+6=Michael Max,FF0330,06
+7=Tung Fu Rue,FF0330,07
+8=Hwa Jai,FF0330,08
+9=Raiden,FF0330,09
+10=Billy Kane,FF0330,0A
+11=Geese Howard,FF0330,0B
+
+[5]
+Name=P2 ¸ü»»½ÇÉ«
+0=Off
+1=Terry Bogard,FF0430,01
+2=Andy Bogard,FF0430,02
+3=Joe Higashi,FF0430,03
+4=Duck King,FF0430,04
+5=Richard Meyer,FF0430,05
+6=Michael Max,FF0430,06
+7=Tung Fu Rue,FF0430,07
+8=Hwa Jai,FF0430,08
+9=Raiden,FF0430,09
+10=Billy Kane,FF0430,0A
+11=Geese Howard,FF0430,0B
+
+[6]
+Name=CPU ¸ü»»½ÇÉ«
+0=Off
+1=Terry Bogard,FF0530,01
+2=Andy Bogard,FF0530,02
+3=Joe Higashi,FF0530,03
+4=Duck King,FF0530,04
+5=Richard Meyer,FF0530,05
+6=Michael Max,FF0530,06
+7=Tung Fu Rue,FF0530,07
+8=Hwa Jai,FF0530,08
+9=Raiden,FF0530,09
+10=Billy Kane,FF0530,0A
+11=Geese Howard,FF0530,0B

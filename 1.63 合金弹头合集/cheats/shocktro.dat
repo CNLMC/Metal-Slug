@@ -1,0 +1,171 @@
+[0]
+Name=时间无限
+0=Off
+1=99,108D00,99
+
+[1]
+Name=体力无限
+0=Off
+1=P1,1001B4,80
+2=P2,1021B4,80
+3=P1+P2,1001B4,80,1021B4,80
+
+[2]
+Name=弹药无限
+0=Off
+1=P1,108DBA,D0
+2=P2,108FBA,D0
+3=P1+P2,108DBA,D0,108FBA,D0
+
+[3]
+Name=P1 角色无敌
+0=Off
+1=关闭,100126,00
+2=开启,100126,FF
+
+[4]
+Name=P2 角色无敌
+0=Off
+1=关闭,102126,00
+2=开启,102126,FF
+
+[5]
+Name=P1 炸弹无限
+0=Off
+1=角色 1,108DC2,63
+2=角色 2,108DC6,63
+3=角色 3,108DCA,63
+4=全角色,108DC2,63,108DC6,63,108DCA,63
+
+[6]
+Name=P2 炸弹无限
+0=Off
+1=角色 1,108FC2,63
+2=角色 2,108FC6,63
+3=角色 3,108FCA,63
+4=全角色,108FC2,63,108FC6,63,108FCA,63
+
+[7]
+Name=P1 武器选择
+0=Off
+1=Normal Gun,108DB8,00
+2=Heavy Gun,108DB8,04
+3=Vulcan Gun,108DB8,08
+4=3-Way Gun,108DB8,0C
+5=Buster Gun,108DB8,10
+6=Flame Gun,108DB8,14
+7=Rocket Gun,108DB8,18
+8=Missile Gun,108DB8,1C
+9=Hyper Gun,108DB8,20
+
+[8]
+Name=P2 武器选择
+0=Off
+1=Normal Gun,108FB8,00
+2=Heavy Gun,108FB8,04
+3=Vulcan Gun,108FB8,08
+4=3-Way Gun,108FB8,0C
+5=Buster Gun,108FB8,10
+6=Flame Gun,108FB8,14
+7=Rocket Gun,108FB8,18
+8=Missile Gun,108FB8,1C
+9=Hyper Gun,108FB8,20
+
+[9]
+Name=动作加快
+0=Off
+1=P1,1002E1,00
+2=P2,1022E1,00
+3=P1+P2,1002E1,00,1022E1,00
+
+[10]
+Name=队伍模式
+0=Off
+1=P1 Lonely Wolf,108DB7,FF
+2=P1 Team Battle,108DB7,00
+
+[11]
+Name=换角色後快速移动
+0=Off
+1=P1,1001C2,00
+2=P2,1021C2,00
+3=P1+P2,1001C2,00,1021C2,00
+
+[12]
+Name=P1 角色 1 选择
+0=Off
+1=Jackal,108DC0,00
+2=Milky,108DC0,04
+3=Loki,108DC0,08
+4=Southern Cross,108DC0,0C
+5=Marie bee,108DC0,10
+6=Rio,108DC0,14
+7=Maru,108DC0,18
+8=Big Mama,108DC0,1C
+
+[13]
+Name=P1 角色 2 选择
+0=Off
+1=Jackal,108DC4,00
+2=Milky,108DC4,04
+3=Loki,108DC4,08
+4=Southern Cross,108DC4,0C
+5=Marie bee,108DC4,10
+6=Rio,108DC4,14
+7=Maru,108DC4,18
+8=Big Mama,108DC4,1C
+
+[14]
+Name=P1 角色 3 选择
+0=Off
+1=Jackal,108DC8,00
+2=Milky,108DC8,04
+3=Loki,108DC8,08
+4=Southern Cross,108DC8,0C
+5=Marie bee,108DC8,10
+6=Rio,108DC8,14
+7=Maru,108DC8,18
+8=Big Mama,108DC8,1C
+
+[15]
+Name=P2 角色 1 选择
+0=Off
+1=Jackal,108FC0,00
+2=Milky,108FC0,04
+3=Loki,108FC0,08
+4=Southern Cross,108FC0,0C
+5=Marie bee,108FC0,10
+6=Rio,108FC0,14
+7=Maru,108FC0,18
+8=Big Mama,108FC0,1C
+
+[16]
+Name=P2 角色 2 选择
+0=Off
+1=Jackal,108FC4,00
+2=Milky,108FC4,04
+3=Loki,108FC4,08
+4=Southern Cross,108FC4,0C
+5=Marie bee,108FC4,10
+6=Rio,108FC4,14
+7=Maru,108FC4,18
+8=Big Mama,108FC4,1C
+
+[17]
+Name=P2 角色 3 选择
+0=Off
+1=Jackal,108FC8,00
+2=Milky,108FC8,04
+3=Loki,108FC8,08
+4=Southern Cross,108FC8,0C
+5=Marie bee,108FC8,10
+6=Rio,108FC8,14
+7=Maru,108FC8,18
+8=Big Mama,108FC8,1C
+
+[18]
+Name=家用机投币数
+0=Off
+1=P1,108343,99
+2=P2,108342,99
+3=P1+P2,108343,99,108342,99

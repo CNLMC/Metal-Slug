@@ -1,0 +1,215 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF8204,00
+2=USA,FF8204,02
+3=Asia,FF8204,04
+4=Hispanic,FF8204,06
+5=Brazil,FF8204,08
+6=Euro,FF8204,0A
+
+[1]
+Name=投币数
+0=Off
+1=9,FF81B3,09
+
+[2]
+Name=对战时间
+0=Off
+1=无限,FF8E08,99
+
+[3]
+Name=P1 血槽
+0=Off
+1=瞬死,FF83CB,80
+2=无血,FF83CA,00,FF83CC,00
+3=满血 (正常效果),FF83CB,01,FF83CD,01
+4=满血 (盔甲效果),FF83CA,90,FF83CC,90
+
+[4]
+Name=P2 血槽
+0=Off
+1=瞬死,FF88CB,80
+2=无血,FF88CA,00,FF88CC,00
+3=满血 (正常效果),FF88CB,01,FF88CD,01
+4=满血 (盔甲效果),FF88CA,90,FF88CC,90
+
+[5]
+Name=P1 气力槽
+0=Off
+1=零格,FF8564,00
+2=满格,FF8564,0A
+
+[6]
+Name=P2 气力槽
+0=Off
+1=零格,FF8A64,00
+2=满格,FF8A64,0A
+
+[7]
+Name=P1 气力条
+0=Off
+1=无气,FF855E,00
+2=满气,FF855E,70
+
+[8]
+Name=P2 气力条
+0=Off
+1=无气,FF8A5E,00
+2=满气,FF8A5E,70
+
+[9]
+Name=P1 人物选择
+0=Off
+1=Demitri,FF8828,01
+2=Gallon,FF8828,02
+3=Victor,FF8828,03
+4=Lei-Lei,FF8828,0D
+5=Zabel,FF8828,04
+6=Morrigan,FF8828,05
+7=Anakaris,FF8828,06
+8=Felicia,FF8828,07
+9=Bishamon,FF8828,08
+10=Aulbath,FF8828,09
+11=Donovan,FF8828,0E
+12=Sasquatch,FF8828,0A
+13=Phobos,FF8828,0B
+14=Pyron,FF8828,0C
+
+[10]
+Name=P2 人物选择
+0=Off
+1=Demitri,FF8D28,01
+2=Gallon,FF8D28,02
+3=Victor,FF8D28,03
+4=Lei-Lei,FF8D28,0D
+5=Zabel,FF8D28,04
+6=Morrigan,FF8D28,05
+7=Anakaris,FF8D28,06
+8=Felicia,FF8D28,07
+9=Bishamon,FF8D28,08
+10=Aulbath,FF8D28,09
+11=Donovan,FF8D28,0E
+12=Sasquatch,FF8D28,0A
+13=Phobos,FF8D28,0B
+14=Pyron,FF8D28,0C
+
+[11]
+Name=P1 颜色选择
+0=Off
+1=Colour 1 (Low P),FF882E,02
+2=Colour 2 (Low K),FF882E,05
+3=Colour 3 (Middle P),FF882E,03
+4=Colour 4 (Middle K),FF882E,06
+5=Colour 5 (High P),FF882E,04
+6=Colour 6 (High K),FF882E,00
+7=Colour 7 (Start),FF882E,01
+8=Colour 8 (Hidden),FF882E,07
+
+[12]
+Name=P2 颜色选择
+0=Off
+1=Colour 1 (Low P),FF8D2E,02
+2=Colour 2 (Low K),FF8D2E,05
+3=Colour 3 (Middle P),FF8D2E,03
+4=Colour 4 (Middle K),FF8D2E,06
+5=Colour 5 (High P),FF8D2E,04
+6=Colour 6 (High K),FF8D2E,00
+7=Colour 7 (Start),FF8D2E,01
+8=Colour 8 (Hidden),FF8D2E,07
+
+[13]
+Name=P1 自动防御
+0=Off
+1=关闭,FF850C,00,FF884D,00
+2=开启,FF850C,01,FF884D,63
+
+[14]
+Name=P2 自动防御
+0=Off
+1=关闭,FF8A0C,00,FF8D4D,00
+2=开启,FF8A0C,01,FF8D4D,63
+
+[15]
+Name=P1 攻击方式
+0=Off
+1=轻拳脚,FF83EC,00
+2=中拳脚,FF83EC,01
+3=重拳脚,FF83EC,02
+
+[16]
+Name=P2 攻击方式
+0=Off
+1=轻拳脚,FF88EC,00
+2=中拳脚,FF88EC,01
+3=重拳脚,FF88EC,02
+
+[17]
+Name=P1 被打後状态
+0=Off
+1=不恢复,FF83D2,01
+2=马上恢复,FF83D2,00
+
+[18]
+Name=P2 被打後状态
+0=Off
+1=不恢复,FF88D2,01
+2=马上恢复,FF88D2,00
+
+[19]
+Name=一回合即获胜
+0=Off
+1=P1,FF8831,02
+2=P2,FF8D31,02
+3=P1+P2,FF8831,02,FF8D31,02
+
+[20]
+Name=动作加快
+0=Off
+1=P1,FF8396,01
+2=P2,FF8896,01
+3=P1+P2,FF8396,01,FF8896,01
+
+[21]
+Name=游戏标题
+0=Off
+1=Vampire Hunter,FF8215,00
+2=Night Warriors,FF8215,01
+
+[22]
+Name=速度选择
+0=Off
+1=Normal,FF8212,00
+2=Turbo,FF8212,01
+
+[23]
+Name=背景选择
+0=Off
+1=Demitri,FF8D88,00
+2=Gallon,FF8D88,01
+3=Victor,FF8D88,02
+4=Lei-Lei,FF8D88,0C
+5=Zabel,FF8D88,03
+6=Morrigan,FF8D88,04
+7=Anakaris,FF8D88,05
+8=Felicia,FF8D88,06
+9=Bishamon,FF8D88,07
+10=Aulbath,FF8D88,08
+11=Donovan,FF8D88,0D
+12=Sasquatch,FF8D88,09
+13=Phobos,FF8D88,0A
+14=Pyron,FF8D88,0B
+
+[24]
+Name=关卡选择
+0=Off
+1=Stage 1,FF8843,00
+2=Stage 2,FF8843,01
+3=Stage 3,FF8843,02
+4=Stage 4,FF8843,03
+5=Stage 5,FF8843,04
+6=Stage 6,FF8843,05
+7=Stage 7,FF8843,06
+8=Stage 8,FF8843,07
+9=Stage 9,FF8843,08
+10=Stage 10,FF8843,09

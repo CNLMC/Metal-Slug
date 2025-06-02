@@ -1,0 +1,102 @@
+[0]
+Name=投币数
+0=Off
+1=开启,FF82A3,09
+Default=0
+[1]
+Name=时间无限
+0=Off
+1=00:00,FF83C6,00,FF83C7,00
+2=99:98,FF83C6,99,FF83C7,99
+
+[2]
+Name=生命无限
+0=Off
+1=开启,FF8343,0A
+
+[3]
+Name=体力无限
+0=Off
+1=开启,FF8362,06,FF8363,06
+
+[4]
+Name=金钱无限
+0=Off
+1=开启,FF8368,99,FF836A,99,FF836B,99
+
+[5]
+Name=指轮无限
+0=Off
+1=开启,FF835B,02
+
+[6]
+Name=腕轮无限
+0=Off
+1=开启,FF835C,03
+
+[7]
+Name=项  无限
+0=Off
+1=开启,FF835D,01
+
+[8]
+Name=无敌状态
+0=Off
+1=损伤型,FF987C,FF
+2=系统型,FF9896,FF
+
+[9]
+Name=角色选择
+0=Off
+1=Willow,FF9867,00
+2=Madmartigan,FF9867,04
+
+[10]
+Name=射击无间隔
+0=Off
+1=开启,FFF99C,00
+
+[11]
+Name=挥剑防护效果
+0=Off
+1=开启 (请慎用),FFC786,01,FFC787,01
+
+[12]
+Name=魔法集气槽状态
+0=Off
+1=Type 1,FF8377,4D
+2=Type 2,FF8377,6D
+3=Type 3,FF8377,8D
+4=Type 4,FF8377,A5
+5=Type 5,FF8377,B5
+6=Type 6,FF8377,BE
+
+[13]
+Name=Willow 魔法效果开启
+0=Off
+1=正常,FF8367,00
+2=月光魔法,FF8367,01
+3=龙卷魔法,FF8367,02
+4=金钱魔法,FF8367,03
+5=时间魔法,FF8367,04
+6=爆裂魔法,FF8367,05
+7=水晶魔法,FF8367,06
+
+[14]
+Name=Madmartigan 剑等级
+0=Off
+1=Level 1,FF8366,00
+2=Level 2,FF8366,01
+3=Level 3,FF8366,02
+4=Level 4,FF8366,03
+5=Level 5,FF8366,04
+
+[15]
+Name=关卡选择
+0=Off
+1=Stage 1,FF8344,00
+2=Stage 2,FF8344,01
+3=Stage 3,FF8344,02
+4=Stage 4,FF8344,03
+5=Stage 5,FF8344,04
+6=Stage 6,FF8344,05

@@ -1,0 +1,101 @@
+[0]
+Name=生命无限
+0=Off
+1=P1,10C004,05
+2=P2,10D004,05
+3=P1+P2,10C004,05,10D004,05
+
+[1]
+Name=P1 体力无限
+0=Off
+1=无爱心,10C015,00
+2=满爱心,10C015,28
+
+[2]
+Name=P2 体力无限
+0=Off
+1=无爱心,10D015,00
+2=满爱心,10D015,28
+
+[3]
+Name=P1 炸弹无限
+0=Off
+1=无炸弹,10C020,00
+2=满炸弹,10C020,04
+
+[4]
+Name=P2 炸弹无限
+0=Off
+1=无炸弹,10D020,00
+2=满炸弹,10D020,04
+
+[5]
+Name=P1 角色无敌
+0=Off
+1=开启,10257C,10
+
+[6]
+Name=P1 角色选择
+0=Off
+1=Load Ran,10C006,00,10A680,00
+2=Macky & Pentell,10C006,01,10A680,01
+3=Arthur Schmitt,10C006,02,10A680,02
+4=Yan Yanyung,10C006,03,10A680,03
+5=Griffon,10C006,04,10A680,04
+6=Realy Till,10C006,05,10A680,05
+7=Tinker & Linker,10C006,06,10A680,06
+8=Nanja Monja,10C006,07,10A680,07
+9=Kim,10C006,08,10A680,08
+10=*Sprites,10C006,09,10A680,09
+11=*Dark Ran,10C006,0A,10A680,0A
+12=*Mevious,10C006,0B,10A680,0B
+13=*Memory,10C006,0C,10A680,0C
+
+[7]
+Name=P2 角色选择
+0=Off
+1=Load Ran,10D006,00,10A6C0,00
+2=Macky & Pentell,10D006,01,10A6C0,01
+3=Arthur Schmitt,10D006,02,10A6C0,02
+4=Yan Yanyung,10D006,03,10A6C0,03
+5=Griffon,10D006,04,10A6C0,04
+6=Realy Till,10D006,05,10A6C0,05
+7=Tinker & Linker,10D006,06,10A6C0,06
+8=Nanja Monja,10D006,07,10A6C0,07
+9=Kim,10D006,08,10A6C0,08
+10=*Sprites,10D006,09,10A6C0,09
+11=*Dark Ran,10D006,0A,10A6C0,0A
+12=*Mevious,10D006,0B,10A6C0,0B
+13=*Memory,10D006,0C,10A6C0,0C
+
+[8]
+Name=P1 集气格等级
+0=Off
+1=Level 0,10C08B,00
+2=Level 1,10C08B,10
+3=Level 2,10C08B,20
+4=Level 3,10C08B,30
+
+[9]
+Name=P2 集气格等级
+0=Off
+1=Level 0,10D08B,00
+2=Level 1,10D08B,10
+3=Level 2,10D08B,20
+4=Level 3,10D08B,30
+
+[10]
+Name=P1 已集气等级
+0=Off
+1=Level 0,10C089,00
+2=Level 1,10C089,10
+3=Level 2,10C089,20
+4=Level 3,10C089,30
+
+[11]
+Name=P2 已集气等级
+0=Off
+1=Level 0,10D089,00
+2=Level 1,10D089,10
+3=Level 2,10D089,20
+4=Level 3,10D089,30

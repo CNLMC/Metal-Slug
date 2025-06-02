@@ -1,0 +1,66 @@
+[0]
+Name=时间无限
+0=Off
+1=开启,FF8BAF,FA
+
+[1]
+Name=出现物品
+0=Off
+1=开启,FF94A0,FF
+
+[2]
+Name=泡泡动作
+0=Off
+1=停止,FF8BEC,12
+2=活动,FF8BEC,00
+
+[3]
+Name=生命无限
+0=Off
+1=P1,FF8BB5,09
+2=P2,FF8BB4,09
+3=P1+P2,FF8BB5,09,FF8BB4,09
+
+[4]
+Name=人物无敌
+0=Off
+1=P1,FFABB6,02
+2=P2,FFAC76,02
+3=P1+P2,FFABB6,02,FFAC76,02
+
+[5]
+Name=P1 拥有保护
+0=Off
+1=关闭,FFABF5,00
+2=开启,FFABF5,01
+
+[6]
+Name=P2 拥有保护
+0=Off
+1=关闭,FFACB5,00
+2=开启,FFACB5,01
+
+[7]
+Name=P1 武器选择
+0=Off
+1=普通,FFABC9,00
+2=吸盘,FFABC9,01
+3=叁向,FFABC9,02
+4=双向,FFABC9,03
+5=超级?,FFABC9,04
+
+[8]
+Name=P2 武器选择
+0=Off
+1=普通,FFAC89,00
+2=吸盘,FFAC89,01
+3=叁向,FFAC89,02
+4=双向,FFAC89,03
+5=超级?,FFAC89,04
+
+[9]
+Name=最终关卡
+0=Off
+1=Beginner Mode,FF8BC7,09
+2=Normal Mode,FF8BC7,31
+3=Panic Mode,FF8BDE,61

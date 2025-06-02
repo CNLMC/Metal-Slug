@@ -1,0 +1,87 @@
+[0]
+Name=时间无限
+0=Off
+1=00,10892B,00
+2=99,10892B,99
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,108312,00
+2=红血,108312,60
+3=满血,108312,C0
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,108512,00
+2=红血,108512,60
+3=满血,108512,C0
+
+[3]
+Name=P1 第 1 角色
+0=Off
+1=Hayate,1088ED,00
+2=Eagle,1088ED,01
+3=Gozu,1088ED,02
+4=Mezu,1088ED,03
+5=Rosa,1088ED,04
+6=King Young-Mok,1088ED,05
+7=Joker,1088ED,06
+8=Chung,1088ED,07
+9=Gordon,1088ED,08
+10=King Lion,1088ED,09
+11=*Super King Lion,1088ED,0A
+12=*Angry Chung,1088ED,0B
+13=*Crow Boss,1088ED,0C
+
+[4]
+Name=P1 第 2 角色
+0=Off
+1=Hayate,1088EF,00
+2=Eagle,1088EF,01
+3=Gozu,1088EF,02
+4=Mezu,1088EF,03
+5=Rosa,1088EF,04
+6=King Young-Mok,1088EF,05
+7=Joker,1088EF,06
+8=Chung,1088EF,07
+9=Gordon,1088EF,08
+10=King Lion,1088EF,09
+11=*Super King Lion,1088EF,0A
+12=*Angry Chung,1088EF,0B
+13=*Crow Boss,1088EF,0C
+
+[5]
+Name=P2 第 1 角色
+0=Off
+1=Hayate,1088EC,00
+2=Eagle,1088EC,01
+3=Gozu,1088EC,02
+4=Mezu,1088EC,03
+5=Rosa,1088EC,04
+6=King Young-Mok,1088EC,05
+7=Joker,1088EC,06
+8=Chung,1088EC,07
+9=Gordon,1088EC,08
+10=King Lion,1088EC,09
+11=*Super King Lion,1088EC,0A
+12=*Angry Chung,1088EC,0B
+13=*Crow Boss,1088EC,0C
+
+[6]
+Name=P2 第 2 角色
+0=Off
+1=Hayate,1088EE,00
+2=Eagle,1088EE,01
+3=Gozu,1088EE,02
+4=Mezu,1088EE,03
+5=Rosa,1088EE,04
+6=King Young-Mok,1088EE,05
+7=Joker,1088EE,06
+8=Chung,1088EE,07
+9=Gordon,1088EE,08
+10=King Lion,1088EE,09
+11=*Super King Lion,1088EE,0A
+12=*Angry Chung,1088EE,0B
+13=*Crow Boss,1088EE,0C

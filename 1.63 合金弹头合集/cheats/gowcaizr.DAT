@@ -1,0 +1,51 @@
+[0]
+Name=时间无限
+0=Off
+1=00,FF62E0,00
+2=60,FF62E0,3C
+
+[1]
+Name=P1 血槽
+0=Off
+1=无血,FF2D08,00
+2=红血,FF2D08,1F
+3=满血,FF2D08,64
+
+[2]
+Name=P2 血槽
+0=Off
+1=无血,FF35BE,00
+2=红血,FF35BE,1F
+3=满血,FF35BE,64
+
+[3]
+Name=P1 角色选择
+0=Off
+1=Gowcaizer,FF464C,00
+2=Captain,FF464C,01
+3=Karin,FF464C,02
+4=Fudomaru,FF464C,03
+5=Marion,FF464C,04
+6=Shaia,FF464C,05
+7=Shenlong,FF464C,06
+8=Kyosuke,FF464C,07
+9=Stinger,FF464C,08
+10=Brider,FF464C,09
+11=*Platonic Twins,FF464C,0A
+12=*Ohga (相同角色时会定格),FF464C,0B
+
+[4]
+Name=P2 角色选择
+0=Off
+1=Gowcaizer,FF467C,00
+2=Captain,FF467C,01
+3=Karin,FF467C,02
+4=Fudomaru,FF467C,03
+5=Marion,FF467C,04
+6=Shaia,FF467C,05
+7=Shenlong,FF467C,06
+8=Kyosuke,FF467C,07
+9=Stinger,FF467C,08
+10=Brider,FF467C,09
+11=*Platonic Twins,FF467C,0A
+12=*Ohga (相同角色时会定格),FF467C,0B

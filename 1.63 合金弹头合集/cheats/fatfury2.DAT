@@ -1,0 +1,51 @@
+[0]
+Name=Ê±¼äÎÞÏÞ
+0=Off
+1=00,FF092B,00
+2=89,FF092B,90
+
+[1]
+Name=P1 Ñª²Û
+0=Off
+1=ÎÞÑª,FF03CA,00
+2=ºìÑª,FF03CA,18
+3=ÂúÑª,FF03CA,5F
+
+[2]
+Name=P2 Ñª²Û
+0=Off
+1=ÎÞÑª,FF04CA,00
+2=ºìÑª,FF04CA,18
+3=ÂúÑª,FF04CA,5F
+
+[3]
+Name=P1 ½ÇÉ«¸ü»»
+0=Off
+1=Terry Bogard,FF035C,01,FF419A,01
+2=Andy Bogard,FF035C,02,FF419A,02
+3=Joe Higashi,FF035C,03,FF419A,03
+4=Big Bear,FF035C,04,FF419A,04
+5=Jubei Yamada,FF035C,05,FF419A,05
+6=Cheng Sinzan,FF035C,06,FF419A,06
+7=Kin Kaphwan,FF035C,07,FF419A,07
+8=Mai Shiranui,FF035C,08,FF419A,08
+9=*Billy Kane,FF035C,09,FF419A,09
+10=*Axel Hawk,FF035C,0A,FF419A,0A
+11=*Laurence Blood,FF035C,0B,FF419A,0B
+12=*Wolfgang Krauser,FF035C,0C,FF419A,0C
+
+[4]
+Name=P2 ½ÇÉ«¸ü»»
+0=Off
+1=Terry Bogard,FF045C,01,FF419C,01
+2=Andy Bogard,FF045C,02,FF419C,02
+3=Joe Higashi,FF045C,03,FF419C,03
+4=Big Bear,FF045C,04,FF419C,04
+5=Jubei Yamada,FF045C,05,FF419C,05
+6=Cheng Sinzan,FF045C,06,FF419C,06
+7=Kin Kaphwan,FF045C,07,FF419C,07
+8=Mai Shiranui,FF045C,08,FF419C,08
+9=*Billy Kane,FF045C,09,FF419C,09
+10=*Axel Hawk,FF045C,0A,FF419C,0A
+11=*Laurence Blood,FF045C,0B,FF419C,0B
+12=*Wolfgang Krauser,FF045C,0C,FF419C,0C

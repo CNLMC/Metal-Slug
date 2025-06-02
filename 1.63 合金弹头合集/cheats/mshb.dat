@@ -1,0 +1,480 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF4C22,00
+2=USA,FF4C22,02
+3=Hispanic,FF4C22,04
+4=Asia,FF4C22,06
+5=Euro,FF4C22,08
+6=Brazil,FF4C22,0A
+
+[1]
+Name=对战时间
+0=Off
+1=00,FF4809,00
+2=99,FF4809,99
+
+[2]
+Name=P1 血槽
+0=Off
+1=无血,FF4190,00
+2=红血,FF4190,20
+3=满血,FF4190,90
+
+[3]
+Name=P2 血槽
+0=Off
+1=无血,FF4590,00
+2=红血,FF4590,20
+3=满血,FF4590,90
+
+[4]
+Name=P1 气力槽
+0=Off
+1=无气,FF4199,00
+2=满气,FF4199,03
+
+[5]
+Name=P2 气力槽
+0=Off
+1=无气,FF4599,00
+2=满气,FF4599,03
+
+[6]
+Name=P1 气力条
+0=Off
+1=无气,FF4194,00
+2=满气,FF4194,90
+
+[7]
+Name=P2 气力条
+0=Off
+1=无气,FF4594,00
+2=满气,FF4594,90
+
+[8]
+Name=P1 宝石时间
+0=Off
+1=结束,FF4151,00
+2=不减,FF4151,60
+
+[9]
+Name=P2 宝石时间
+0=Off
+1=结束,FF4551,00
+2=不减,FF4551,60
+
+[10]
+Name=P1 角色选择
+0=Off
+1=Spider-Man,FF4050,00
+2=Captain America,FF4050,02
+3=Hulk,FF4050,04
+4=Iron Man,FF4050,06
+5=Wolverine,FF4050,08
+6=Psylocke,FF4050,0A
+7=BlackHeart,FF4050,0C
+8=Shuma-Gorath,FF4050,0E
+9=Juggernaut,FF4050,10
+10=Magneto,FF4050,12
+11=*Dr.Doom,FF4050,14
+12=*Thanos,FF4050,16
+13=*Anita,FF4050,18
+
+[11]
+Name=P2 角色选择
+0=Off
+1=Spider-Man,FF4450,00
+2=Captain America,FF4450,02
+3=Hulk,FF4450,04
+4=Iron Man,FF4450,06
+5=Wolverine,FF4450,08
+6=Psylocke,FF4450,0A
+7=BlackHeart,FF4450,0C
+8=Shuma-Gorath,FF4450,0E
+9=Juggernaut,FF4450,10
+10=Magneto,FF4450,12
+11=*Dr.Doom,FF4450,14
+12=*Thanos,FF4450,16
+13=*Anita,FF4450,18
+
+[12]
+Name=二段跳无限
+0=Off
+1=P1,FF4145,00
+2=P2,FF4545,00
+3=P1+P2,FF4145,00,FF4545,00
+
+[13]
+Name=攻击无间隔
+0=Off
+1=P1,FF40A6,00
+2=P2,FF44A6,00
+3=P1+P2,FF40A6,00,FF44A6,00
+
+[14]
+Name=禁止拳脚攻击
+0=Off
+1=P1,FF406B,80
+2=P2,FF446B,80
+3=P1+P2,FF406B,80,FF446B,80
+
+[15]
+Name=P1 保持速度升级
+0=Off
+1=关闭,FF40D9,00
+2=开启,FF40D9,01
+
+[16]
+Name=P2 保持速度升级
+0=Off
+1=关闭,FF44D9,00
+2=开启,FF44D9,01
+
+[17]
+Name=P1 保持力量升级
+0=Off
+1=关闭,FF4148,00
+2=开启,FF4148,01
+
+[18]
+Name=P2 保持力量升级
+0=Off
+1=关闭,FF4148,00
+2=开启,FF4148,01
+
+[19]
+Name=P1 被攻击後状态
+0=Off
+1=不恢复,FF4088,02
+2=马上恢复,FF4088,00
+
+[20]
+Name=P2 被攻击後状态
+0=Off
+1=不恢复,FF4488,02
+2=马上恢复,FF4488,00
+
+[21]
+Name=P1 宝石槽 1
+0=Off
+1=Power Gem,FF41B7,00
+2=Time Gem,FF41B7,02
+3=Space Gem,FF41B7,04
+4=Soul Gem,FF41B7,06
+5=Reality Gem,FF41B7,08
+6=Mind Gem,FF41B7,0A
+7=No Gem,FF41B7,FF
+
+[22]
+Name=P1 宝石槽 2
+0=Off
+1=Power Gem,FF41B6,00
+2=Time Gem,FF41B6,02
+3=Space Gem,FF41B6,04
+4=Soul Gem,FF41B6,06
+5=Reality Gem,FF41B6,08
+6=Mind Gem,FF41B6,0A
+7=No Gem,FF41B6,FF
+
+[23]
+Name=P1 宝石槽 3
+0=Off
+1=Power Gem,FF41B9,00
+2=Time Gem,FF41B9,02
+3=Space Gem,FF41B9,04
+4=Soul Gem,FF41B9,06
+5=Reality Gem,FF41B9,08
+6=Mind Gem,FF41B9,0A
+7=No Gem,FF41B9,FF
+
+[24]
+Name=P1 宝石槽 4
+0=Off
+1=Power Gem,FF41B8,00
+2=Time Gem,FF41B8,02
+3=Space Gem,FF41B8,04
+4=Soul Gem,FF41B8,06
+5=Reality Gem,FF41B8,08
+6=Mind Gem,FF41B8,0A
+7=No Gem,FF41B8,FF
+
+[25]
+Name=P1 宝石槽 5
+0=Off
+1=Power Gem,FF41BB,00
+2=Time Gem,FF41BB,02
+3=Space Gem,FF41BB,04
+4=Soul Gem,FF41BB,06
+5=Reality Gem,FF41BB,08
+6=Mind Gem,FF41BB,0A
+7=No Gem,FF41BB,FF
+
+[26]
+Name=P1 宝石槽 6
+0=Off
+1=Power Gem,FF41BA,00
+2=Time Gem,FF41BA,02
+3=Space Gem,FF41BA,04
+4=Soul Gem,FF41BA,06
+5=Reality Gem,FF41BA,08
+6=Mind Gem,FF41BA,0A
+7=No Gem,FF41BA,FF
+
+[27]
+Name=P2 宝石槽 1
+0=Off
+1=Power Gem,FF45B7,00
+2=Time Gem,FF45B7,02
+3=Space Gem,FF45B7,04
+4=Soul Gem,FF45B7,06
+5=Reality Gem,FF45B7,08
+6=Mind Gem,FF45B7,0A
+7=No Gem,FF45B7,FF
+
+[28]
+Name=P2 宝石槽 2
+0=Off
+1=Power Gem,FF45B6,00
+2=Time Gem,FF45B6,02
+3=Space Gem,FF45B6,04
+4=Soul Gem,FF45B6,06
+5=Reality Gem,FF45B6,08
+6=Mind Gem,FF45B6,0A
+7=No Gem,FF45B6,FF
+
+[29]
+Name=P2 宝石槽 3
+0=Off
+1=Power Gem,FF45B9,00
+2=Time Gem,FF45B9,02
+3=Space Gem,FF45B9,04
+4=Soul Gem,FF45B9,06
+5=Reality Gem,FF45B9,08
+6=Mind Gem,FF45B9,0A
+7=No Gem,FF45B9,FF
+
+[30]
+Name=P2 宝石槽 4
+0=Off
+1=Power Gem,FF45B8,00
+2=Time Gem,FF45B8,02
+3=Space Gem,FF45B8,04
+4=Soul Gem,FF45B8,06
+5=Reality Gem,FF45B8,08
+6=Mind Gem,FF45B8,0A
+7=No Gem,FF45B8,FF
+
+[31]
+Name=P2 宝石槽 5
+0=Off
+1=Power Gem,FF45BB,00
+2=Time Gem,FF45BB,02
+3=Space Gem,FF45BB,04
+4=Soul Gem,FF45BB,06
+5=Reality Gem,FF45BB,08
+6=Mind Gem,FF45BB,0A
+7=No Gem,FF45BB,FF
+
+[32]
+Name=P2 宝石槽 6
+0=Off
+1=Power Gem,FF45BA,00
+2=Time Gem,FF45BA,02
+3=Space Gem,FF45BA,04
+4=Soul Gem,FF45BA,06
+5=Reality Gem,FF45BA,08
+6=Mind Gem,FF45BA,0A
+7=No Gem,FF45BA,FF
+
+[33]
+Name=挑拨简化
+0=Off
+1=P1,FF41B1,04,FF41B0,06
+2=P2,FF45B1,04,FF45B0,06
+3=P1+P2,FF41B1,04,FF41B0,06,FF45B1,04,FF45B0,06
+
+[34]
+Name=宝石发动简化
+0=Off
+1=P1,FF4239,06,FF4238,06
+2=P2,FF4639,06,FF4638,06
+3=P1+P2,FF4239,06,FF4238,06,FF4639,06,FF4638,06
+
+[35]
+Name=超级跳跃简化
+0=Off
+1=P1,FF41F9,02,FF41F8,06
+2=P2,FF45F9,02,FF45F8,06
+3=P1+P2,FF41F9,02,FF41F8,06,FF45F9,02,FF45F8,06
+
+[36]
+Name=起身技简化
+0=Off
+1=P1,FF42F9,06,FF42F8,06
+2=P2,FF46F9,06,FF46F8,06
+3=P1+P2,FF42F9,06,FF42F8,06,FF46F9,06,FF46F8,06
+
+[37]
+Name=P1 冲撞简化
+0=Off
+1=向前,FF41F1,02,FF41F0,06,FF41F4,02
+2=向後,FF41F1,02,FF41F0,06,FF41F4,01
+
+[38]
+Name=P2 冲撞简化
+0=Off
+1=向前,FF45F1,02,FF45F0,06,FF45F4,02
+2=向後,FF45F1,02,FF45F0,06,FF45F4,01
+
+[39]
+Name=P1 Captain America - 盾
+0=Off
+1=装备,FF4305,00
+2=没有盾,FF4305,01
+
+[40]
+Name=P2 Captain America - 盾
+0=Off
+1=装备,FF4705,00
+2=没有盾,FF4705,01
+
+[41]
+Name=P1 Easy Moves
+0=Off
+1=Anita - Akuma Shoukan,FF4201,06,FF4200,06
+2=Anita - Lin-Lin Shoukan,FF4209,06,FF4208,06
+3=Blackheart - Inferno,FF4201,0A,FF4200,06
+4=Blackheart - Dark Thunder,FF4209,0A,FF4208,06
+5=Captain America - Shield Slash & Charging Star,FF4201,06,FF4200,06,FF4219,0A,FF4218,06
+6=Captain America - Stars & Stripes & Charging Star,FF4209,06,FF4208,06,FF4219,0A,FF4218,06
+7=Captain America - Zenten & Charging Star,FF4211,0A,FF4210,06,FF4219,0A,FF4218,06
+8=Dr.Doom - Photon Shot & Molecular Shield & Hikou,FF4201,0A,FF4200,06,FF4211,0A,FF4210,06,FF4229,06,FF4228,06
+9=Dr.Doom - Air & Plasma Beam & Molecular Shield & Hikou,FF4209,06,FF4208,06,FF4221,06,FF4220,06,FF4211,0A,FF4210,06,FF4229,06,FF4228,06
+10=Hulk - Gamma Tornado & Charge Taichi,FF4219,0A,FF4218,06,FF4201,08,FF4200,06
+11=Hulk - Gamma Slam & Charge Taichi,FF4229,0A,FF4228,06,FF4201,08,FF4200,06
+12=Hulk - Gamma Lift & Charge Taichi,FF4211,06,FF4210,06,FF4201,08,FF4200,06
+13=Hulk - Gamma Tornado & Charge Taikuu,FF4219,0A,FF4218,06,FF4221,08,FF4220,06
+14=Hulk - Gamma Slam & Charge Taikuu,FF4229,0A,FF4228,06,FF4221,08,FF4220,06
+15=Hulk - Gamma Lift & Charge Taikuu,FF4211,06,FF4210,06,FF4221,08,FF4220,06
+16=Iron Man - Repulsor Blast & Hikou,FF4201,08,FF4200,06,FF4229,06,FF4228,06
+17=Iron Man - Uni-Beam & Hikou,FF4211,08,FF4210,06,FF4229,06,FF4228,06
+18=Juggernaut - Earthquake Punch & Juggernaut Body Press & Cyttorak Powerup,FF4201,06,FF4200,06,FF4221,0A,FF4220,06,FF4211,06,FF4210,06
+19=Juggernaut - Juggernaut Punch & Body Press & Cyttorak Powerup,FF4219,0A,FF4218,06,FF4221,0A,FF4220,06,FF4211,06,FF4210,06
+20=Juggernaut - Object Lift & Juggernaut Body Press,FF4229,06,FF4228,06,FF4221,0A,FF4220,06
+21=Magneto - EM Disruptor & Hyper Gravitation & Hikou,FF4201,0A,FF4200,06,FF4209,0A,FF4208,06,FF4221,06,FF4220,06
+22=Magneto - Magnetic Blast & Hyper Gravitation & Hikou,FF4313,06,FF4312,06,FF4209,0A,FF4208,06,FF4221,06,FF4220,06
+23=Psylocke - Ninjitsu,FF4221,0A,FF4220,06
+24=Psylocke - Psi-Blade & Spin,FF4209,06,FF4208,06,FF4211,06,FF4210,06
+25=Psylocke - Psi-Blade & Flip Kick,FF4209,06,FF4208,06,FF4231,08,FF4230,06
+26=Shuma-Gorath - Mystic Stare & Smash,FF4201,08,FF4200,06,FF4209,08,FF4208,06
+27=Shuma-Gorath - Mystic Stare & Devitalization,FF4201,08,FF4200,06,FF4219,08,FF4218,06
+28=Spider-Man - Web Ball & Swing,FF4201,06,FF4200,06,FF4211,06,FF4210,06
+29=Spider-Man - Spider Sting & Web Swing,FF4209,06,FF4208,06,FF4211,06,FF4210,06
+30=Spider-Man - Web Throw & Swing,FF4219,0A,FF4218,06,FF4211,06,FF4210,06
+31=Thanos - Titanic Rush & Death Sphere,FF4201,06,FF4200,06,FF4209,06,FF4208,06
+32=Wolverine - Tornado Claw,FF4201,06,FF4200,06
+33=Wolverine - Berserker Barrage,FF4211,06,FF4210,06
+
+[42]
+Name=P2 Easy Moves
+0=Off
+1=Anita - Akuma Shoukan,FF4601,06,FF4600,06
+2=Anita - Lin-Lin Shoukan,FF4609,06,FF4608,06
+3=Blackheart - Inferno,FF4601,0A,FF4600,06
+4=Blackheart - Dark Thunder,FF4609,0A,FF4608,06
+5=Captain America - Shield Slash & Charging Star,FF4601,06,FF4600,06,FF4619,0A,FF4618,06
+6=Captain America - Stars & Stripes & Charging Star,FF4609,06,FF4608,06,FF4619,0A,FF4618,06
+7=Captain America - Zenten & Charging Star,FF4611,0A,FF4610,06,FF4619,0A,FF4618,06
+8=Dr.Doom - Photon Shot & Molecular Shield & Hikou,FF4601,0A,FF4600,06,FF4611,0A,FF4610,06,FF4629,06,FF4628,06
+9=Dr.Doom - Air & Plasma Beam & Molecular Shield & Hikou,FF4609,06,FF4608,06,FF4621,06,FF4620,06,FF4611,0A,FF4610,06,FF4629,06,FF4628,06
+10=Hulk - Gamma Tornado & Charge Taichi,FF4619,0A,FF4618,06,FF4601,08,FF4600,06
+11=Hulk - Gamma Slam & Charge Taichi,FF4629,0A,FF4628,06,FF4601,08,FF4600,06
+12=Hulk - Gamma Lift & Charge Taichi,FF4611,06,FF4610,06,FF4601,08,FF4600,06
+13=Hulk - Gamma Tornado & Charge Taikuu,FF4619,0A,FF4618,06,FF4621,08,FF4620,06
+14=Hulk - Gamma Slam & Charge Taikuu,FF4629,0A,FF4628,06,FF4621,08,FF4620,06
+15=Hulk - Gamma Lift & Charge Taikuu,FF4611,06,FF4610,06,FF4621,08,FF4620,06
+16=Iron Man - Repulsor Blast & Hikou,FF4601,08,FF4600,06,FF4629,06,FF4628,06
+17=Iron Man - Uni-Beam & Hikou,FF4611,08,FF4610,06,FF4629,06,FF4628,06
+18=Juggernaut - Earthquake Punch & Juggernaut Body Press & Cyttorak Powerup,FF4601,06,FF4600,06,FF4621,0A,FF4620,06,FF4611,06,FF4610,06
+19=Juggernaut - Juggernaut Punch & Body Press & Cyttorak Powerup,FF4619,0A,FF4618,06,FF4621,0A,FF4620,06,FF4611,06,FF4610,06
+20=Juggernaut - Object Lift & Juggernaut Body Press,FF4629,06,FF4628,06,FF4621,0A,FF4620,06
+21=Magneto - EM Disruptor & Hyper Gravitation & Hikou,FF4601,0A,FF4600,06,FF4609,0A,FF4608,06,FF4621,06,FF4620,06
+22=Magneto - Magnetic Blast & Hyper Gravitation & Hikou,FF4713,06,FF4712,06,FF4609,0A,FF4608,06,FF4621,06,FF4620,06
+23=Psylocke - Ninjitsu,FF4621,0A,FF4620,06
+24=Psylocke - Psi-Blade & Spin,FF4609,06,FF4608,06,FF4611,06,FF4610,06
+25=Psylocke - Psi-Blade & Flip Kick,FF4609,06,FF4608,06,FF4631,08,FF4630,06
+26=Shuma-Gorath - Mystic Stare & Smash,FF4601,08,FF4600,06,FF4609,08,FF4608,06
+27=Shuma-Gorath - Mystic Stare & Devitalization,FF4601,08,FF4600,06,FF4619,08,FF4618,06
+28=Spider-Man - Web Ball & Swing,FF4601,06,FF4600,06,FF4611,06,FF4610,06
+29=Spider-Man - Spider Sting & Web Swing,FF4609,06,FF4608,06,FF4611,06,FF4610,06
+30=Spider-Man - Web Throw & Swing,FF4619,0A,FF4618,06,FF4611,06,FF4610,06
+31=Thanos - Titanic Rush & Death Sphere,FF4601,06,FF4600,06,FF4609,06,FF4608,06
+32=Wolverine - Tornado Claw,FF4601,06,FF4600,06
+33=Wolverine - Berserker Barrage,FF4611,06,FF4610,06
+
+[43]
+Name=P1 Easy Infinity Combos
+0=Off
+1=Anita - Love For You,FF4211,06,FF4210,06
+2=Blackheart - Armageddon & Heart of Darkness,FF4211,06,FF4210,06,FF4219,06,FF4218,06
+3=Captain America - Final Justice,FF4231,06,FF4230,06
+4=Dr.Doom - Photon Array,FF4219,06,FF4218,06
+5=Hulk - Gamma Crush,FF4209,06,FF4208,06
+6=Iron Man - Proton Cannon,FF4209,06,FF4208,06
+7=Juggernaut - Juggernaut Headcrush,FF4209,06,FF4208,06
+8=Magneto - Magnetic Shockwave & Tempest,FF4211,06,FF4210,06,FF4219,06,FF4218,06
+9=Psylocke - Psi-Maelstrom & Thrust,FF4229,06,FF4228,06,FF4219,06,FF4218,06
+10=Psylocke - Kochuu Gakure & Psi-Thrust,FF4201,06,FF4200,06,FF4219,06,FF4218,06
+11=Shuma-Gorath - Chaos Dimension,FF4211,06,FF4210,06
+12=Spider-Man - Maximum Spider,FF4221,06,FF4220,06
+13=Thanos - Gauntlet Reality & Space & Power & Time & Soul,FF4211,06,FF4210,06,FF4219,06,FF4218,06,FF4221,06,FF4220,06,FF4229,06,FF4228,06,FF4231,06,FF4230,06
+14=Wolverine - Weapon X,FF4219,06,FF4218,06
+15=Wolverine - Berserker Barrage X,FF4221,06,FF4220,06
+
+[44]
+Name=P2 Easy Infinity Combos
+0=Off
+1=Anita - Love For You,FF4611,06,FF4610,06
+2=Blackheart - Armageddon & Heart of Darkness,FF4611,06,FF4610,06,FF4619,06,FF4618,06
+3=Captain America - Final Justice,FF4631,06,FF4630,06
+4=Dr.Doom - Photon Array,FF4619,06,FF4618,06
+5=Hulk - Gamma Crush,FF4609,06,FF4608,06
+6=Iron Man - Proton Cannon,FF4609,06,FF4608,06
+7=Juggernaut - Juggernaut Headcrush,FF4609,06,FF4608,06
+8=Magneto - Magnetic Shockwave & Tempest,FF4611,06,FF4610,06,FF4619,06,FF4618,06
+9=Psylocke - Psi-Maelstrom & Thrust,FF4629,06,FF4628,06,FF4619,06,FF4618,06
+10=Psylocke - Kochuu Gakure & Psi-Thrust,FF4601,06,FF4600,06,FF4619,06,FF4618,06
+11=Shuma-Gorath - Chaos Dimension,FF4611,06,FF4610,06
+12=Spider-Man - Maximum Spider,FF4621,06,FF4620,06
+13=Thanos - Gauntlet Reality & Space & Power & Time & Soul,FF4611,06,FF4610,06,FF4619,06,FF4618,06,FF4621,06,FF4620,06,FF4629,06,FF4628,06,FF4631,06,FF4630,06
+14=Wolverine - Weapon X,FF4619,06,FF4618,06
+15=Wolverine - Berserker Barrage X,FF4621,06,FF4620,06
+
+[45]
+Name=背景选择
+0=Off
+1=Spider-Man,FF4892,00
+2=Captain America,FF4892,01
+3=Hulk,FF4892,02
+4=Iron Man,FF4892,03
+5=Wolverine,FF4892,04
+6=Psylocke,FF4892,05
+7=BlackHeart,FF4892,06
+8=Shuma-Gorath,FF4892,07
+9=Juggernaut,FF4892,08
+10=Magneto,FF4892,09
+11=Dr.Doom,FF4892,0A
+12=Thanos,FF4892,0B
+
+[46]
+Name=关卡选择
+0=Off
+1=Stage 1,FF4851,00
+2=Stage 2,FF4851,01
+3=Stage 3,FF4851,02
+4=Stage 4,FF4851,03
+5=Stage 5,FF4851,04
+6=Stage 6,FF4851,05
+7=Stage 7,FF4851,06
+8=Stage 8,FF4851,07

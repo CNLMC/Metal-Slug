@@ -1,0 +1,57 @@
+[0]
+Name=时间无限
+0=Off
+1=00,10E32A,00
+2=60,10E32A,61
+
+[1]
+Name=P1 角色选择
+0=Off
+1=枫 | Kaede,10EAAC,00
+2=御名方守矢 | Moriya,10EAAC,01
+3=雪 | Yuki,10EAAC,02
+4=玄武之翁 | Okina,10EAAC,03
+5=一条明香里 | Akari,10EAAC,04
+6=神崎十叁 | Juzoh,10EAAC,05
+7=鹫冢庆一郎 | Washizuka,10EAAC,06
+8=紫镜 | Shikyoh,10EAAC,07
+9=天野漂 | Amano,10EAAC,08
+10=李烈火 | Lee,10EAAC,09
+11=斩铁 | Zantetsu,10EAAC,0A
+12=直卫示源 | Shigen,10EAAC,0B
+13=*晓 武藏 | Musashi,10EAAC,0C
+14=*嘉神慎之介 | Kagami,10EAAC,0D
+15=*枫 (觉醒後) | Kaede,10EAAC,0E
+
+[2]
+Name=P2 角色选择
+0=Off
+1=枫 | Kaede,10EAAE,00
+2=御名方守矢 | Moriya,10EAAE,01
+3=雪 | Yuki,10EAAE,02
+4=玄武之翁 | Okina,10EAAE,03
+5=一条明香里 | Akari,10EAAE,04
+6=神崎十叁 | Juzoh,10EAAE,05
+7=鹫冢庆一郎 | Washizuka,10EAAE,06
+8=紫镜 | Shikyoh,10EAAE,07
+9=天野漂 | Amano,10EAAE,08
+10=李烈火 | Lee,10EAAE,09
+11=斩铁 | Zantetsu,10EAAE,0A
+12=直卫示源 | Shigen,10EAAE,0B
+13=*晓 武藏 | Musashi,10EAAE,0C
+14=*嘉神慎之介 | Kagami,10EAAE,0D
+15=*枫 (觉醒後) | Kaede,10EAAE,0E
+
+[3]
+Name=关卡选择
+0=Off
+1=Stage 1,10AC42,00
+2=Stage 2,10AC42,01
+3=Stage 3,10AC42,02
+4=Stage 4,10AC42,03
+5=Stage 5,10AC42,04
+6=Stage 6,10AC42,05
+7=Stage 7,10AC42,06
+8=Stage 8,10AC42,07
+9=Stage 9,10AC42,08
+10=Stage 10,10AC42,09

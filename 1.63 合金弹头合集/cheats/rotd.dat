@@ -1,0 +1,182 @@
+[0]
+Name=选人时间
+0=Off
+1=9,FF6BDF,09
+
+[1]
+Name=对战时间
+0=Off
+1=00,FF6B10,00
+2=60,FF6B10,3C
+
+[2]
+Name=P1 血槽 (上场者)
+0=Off
+1=无血 (被击倒前解锁),FF24CE,01,FF24D2,01
+2=满血,FF24CE,B4,FF24D2,B4
+
+[3]
+Name=P1 血槽 (休息者)
+0=Off
+1=无血,1027BE,00,1027C2,00
+2=满血,1027BE,B4,1027C2,B4
+
+[4]
+Name=P2 血槽 (上场者)
+0=Off
+1=无血 (被击倒前解锁),FF2356,01,FF235A,01
+2=满血,FF2356,B4,FF235A,B4
+
+[5]
+Name=P2 血槽 (休息者)
+0=Off
+1=无血,102646,00,10264A,00
+2=满血,102646,B4,10264A,B4
+
+[6]
+Name=P1 气力槽
+0=Off
+1=无气,FF24E2,00
+2=叁格,FF24E2,D8
+
+[7]
+Name=P2 气力槽
+0=Off
+1=无气,FF236A,00
+2=叁格,FF236A,D8
+
+[8]
+Name=P1 换人气条
+0=Off
+1=不能换人,FF24E4,00
+2=无限换人,FF24E4,28
+
+[9]
+Name=P2 换人气条
+0=Off
+1=不能换人,FF236C,00
+2=无限换人,FF236C,28
+
+[10]
+Name=P1 第 1 角色
+0=Off
+1=Billy,FF6BE2,00
+2=Lynn,FF6BE2,01
+3=Radel,FF6BE2,02
+4=Annie,FF6BE2,03
+5=Cassandra,FF6BE2,04
+6=Oni,FF6BE2,05
+7=Pepe,FF6BE2,06
+8=Pupa,FF6BE2,07
+9=Alice,FF6BE2,08
+10=Elias,FF6BE2,09
+11=Jones,FF6BE2,0A
+12=Hang,FF6BE2,0B
+13=Sonia,FF6BE2,0C
+14=Jimmy,FF6BE2,0D
+15=*Abubo,FF6BE2,0E
+16=*Johann,FF6BE2,0F
+
+[11]
+Name=P1 第 2 角色
+0=Off
+1=Billy,FF6BE6,00
+2=Lynn,FF6BE6,01
+3=Radel,FF6BE6,02
+4=Annie,FF6BE6,03
+5=Cassandra,FF6BE6,04
+6=Oni,FF6BE6,05
+7=Pepe,FF6BE6,06
+8=Pupa,FF6BE6,07
+9=Alice,FF6BE6,08
+10=Elias,FF6BE6,09
+11=Jones,FF6BE6,0A
+12=Hang,FF6BE6,0B
+13=Sonia,FF6BE6,0C
+14=Jimmy,FF6BE6,0D
+15=*Abubo,FF6BE6,0E
+16=*Johann,FF6BE6,0F
+
+[12]
+Name=P2 第 1 角色
+0=Off
+1=Billy,FF6BF0,00
+2=Lynn,FF6BF0,01
+3=Radel,FF6BF0,02
+4=Annie,FF6BF0,03
+5=Cassandra,FF6BF0,04
+6=Oni,FF6BF0,05
+7=Pepe,FF6BF0,06
+8=Pupa,FF6BF0,07
+9=Alice,FF6BF0,08
+10=Elias,FF6BF0,09
+11=Jones,FF6BF0,0A
+12=Hang,FF6BF0,0B
+13=Sonia,FF6BF0,0C
+14=Jimmy,FF6BF0,0D
+15=*Abubo,FF6BF0,0E
+16=*Johann,FF6BF0,0F
+
+[13]
+Name=P2 第 2 角色
+0=Off
+1=Billy,FF6BF4,00
+2=Lynn,FF6BF4,01
+3=Radel,FF6BF4,02
+4=Annie,FF6BF4,03
+5=Cassandra,FF6BF4,04
+6=Oni,FF6BF4,05
+7=Pepe,FF6BF4,06
+8=Pupa,FF6BF4,07
+9=Alice,FF6BF4,08
+10=Elias,FF6BF4,09
+11=Jones,FF6BF4,0A
+12=Hang,FF6BF4,0B
+13=Sonia,FF6BF4,0C
+14=Jimmy,FF6BF4,0D
+15=*Abubo,FF6BF4,0E
+16=*Johann,FF6BF4,0F
+
+[14]
+Name=攻击无间隔
+0=Off
+1=P1,FF2454,FF
+2=P2,FF22DC,FF
+3=P1+P2,FF2454,FF,FF22DC,FF
+
+[15]
+Name=对战完 Bank
+0=Off
+1=SSS,FF69F2,07
+
+[16]
+Name=对战完 Bonus
+0=Off
+1=100000,FF0D84,A8
+
+[17]
+Name=可以悬空
+0=Off
+1=P1,FF2457,3E
+2=P2,FF22DF,3E
+3=P1+P2,FF2457,3E,FF22DF,3E
+
+[18]
+Name=99 连段数
+0=Off
+1=P1,FF2350,63
+2=P2,FF24C8,63
+3=P1+P2,FF2350,63,FF24C8,63
+
+[19]
+Name=关卡选择
+0=Off
+1=Stage 1,FF6908,00
+2=Stage 2,FF6908,01
+3=Stage 3,FF6908,02
+4=Stage 4,FF6908,03
+5=Stage 5,FF6908,04
+6=Stage 6,FF6908,05
+7=Stage 7,FF6908,06
+8=Stage 8,FF6908,07
+9=Stage 9,FF6908,08

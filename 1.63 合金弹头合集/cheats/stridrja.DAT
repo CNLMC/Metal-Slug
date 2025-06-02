@@ -1,0 +1,51 @@
+[0]
+Name=时间无限
+0=Off
+1=开启,FF0F6B,02,FF0F6A,58
+
+[1]
+Name=生命无限
+0=Off
+1=开启,FF0CA9,03
+
+[2]
+Name=体力无限
+0=Off
+1=开启 (好看而已没作用),FF0CE7,81,FF0CE6,81,FF0CE9,81,FF0CE8,81,FF0CEB,81
+
+[3]
+Name=人物无敌
+0=Off
+1=无敌,FF10E9,00
+2=稳身无敌,FF0CF4,6B
+
+[4]
+Name=无限 Psyfer (剑能力)
+0=Off
+1=开启,FF0CE2,FF
+
+[5]
+Name=分身攻击
+0=Off
+1=开启,FF0CE0,76
+
+[6]
+Name=Wolf 暂留时间无限
+0=Off
+1=开启,FF0CF9,00,FF0CF8,FF
+
+[7]
+Name=Pods
+0=Off
+1=One Pod,FF0CE5,01
+2=Two Pods,FF0CE5,02
+3=Wolf,FF0CE5,00,FF0CF9,FF
+
+[8]
+Name=关卡选择
+0=Off
+1=Stage 1,FF0CB3,00
+2=Stage 2,FF0CB3,01
+3=Stage 3,FF0CB3,02
+4=Stage 4,FF0CB3,03
+5=Stage 5,FF0CB3,04

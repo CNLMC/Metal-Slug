@@ -1,0 +1,113 @@
+[0]
+Name=投币数
+0=Off
+1=9,FF2388,09
+
+[1]
+Name=P1 生命无限
+0=Off
+1=开启,FF3F72,0A
+
+[2]
+Name=P1 炸弹无限
+0=Off
+1=开启,FF4304,05
+
+[3]
+Name=P1 火力最大
+0=Off
+1=开启,FF4302,08
+
+[4]
+Name=P1 飞机无敌
+0=Off
+1=开启,FF4321,05
+
+[5]
+Name=P1 飞机选择
+0=Off
+1=Gambler,FF39E4,00
+2=Militant,FF39E4,01
+
+[6]
+Name=P1 副机选择
+0=Off
+1=Type-Alpha,FF39E8,00
+2=Type-Beta,FF39E8,01
+3=Type-Gumma,FF39E8,02
+
+[7]
+Name=P1 活跃度全满
+0=Off
+1=开启,FF3782,48
+
+[8]
+Name=P1 安全度全满
+0=Off
+1=开启,FF3784,48
+
+[9]
+Name=P1 好感度全满
+0=Off
+1=开启,FF3786,48
+
+[10]
+Name=P2 生命无限
+0=Off
+1=开启,FF3F74,0A
+
+[11]
+Name=P2 炸弹无限
+0=Off
+1=开启,FF4364,05
+
+[12]
+Name=P2 火力最大
+0=Off
+1=开启,FF4362,08
+
+[13]
+Name=P2 飞机无敌
+0=Off
+1=开启,FF4381,05
+
+[14]
+Name=P2 飞机选择
+0=Off
+1=Gambler,FF39E6,00
+2=Militant,FF39E6,01
+
+[15]
+Name=P2 副机选择
+0=Off
+1=Type-Alpha,FF39EA,00
+2=Type-Beta,FF39EA,01
+3=Type-Gumma,FF39EA,02
+
+[16]
+Name=P2 活跃度全满
+0=Off
+1=开启,FF3788,48
+
+[17]
+Name=P2 安全度全满
+0=Off
+1=开启,FF378A,48
+
+[18]
+Name=P2 好感度全满
+0=Off
+1=开启,FF378C,48
+
+[19]
+Name=结局选择
+0=Off
+1=P1 坏结局,FF3782,00,FF3784,00,FF3786,00
+2=P1 真正结局,FF3782,48,FF3784,48,FF3786,48
+3=P2 坏结局,FF3788,00,FF378A,00,FF378C,00
+4=P2 真正结局,FF3788,48,FF378A,48,FF378C,48
+
+[20]
+Name=Open Shadow Stages
+0=Off
+1=开启,FF3EB4,00,FF3EB8,00

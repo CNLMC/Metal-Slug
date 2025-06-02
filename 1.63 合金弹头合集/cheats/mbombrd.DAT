@@ -1,0 +1,40 @@
+[0]
+Name=区域码
+0=Off
+1=Japan,FF9C0A,00
+2=USA,FF9C0A,01
+3=ETC,FF9C0A,02
+4=Asia,FF9C0A,03
+5=Hispanic,FF9C0A,04
+6=Japan(E),FF9C0A,05
+
+[1]
+Name=时间无限
+0=Off
+1=0:00,FFA00E,00
+2=9:59,FFA00D,09,FFA00C,05,FFA00F,0A
+3=停止,FFA00E,01
+
+[2]
+Name=P1 血槽
+0=Off
+1=无血,FF907A,00
+2=满血,FF907A,FF
+
+[3]
+Name=P2 血槽
+0=Off
+1=无血,FF927A,00
+2=满血,FF927A,FF
+
+[4]
+Name=P3 血槽
+0=Off
+1=无血,FF947A,00
+2=满血,FF947A,FF
+
+[5]
+Name=P4 血槽
+0=Off
+1=无血,FF967A,00
+2=满血,FF967A,FF
